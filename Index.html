@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookHive Scanner</title>
+    <style>
+        :root {
+            --honey-gold: #F4A460;
+            --warm-brown: #8B4513;
+            --deep-brown: #654321;
+            --cream: #FFF8DC;
+            --soft-amber: #FFE4B5;
+            --forest-green: #228B22;
+            --burnt-orange: #CC5500;
+            --bear-fur: #D2691E;
+            --shadow: rgba(139, 69, 19, 0.2);
+            --gradient-main: linear-gradient(135deg, var(--honey-gold) 0%, var(--bear-fur) 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, var(--cream) 0%, var(--soft-amber) 100%);
+            color: var(--deep-brown);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 1rem;
+        }
+
+        .popup-container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px var(--shadow);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .header {
+            background: var(--gradient-main);
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .bear-logo {
+            width: 60px;
+            height: 60px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            margin: 0 auto 1rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+
+        .content {
+            padding: 2rem;
+        }
+
+        .scanner-section {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nfc-scanner {
+            background: var(--gradient-main);
+            border-radius: 15px;
+            padding: 2rem;
+            color: white;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .nfc-scanner:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(244, 164, 96, 0.4);
+        }
+
+        .nfc-scanner.scanning {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+
+        .nfc-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .scan-animation {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80px;
+            height: 80px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            opacity: 0;
+        }
+
+        .nfc-scanner.scanning .scan-animation {
+            animation: scanRipple 2s infinite;
+        }
+
+        @keyframes scanRipple {
+            0% {
+                transform: translate(-50%, -50%) scale(0.5);
+                opacity: 1;
+            }
+            100% {
+                transform: translate(-50%, -50%) scale(2);
+                opacity: 0;
+            }
+        }
+
+        .scan-text {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .scan-btn {
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .scan-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .scan-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .demo-section {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .demo-btn {
+            background: var(--forest-green);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 0.5rem;
+        }
+
+        .demo-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(34, 139, 34, 0.4);
+        }
+
+        .results-container {
+            display: none;
+        }
+
+        .results-container.show {
+            display: block;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .book-info {
+            background: linear-gradient(135deg, var(--cream) 0%, white 100%);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-left: 5px solid var(--honey-gold);
+        }
+
+        .book-title {
+            color: var(--warm-brown);
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .book-author {
+            color: var(--deep-brown);
+            font-style: italic;
+            margin-bottom: 1rem;
+        }
+
+        .overall-rating {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .rating-stars {
+            font-size: 1.5rem;
+        }
+
+        .rating-number {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: var(--warm-brown);
+        }
+
+        .api-sources {
+            display: grid;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .api-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            border-left: 4px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .api-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        .api-card.nyt {
+            border-left-color: #000;
+        }
+
+        .api-card.google {
+            border-left-color: #4285f4;
+        }
+
+        .api-card.goodreads {
+            border-left-color: #553b08;
+        }
+
+        .api-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .api-logo {
+            font-size: 1.2rem;
+            margin-right: 0.5rem;
+        }
+
+        .api-name {
+            font-weight: 600;
+            color: var(--deep-brown);
+            flex: 1;
+        }
+
+        .api-rating {
+            font-size: 0.9rem;
+            color: var(--honey-gold);
+            font-weight: 600;
+        }
+
+        .api-description {
+            font-size: 0.85rem;
+            color: var(--deep-brown);
+            opacity: 0.8;
+            line-height: 1.4;
+        }
+
+        .loading-container {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--soft-amber);
+            border-top: 3px solid var(--honey-gold);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error-message {
+            background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+            border: 1px solid #f44336;
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+            color: #c62828;
+        }
+
+        .error-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .back-btn {
+            width: 100%;
+            background: var(--gradient-main);
+            color: white;
+            border: none;
+            padding: 1rem;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .back-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(244, 164, 96, 0.4);
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 0.5rem;
+            }
+            
+            .popup-container {
+                max-width: 100%;
+            }
+            
+            .content {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="popup-container">
+        <div class="header">
+            <div class="bear-logo">🐻</div>
+            <h1>BookHive Scanner</h1>
+            <p>Scan your book for instant reviews & ratings</p>
+        </div>
+
+        <div class="content">
+            <div class="scanner-section" id="scannerSection">
+                <div class="nfc-scanner" id="nfcScanner" onclick="startScan()">
+                    <div class="nfc-icon">📚</div>
+                    <div class="scan-animation"></div>
+                    <p class="scan-text" id="scanText">Tap to scan your book</p>
+                    <button class="scan-btn" id="scanBtn">Start NFC Scan</button>
+                </div>
+                
+                <div class="demo-section">
+                    <p style="margin-bottom: 1rem; color: var(--deep-brown);">Or try these demo books:</p>
+                    <button class="demo-btn" onclick="fetchBookData('9780439708180')">Harry Potter</button>
+                    <button class="demo-btn" onclick="fetchBookData('9780544003415')">The Hobbit</button>
+                    <button class="demo-btn" onclick="fetchBookData('9780142437230')">1984</button>
+                </div>
+            </div>
+
+            <div class="loading-container" id="loadingContainer" style="display: none;">
+                <div class="loading-spinner"></div>
+                <h3>🐻 Gathering reviews...</h3>
+                <p>Fetching data from Google Books...</p>
+            </div>
+
+            <div class="results-container" id="resultsContainer">
+                <!-- Results will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // API Configuration - Replace with your actual keys
+        const API_CONFIG = {
+            nyt: {
+                baseUrl: 'https://api.nytimes.com/svc/books/v3',
+                key: 'GGrsjyxOnT7Y0CJoKG1xhoxE8bY7t601' // Your NYT API key
+            },
+            googleBooks: {
+                baseUrl: 'https://www.googleapis.com/books/v1/volumes',
+                key: '' // Google Books API doesn't require a key for basic searches
+            },
+            goodreads: {
+                baseUrl: 'https://goodreads12.p.rapidapi.com',
+                headers: {
+                    'X-RapidAPI-Key': '51a8a9372bmsh2f34d721a9107dbp1abc94jsn3e9aaaa6b12d', // Your RapidAPI key
+                    'X-RapidAPI-Host': 'goodreads12.p.rapidapi.com'
+                }
+            }
+        };
+
+        let isScanning = false;
+        let currentBookData = {};
+
+        async function startScan() {
+            if (isScanning) return;
+            
+            const scanner = document.getElementById('nfcScanner');
+            const scanText = document.getElementById('scanText');
+            const scanBtn = document.getElementById('scanBtn');
+            
+            isScanning = true;
+            scanner.classList.add('scanning');
+            scanText.textContent = 'Hold book near device...';
+            scanBtn.textContent = 'Scanning...';
+            scanBtn.disabled = true;
+
+            try {
+                // Check if Web NFC is supported
+                if ('NDEFReader' in window) {
+                    const ndef = new NDEFReader();
+                    await ndef.scan();
+                    
+                    ndef.addEventListener('reading', ({ message }) => {
+                        handleNFCRead(message);
+                    });
+                    
+                    // Auto-stop after 30 seconds
+                    setTimeout(() => {
+                        if (isScanning) {
+                            stopScan();
+                            showError('No NFC tag detected. Try the demo books below or check if your device supports NFC.');
+                        }
+                    }, 10000);
+                    
+                } else {
+                    stopScan();
+                    showError('NFC not supported on this device. Try the demo books below!');
+                }
+            } catch (error) {
+                console.error('NFC Error:', error);
+                stopScan();
+                showError('NFC permission denied or not available. Try the demo books below!');
+            }
+        }
+
+        function stopScan() {
+            const scanner = document.getElementById('nfcScanner');
+            const scanText = document.getElementById('scanText');
+            const scanBtn = document.getElementById('scanBtn');
+            
+            isScanning = false;
+            scanner.classList.remove('scanning');
+            scanText.textContent = 'Tap to scan your book';
+            scanBtn.textContent = 'Start NFC Scan';
+            scanBtn.disabled = false;
+        }
+
+        function handleNFCRead(message) {
+            let bookIdentifier = null;
+            
+            for (const record of message.records) {
+                if (record.recordType === 'text') {
+                    const textDecoder = new TextDecoder(record.encoding);
+                    bookIdentifier = textDecoder.decode(record.data);
+                    break;
+                } else if (record.recordType === 'url') {
+                    // Handle URL records (might contain ISBN or book info)
+                    const textDecoder = new TextDecoder();
+                    const url = textDecoder.decode(record.data);
+                    // Extract ISBN from URL if present
+                    const isbnMatch = url.match(/isbn[=\/]?(\d{10,13})/i);
+                    if (isbnMatch) {
+                        bookIdentifier = isbnMatch[1];
+                    }
+                    break;
+                }
+            }
+            
+            if (bookIdentifier) {
+                fetchBookData(bookIdentifier);
+            } else {
+                showError('Could not read book information from NFC tag. Make sure the tag contains an ISBN or book title.');
+            }
+            stopScan();
+        }
+
+        async function fetchBookData(identifier) {
+            showLoading();
+            
+            try {
+                // Fetch from multiple sources
+                const [googleData, nytData] = await Promise.allSettled([
+                    fetchGoogleBooksData(identifier),
+                    fetchNYTData(identifier)
+                ]);
+                
+                console.log('Google Data:', googleData);
+                console.log('NYT Data:', nytData);
+                
+                if (googleData.status === 'fulfilled' && googleData.value && googleData.value.items && googleData.value.items.length > 0) {
+                    const book = googleData.value.items[0].volumeInfo;
+                    const combinedData = {
+                        identifier: identifier,
+                        title: book.title || 'Unknown Title',
+                        authors: book.authors || ['Unknown Author'],
+                        description: book.description || 'No description available',
+                        overallRating: book.averageRating || 0,
+                        totalRatings: book.ratingsCount || 0,
+                        sources: []
+                    };
+
+                    // Add Google Books source
+                    if (book.averageRating) {
+                        combinedData.sources.push({
+                            name: 'Google Books',
+                            logo: '📚',
+                            rating: book.averageRating,
+                            ratingCount: book.ratingsCount,
+                            description: `${book.ratingsCount || 0} reader ratings on Google Books`,
+                            type: 'google'
+                        });
+                    }
+
+                    // Add NYT review if available
+                    if (nytData.status === 'fulfilled' && nytData.value && nytData.value.results && nytData.value.results.length > 0) {
+                        const nytReview = nytData.value.results[0];
+                        combinedData.sources.push({
+                            name: 'NY Times',
+                            logo: '📰',
+                            rating: 'Reviewed',
+                            ratingCount: null,
+                            description: nytReview.summary || 'Featured in NY Times Book Review',
+                            type: 'nyt'
+                        });
+                    }
+
+                    // Add book description as a "source"
+                    if (book.description) {
+                        combinedData.sources.push({
+                            name: 'Book Description',
+                            logo: '📖',
+                            rating: null,
+                            ratingCount: null,
+                            description: book.description.substring(0, 200) + (book.description.length > 200 ? '...' : ''),
+                            type: 'description'
+                        });
+                    }
+
+                    displayResults(combinedData);
+                } else {
+                    console.error('No Google Books data found');
+                    showError(`No book found with identifier "${identifier}". Try searching by title or a different ISBN.`);
+                }
+                
+            } catch (error) {
+                console.error('Error fetching book data:', error);
+                showError(`Failed to fetch book information: ${error.message}. Please check your internet connection and try again.`);
+            }
+        }
+
+        async function fetchGoogleBooksData(identifier) {
+            try {
+                // Try different search strategies
+                let searchQuery;
+                if (/^\d{10,13}$/.test(identifier)) {
+                    // If it looks like an ISBN
+                    searchQuery = `isbn:${identifier}`;
+                } else {
+                    // If it's a title or other identifier
+                    searchQuery = identifier;
+                }
+
+                const url = `${API_CONFIG.googleBooks.baseUrl}?q=${encodeURIComponent(searchQuery)}&maxResults=1`;
+                console.log('Fetching from:', url);
+                
+                const response = await fetch(url, {
+                    method: 'GET',
+                    headers: {
+                        'Accept': 'application/json',
+                    }
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                console.log('Google Books response:', data);
+                return data;
+            } catch (error) {
+                console.error('Google Books API Error:', error);
+                // Try a fallback search
+                if (/^\d{10,13}$/.test(identifier)) {
+                    try {
+                        const fallbackUrl = `${API_CONFIG.googleBooks.baseUrl}?q=${identifier}&maxResults=1`;
+                        console.log('Trying fallback:', fallbackUrl);
+                        const fallbackResponse = await fetch(fallbackUrl);
+                        if (fallbackResponse.ok) {
+                            return await fallbackResponse.json();
+                        }
+                    } catch (fallbackError) {
+                        console.error('Fallback also failed:', fallbackError);
+                    }
+                }
+                throw error;
+            }
+        }
+
+        // NYT and Goodreads functions for when you get the APIs working
+        async function fetchNYTData(identifier) {
+            try {
+                // NYT API expects ISBN-10 or ISBN-13
+                if (!/^\d{10,13}$/.test(identifier)) {
+                    return null; // NYT only works with ISBNs
+                }
+                
+                const response = await fetch(`${API_CONFIG.nyt.baseUrl}/reviews.json?isbn=${identifier}&api-key=${API_CONFIG.nyt.key}`);
+                
+                if (response.status === 200) {
+                    const data = await response.json();
+                    console.log('NYT API Response:', data);
+                    return data;
+                } else if (response.status === 403) {
+                    console.error('NYT API: Invalid API key');
+                    return null;
+                } else if (response.status === 429) {
+                    console.error('NYT API: Rate limit exceeded');
+                    return null;
+                } else {
+                    console.error('NYT API Error:', response.status);
+                    return null;
+                }
+            } catch (error) {
+                console.error('NYT API Error:', error);
+                return null;
+            }
+        }
+
+        async function fetchGoodreadsData(identifier) {
+            try {
+                const response = await fetch(`${API_CONFIG.goodreads.baseUrl}/book/isbn/${identifier}`, {
+                    headers: API_CONFIG.goodreads.headers
+                });
+                if (!response.ok) throw new Error('Goodreads API Error');
+                return await response.json();
+            } catch (error) {
+                console.error('Goodreads API Error:', error);
+                return null;
+            }
+        }
+
+        function displayResults(bookData) {
+            currentBookData = bookData;
+            
+            const resultsContainer = document.getElementById('resultsContainer');
+            
+            const starsHTML = bookData.overallRating > 0 ? 
+                '⭐'.repeat(Math.floor(bookData.overallRating)) + 
+                (bookData.overallRating % 1 >= 0.5 ? '✨' : '') : 
+                'No ratings available';
+
+            const sourcesHTML = bookData.sources.map(source => `
+                <div class="api-card ${source.type}">
+                    <div class="api-header">
+                        <span class="api-logo">${source.logo}</span>
+                        <span class="api-name">${source.name}</span>
+                        <span class="api-rating">
+                            ${source.rating ? 
+                                (typeof source.rating === 'number' ? 
+                                    `${source.rating}/5 ⭐` : 
+                                    source.rating) : 
+                                ''}
+                        </span>
+                    </div>
+                    <p class="api-description">${source.description || 'No additional information available'}</p>
+                </div>
+            `).join('');
+
+            resultsContainer.innerHTML = `
+                <div class="book-info">
+                    <h2 class="book-title">${bookData.title}</h2>
+                    <p class="book-author">by ${bookData.authors.join(', ')}</p>
+                    <div class="overall-rating">
+                        <span class="rating-stars">${starsHTML}</span>
+                        ${bookData.overallRating > 0 ? `
+                            <span class="rating-number">${bookData.overallRating.toFixed(1)}/5</span>
+                        ` : ''}
+                    </div>
+                    ${bookData.totalRatings > 0 ? `<p>Based on ${bookData.totalRatings.toLocaleString()} reviews</p>` : ''}
+                </div>
+                
+                <div class="api-sources">
+                    ${sourcesHTML}
+                </div>
+                
+                <button class="back-btn" onclick="resetScanner()">
+                    Scan Another Book
+                </button>
+            `;
+
+            hideLoading();
+            resultsContainer.classList.add('show');
+            document.getElementById('scannerSection').style.display = 'none';
+        }
+
+        function showLoading() {
+            document.getElementById('scannerSection').style.display = 'none';
+            document.getElementById('loadingContainer').style.display = 'block';
+            document.getElementById('resultsContainer').classList.remove('show');
+        }
+
+        function hideLoading() {
+            document.getElementById('loadingContainer').style.display = 'none';
+        }
+
+        function showError(message) {
+            const resultsContainer = document.getElementById('resultsContainer');
+            resultsContainer.innerHTML = `
+                <div class="error-message">
+                    <div class="error-icon">🐻</div>
+                    <h3>Oops!</h3>
+                    <p>${message}</p>
+                    <button class="back-btn" onclick="resetScanner()" style="margin-top: 1rem;">
+                        Try Again
+                    </button>
+                </div>
+            `;
+            
+            hideLoading();
+            resultsContainer.classList.add('show');
+            document.getElementById('scannerSection').style.display = 'none';
+        }
+
+        function resetScanner() {
+            document.getElementById('scannerSection').style.display = 'block';
+            document.getElementById('resultsContainer').classList.remove('show');
+            hideLoading();
+            stopScan();
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('BookHive Scanner Ready');
+            
+            // Check NFC support
+            if (!('NDEFReader' in window)) {
+                console.log('NFC not supported - demo mode available');
+            }
+        });
+    </script>
+</body>
+</html>
