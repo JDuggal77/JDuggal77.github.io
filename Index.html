@@ -532,41 +532,19 @@
         }
 
         function checkNFCSupport() {
-            const isHTTPS = window.location.protocol === 'https:' || window.location.hostname === 'localhost';
-            const hasNDEF = 'NDEFReader' in window;
-            
-            debugLog(`HTTPS check: ${isHTTPS}, NDEF available: ${hasNDEF}`);
-            
-            if (hasNDEF && isHTTPS) {
-                nfcSupported = true;
-                debugLog('NFC is fully supported');
-                showNFCStatus('NFC ready - tap to scan', 'success');
-            } else {
-                nfcSupported = false;
-                
-                let errorMsg = 'NFC not available: ';
-                if (!hasNDEF) {
-                    errorMsg += 'Browser not supported (needs Chrome/Edge on Android)';
-                } else if (!isHTTPS) {
-                    errorMsg += 'Requires HTTPS connection';
-                }
-                
-                debugLog(`NFC not supported: ${errorMsg}`);
-                showNFCStatus(errorMsg, 'error');
-                
-                const scanText = document.getElementById('scanText');
-                const scanBtn = document.getElementById('scanBtn');
-                const securityWarning = document.getElementById('securityWarning');
-                
-                scanText.textContent = 'NFC unavailable - try demo books';
-                scanBtn.textContent = 'Use Demo Books';
-                securityWarning.style.display = 'block';
-                
-                const scanner = document.getElementById('nfcScanner');
-                scanner.classList.add('disabled');
-                scanner.onclick = null;
-            }
-        }
+    const isHTTPS = window.location.protocol === 'https:' || window.location.hostname === 'localhost';
+    const hasNDEF = 'NDEFReader' in window;
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+    
+    if (hasNDEF && isHTTPS) {
+        nfcSupported = true; // Android Chrome/Edge
+    } else if (isIOS && isHTTPS) {
+        nfcSupported = true; // Allow iOS to try
+        showNFCStatus('iPhone detected - tap NFC tag to Safari', 'success');
+    } else {
+        // Show not supported
+    }
+}
 
         function showNFCStatus(message, type = '') {
             const statusDiv = document.getElementById('nfcStatus');
