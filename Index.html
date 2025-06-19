@@ -949,8 +949,14 @@ async function fetchBookData(isbn) {
 }
 async function fetchNYTReviews(title, author) {
     try {
-        // NYT Books API endpoint
-        const response = await fetch(`https://api.nytimes.com/svc/books/v3/reviews.json?title=${encodeURIComponent(title)}&author=${encodeURIComponent(author)}&api-key="GGrsjyxOnT7Y0CJoKG1xhoxE8bY7t601");
+        // Skip if no API key is set
+        const apiKey = "your-actual-api-key-here";
+        if (!apiKey || apiKey === "your-actual-api-key-here") {
+            debugLog("NYT API key not configured");
+            return null;
+        }
+        
+        const response = await fetch(`https://api.nytimes.com/svc/books/v3/reviews.json?title=${encodeURIComponent(title)}&author=${encodeURIComponent(author)}&api-key=${apiKey}`);
         
         if (!response.ok) {
             throw new Error(`NYT API error: ${response.status}`);
@@ -965,7 +971,7 @@ async function fetchNYTReviews(title, author) {
                 reviewer: review.byline || 'NYT Staff',
                 reviewDate: review.publication_dt || '',
                 url: review.url || '',
-                rating: 4.0 // NYT doesn't provide numeric ratings, so we'll use a default
+                rating: 4.0
             };
         }
         return null;
@@ -978,8 +984,15 @@ async function fetchNYTReviews(title, author) {
         if (bookData) {
     // Fetch additional data from Open Library
    // Fetch additional data from Open Library and NYT
+// Fetch additional data from Open Library and NYT
 const openLibData = await fetchOpenLibraryData(isbn);
-const nytData = await fetchNYTReviews(bookData.title, bookData.author);
+let nytData = null;
+
+try {
+    nytData = await fetchNYTReviews(bookData.title, bookData.author);
+} catch (error) {
+    debugLog(`NYT fetch failed, continuing without it: ${error.message}`);
+}
 
 // Combine the data
 bookData.openLibrary = openLibData;
