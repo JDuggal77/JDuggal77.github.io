@@ -502,10 +502,21 @@
         let scanTimeout = null;
         let nfcSupported = false;
 
-        // Initialize NFC support check
-        document.addEventListener('DOMContentLoaded', function() {
-            checkNFCSupport();
-        });
+       // Initialize NFC support check
+document.addEventListener('DOMContentLoaded', function() {
+    checkForURLISBN(); // Add this line
+    checkNFCSupport();
+});
+
+// Add this new function right after the above code
+function checkForURLISBN() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const isbn = urlParams.get('isbn');
+    if (isbn) {
+        debugLog(`ISBN found in URL: ${isbn}`);
+        fetchBookData(isbn);
+    }
+}
 
         function debugLog(message) {
             const timestamp = new Date().toLocaleTimeString();
