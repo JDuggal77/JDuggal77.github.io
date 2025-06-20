@@ -558,6 +558,20 @@ const AI_APIS = {
         }
     }
 };
+            // Add these functions after isValidISBN function
+async function generateBookStats(title, author, publishYear, genre = '') {
+    // [The complete generateBookStats function from the guide]
+}
+
+function generateFallbackStats(title, author, publishYear) {
+    // [The complete generateFallbackStats function from the guide]
+}
+
+function formatReviewCount(count) {
+    // [The complete formatReviewCount function from the guide]
+}
+
+       // Add these functions to your existing JavaScript section
         let isScanning = false;
         let currentBookData = {};
         let nfcReader = null;
@@ -897,20 +911,7 @@ function checkForURLISBN() {
             return false;
         }
 
-    // Add these functions after isValidISBN function
-async function generateBookStats(title, author, publishYear, genre = '') {
-    // [The complete generateBookStats function from the guide]
-}
 
-function generateFallbackStats(title, author, publishYear) {
-    // [The complete generateFallbackStats function from the guide]
-}
-
-function formatReviewCount(count) {
-    // [The complete formatReviewCount function from the guide]
-}
-
-       // Add these functions to your existing JavaScript section
 function displayBookWithEstimates(bookData) {
     let badge = '';
     if (bookData.isEstimated) {
@@ -948,14 +949,6 @@ async function fetchBookData(isbn) {
     
     showLoading();
             // Right after you create bookData object, add:
-console.log('Generating AI stats for book...');
-
-const aiStats = await generateBookStats(
-    bookData.title,
-    bookData.author,
-    bookData.publishedDate?.substring(0, 4) || '2020',
-    bookData.categories[0] || ''
-);
 
 // Enhance the rating and review data
 const useAIStats = bookData.ratingCount < 50 || bookData.rating === 0;
@@ -1172,6 +1165,7 @@ bookData.nytReview = nytData;
         showError(`Failed to fetch book data: ${error.message}`);
     }
 }
+        }
         // Show loading state
 function showLoading() {
     document.getElementById('scannerSection').style.display = 'none';
@@ -1209,21 +1203,7 @@ function generateBookHTML(bookData) {
     } else if (bookData.ratingCount > 0) {
         badge = '<span class="verified-badge">✓ Verified Data</span>';
     }
-      const stars = generateStars(bookData.rating);
-    const coverImg = bookData.coverImage ? 
-        `<img src="${bookData.coverImage}" alt="Book Cover" class="book-cover" onerror="this.style.display='none'">` : '';
-    
-    return `
-        <div class="book-info">
-            ${coverImg}
-            <h2 class="book-title">${bookData.title}</h2>
-            <p class="book-author">by ${bookData.author}</p>
-            
-            <div class="overall-rating">
-                <div class="rating-stars">${stars}</div>
-                <div class="rating-number">${bookData.rating.toFixed(1)}</div>
-                <div class="rating-count">(${formatReviewCount(bookData.ratingCount)}) ${badge}</div>
-            </div>
+     
     const stars = generateStars(bookData.rating);
     const coverImg = bookData.coverImage ? 
         `<img src="${bookData.coverImage}" alt="Book Cover" class="book-cover" onerror="this.style.display='none'">` : '';
