@@ -105,53 +105,6 @@
             transform: translateY(-2px);
             box-shadow: 0 10px 30px rgba(244, 164, 96, 0.4);
         }
-        .estimated-badge {
-    background: #e3f2fd;
-    color: #1976d2;
-    padding: 2px 6px;
-    border-radius: 12px;
-    font-size: 12px;
-    margin-left: 8px;
-}
-
-.enhanced-badge {
-    background: #f3e5f5;
-    color: #7b1fa2;
-    padding: 2px 6px;
-    border-radius: 12px;
-    font-size: 12px;
-    margin-left: 8px;
-}
-
-.verified-badge {
-    background: #e8f5e8;
-    color: #2e7d32;
-    padding: 2px 6px;
-    border-radius: 12px;
-    font-size: 12px;
-    margin-left: 8px;
-}
-
-.rating-section {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin: 10px 0;
-}
-
-.stars {
-    font-size: 18px;
-}
-
-.rating-text {
-    font-weight: bold;
-    color: #333;
-}
-
-.review-count {
-    color: #666;
-    font-size: 14px;
-}
 
         .nfc-scanner.scanning {
             animation: pulse 2s infinite;
@@ -548,30 +501,6 @@
     </div>
 
     <script>
-        // Add this at the very top of your main JavaScript file
-const AI_APIS = {
-    cohere: {
-        url: 'https://api.cohere.ai/v1/generate',
-        headers: { 
-            'Authorization': 'Bearer gLNgNqDINkb5k1Bqegy6jWz2vMvblQQsU0jm4dRl', // Replace with your actual key
-            'Content-Type': 'application/json'
-        }
-    }
-};
-            // Add these functions after isValidISBN function
-async function generateBookStats(title, author, publishYear, genre = '') {
-    // [The complete generateBookStats function from the guide]
-}
-
-function generateFallbackStats(title, author, publishYear) {
-    // [The complete generateFallbackStats function from the guide]
-}
-
-function formatReviewCount(count) {
-    // [The complete formatReviewCount function from the guide]
-}
-
-       // Add these functions to your existing JavaScript section
         let isScanning = false;
         let currentBookData = {};
         let nfcReader = null;
@@ -911,85 +840,12 @@ function checkForURLISBN() {
             return false;
         }
 
+       // Add these functions to your existing JavaScript section
 
-function displayBookWithEstimates(bookData) {
-    let badge = '';
-    if (bookData.isEstimated) {
-        badge = '<span class="estimated-badge">📊 AI Generated</span>';
-    } else if (bookData.isEnhanced) {
-        badge = '<span class="enhanced-badge">🚀 AI Enhanced</span>';
-    } else if (bookData.ratingCount > 0) {
-        badge = '<span class="verified-badge">✓ Verified Data</span>';
-    }
-
-    return `
-        <div class="book-info-enhanced">
-            <h2>${bookData.title}</h2>
-            <p><strong>By:</strong> ${bookData.author}</p>
-            
-            <div class="rating-section">
-                <span class="stars">${'⭐'.repeat(Math.round(bookData.rating))}</span>
-                <span class="rating-text">${bookData.rating.toFixed(1)}/5</span>
-                <span class="review-count">(${formatReviewCount(bookData.ratingCount)})</span>
-                ${badge}
-            </div>
-            
-            <p><strong>Published:</strong> ${bookData.publishedDate}</p>
-            <p><strong>Categories:</strong> ${bookData.categories.join(', ')}</p>
-            <p><strong>Description:</strong> ${bookData.description.substring(0, 300)}...</p>
-            
-            <small>Data from: ${bookData.source}</small>
-            
-            ${bookData.coverImage ? `<img src="${bookData.coverImage}" alt="Book cover" style="max-width: 200px; margin-top: 10px;">` : ''}
-        </div>
-    `;
-}
 async function fetchBookData(isbn) {
     debugLog(`Fetching book data for ISBN: ${isbn}`);
     
     showLoading();
-            // Right after you create bookData object, add:
-
-// Enhance the rating and review data
-const useAIStats = bookData.ratingCount < 50 || bookData.rating === 0;
-
-if (useAIStats) {
-    bookData.rating = aiStats.rating;
-    bookData.ratingCount = aiStats.reviewCount;
-    bookData.isEstimated = true;
-    bookData.source = 'Google Books + ' + aiStats.source;
-} else {
-    const aiBoost = Math.random() * 0.3 + 0.8;
-    bookData.ratingCount = Math.round(bookData.ratingCount * aiBoost + aiStats.reviewCount * 0.3);
-    bookData.rating = (bookData.rating * 0.7 + aiStats.rating * 0.3);
-    bookData.isEnhanced = true;
-    bookData.source = 'Google Books + AI Enhanced';
-}
-        // At the end of fetchBookData function, after AI enhancement:
-
-
-// Or however you currently display book information
-        async function fetchOpenLibraryData(isbn) {
-    try {
-        const response = await fetch(`https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&format=json&jscmd=data`);
-        const data = await response.json();
-        const bookKey = `ISBN:${isbn}`;
-        
-        if (data[bookKey]) {
-            return {
-                rating: data[bookKey].ratings?.average || 0,
-                ratingCount: data[bookKey].ratings?.count || 0,
-                description: data[bookKey].excerpts?.[0]?.text || 'Community library database',
-                subjects: data[bookKey].subjects?.slice(0, 3) || []
-            };
-        }
-        
-        return null;
-    } catch (error) {
-        debugLog(`Open Library error: ${error.message}`);
-        return null;
-    }
-}
     
     try {
         // Try multiple search patterns for better results
@@ -1070,10 +926,27 @@ if (useAIStats) {
                 debugLog(`Search query "${query}" failed: ${error.message}`);
                 continue;
             }
-            
         }
-
-
+        async function fetchOpenLibraryData(isbn) {
+    try {
+        const response = await fetch(`https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&format=json&jscmd=data`);
+        const data = await response.json();
+        const bookKey = `ISBN:${isbn}`;
+        
+        if (data[bookKey]) {
+            return {
+                rating: data[bookKey].ratings?.average || 0,
+                ratingCount: data[bookKey].ratings?.count || 0,
+                description: data[bookKey].excerpts?.[0]?.text || 'Community library database',
+                subjects: data[bookKey].subjects?.slice(0, 3) || []
+            };
+        }
+        return null;
+    } catch (error) {
+        debugLog(`Open Library error: ${error.message}`);
+        return null;
+    }
+}
 async function fetchNYTReviews(title, author) {
     try {
         // Skip if no API key is set
@@ -1108,52 +981,34 @@ async function fetchNYTReviews(title, author) {
     }
 }
     
-if (bookData) {
-    // Add AI enhancement
-    console.log('Generating AI stats for book...');
-    
-    const aiStats = await generateBookStats(
-        bookData.title,
-        bookData.author,
-        bookData.publishedDate?.substring(0, 4) || '2020',
-        bookData.categories[0] || ''
-    );
-    
-    // Enhance the rating and review data
-    const useAIStats = bookData.ratingCount < 50 || bookData.rating === 0;
-    
-    if (useAIStats) {
-        bookData.rating = aiStats.rating;
-        bookData.ratingCount = aiStats.reviewCount;
-        bookData.isEstimated = true;
-        bookData.source = 'Google Books + ' + aiStats.source;
-    } else {
-        const aiBoost = Math.random() * 0.3 + 0.8;
-        bookData.ratingCount = Math.round(bookData.ratingCount * aiBoost + aiStats.reviewCount * 0.3);
-        bookData.rating = (bookData.rating * 0.7 + aiStats.rating * 0.3);
-        bookData.isEnhanced = true;
-        bookData.source = 'Google Books + AI Enhanced';
-    }
+        if (bookData) {
+    // Fetch additional data from Open Library
+   // Fetch additional data from Open Library and NYT
+// Fetch additional data from Open Library and NYT
+const openLibData = await fetchOpenLibraryData(isbn);
+let nytData = null;
 
-    // Fetch additional data from Open Library and NYT
-    const openLibData = await fetchOpenLibraryData(isbn);
-    let nytData = null;
+try {
+    nytData = await fetchNYTReviews(bookData.title, bookData.author);
+} catch (error) {
+    debugLog(`NYT fetch failed, continuing without it: ${error.message}`);
+}
 
-    try {
-        nytData = await fetchNYTReviews(bookData.title, bookData.author);
-    } catch (error) {
-        debugLog(`NYT fetch failed, continuing without it: ${error.message}`);
-    }
-
-    // Combine the data
-    bookData.openLibrary = openLibData;
-    bookData.nytReview = nytData;
+// Combine the data
+bookData.openLibrary = openLibData;
+bookData.nytReview = nytData;
     currentBookData = bookData;
     displayResults(bookData);
-} else {
-    showError(`No book found for ISBN: ${isbn}. Please verify the ISBN is correct.`);
 }
+        else {
+            showError(`No book found for ISBN: ${isbn}. Please verify the ISBN is correct.`);
         }
+        
+    } catch (error) {
+        debugLog(`fetchBookData error: ${error.message}`);
+        showError(`Failed to fetch book data: ${error.message}`);
+    }
+}
         // Show loading state
 function showLoading() {
     document.getElementById('scannerSection').style.display = 'none';
@@ -1183,15 +1038,6 @@ function showError(message) {
 
 // Generate HTML for book display
 function generateBookHTML(bookData) {
-    let badge = '';
-    if (bookData.isEstimated) {
-        badge = '<span class="estimated-badge">📊 AI Generated</span>';
-    } else if (bookData.isEnhanced) {
-        badge = '<span class="enhanced-badge">🚀 AI Enhanced</span>';
-    } else if (bookData.ratingCount > 0) {
-        badge = '<span class="verified-badge">✓ Verified Data</span>';
-    }
-     
     const stars = generateStars(bookData.rating);
     const coverImg = bookData.coverImage ? 
         `<img src="${bookData.coverImage}" alt="Book Cover" class="book-cover" onerror="this.style.display='none'">` : '';
@@ -1284,78 +1130,4 @@ function resetToScanner() {
         showNFCStatus('NFC ready - tap to scan', 'success');
     }
 }
-        // Add these as new functions in your JavaScript file
-
-async function generateBookStats(title, author, publishYear, genre = '') {
-    const bookAge = 2025 - parseInt(publishYear);
-    const prompt = `Generate realistic book review statistics for "${title}" by ${author} published in ${publishYear}. Consider: author popularity, book age (${bookAge} years), genre (${genre}). Return JSON with: rating (3.5-4.8), reviewCount (50-5000), confidence (low/medium/high). Be realistic - older books have more reviews, popular authors get more ratings.`;
-
-    try {
-        const response = await fetch(AI_APIS.cohere.url, {
-            method: 'POST',
-            headers: AI_APIS.cohere.headers,
-            body: JSON.stringify({
-                model: 'command-light',
-                prompt: prompt,
-                max_tokens: 100,
-                temperature: 0.7
-            })
-        });
-
-        const aiResponse = await response.json();
-        const aiText = aiResponse.generations[0].text;
-
-        try {
-            const stats = JSON.parse(aiText);
-            return {
-                rating: Math.min(5.0, Math.max(3.0, stats.rating)),
-                reviewCount: Math.max(10, stats.reviewCount),
-                confidence: stats.confidence || 'medium',
-                isEstimated: true,
-                source: 'AI Estimated'
-            };
-        } catch (parseError) {
-            return generateFallbackStats(title, author, publishYear);
-        }
-
-    } catch (error) {
-        console.log('AI generation failed, using fallback:', error);
-        return generateFallbackStats(title, author, publishYear);
-    }
-}
-
-function generateFallbackStats(title, author, publishYear) {
-    const bookAge = 2025 - parseInt(publishYear);
-    const isClassic = bookAge > 20;
-    const isRecent = bookAge < 5;
-
-    let baseReviews = isClassic ? 800 : isRecent ? 150 : 400;
-    let baseRating = 4.0 + (Math.random() * 0.6 - 0.3);
-
-    const popularAuthors = ['Stephen King', 'J.K. Rowling', 'George R.R. Martin', 'Agatha Christie'];
-    if (popularAuthors.some(name => author.includes(name))) {
-        baseReviews *= 3;
-        baseRating += 0.2;
-    }
-
-    const reviewVariation = Math.random() * 0.5 + 0.75;
-    const finalReviews = Math.round(baseReviews * reviewVariation);
-
-    return {
-        rating: Math.min(5.0, Math.max(3.2, baseRating)),
-        reviewCount: Math.max(25, finalReviews),
-        confidence: 'estimated',
-        isEstimated: true,
-        source: 'Algorithm Estimated'
-    };
-}
-
-function formatReviewCount(count) {
-    if (count === 0) return 'No reviews yet';
-    if (count < 10) return `${count} reviews`;
-    if (count < 100) return `${count} reviews`;
-    if (count < 1000) return `${count}+ reviews`;
-    return `${(count/1000).toFixed(1)}k+ reviews`;
-}
-        
     </script>        
