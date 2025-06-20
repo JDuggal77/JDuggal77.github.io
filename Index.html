@@ -1108,8 +1108,7 @@ async function fetchNYTReviews(title, author) {
     }
 }
     
-        if (bookData) {
-    // Fetch additional data from Ope
+if (bookData) {
     // Add AI enhancement
     console.log('Generating AI stats for book...');
     
@@ -1138,32 +1137,21 @@ async function fetchNYTReviews(title, author) {
 
     // Fetch additional data from Open Library and NYT
     const openLibData = await fetchOpenLibraryData(isbn);
-    // ... rest of existing code
-   // Fetch additional data from Open Library and NYT
-// Fetch additional data from Open Library and NYT
-const openLibData = await fetchOpenLibraryData(isbn);
-let nytData = null;
+    let nytData = null;
 
-try {
-    nytData = await fetchNYTReviews(bookData.title, bookData.author);
-} catch (error) {
-    debugLog(`NYT fetch failed, continuing without it: ${error.message}`);
-}
+    try {
+        nytData = await fetchNYTReviews(bookData.title, bookData.author);
+    } catch (error) {
+        debugLog(`NYT fetch failed, continuing without it: ${error.message}`);
+    }
 
-// Combine the data
-bookData.openLibrary = openLibData;
-bookData.nytReview = nytData;
+    // Combine the data
+    bookData.openLibrary = openLibData;
+    bookData.nytReview = nytData;
     currentBookData = bookData;
     displayResults(bookData);
-}
-        else {
-            showError(`No book found for ISBN: ${isbn}. Please verify the ISBN is correct.`);
-        }
-        
-    } catch (error) {
-        debugLog(`fetchBookData error: ${error.message}`);
-        showError(`Failed to fetch book data: ${error.message}`);
-    }
+} else {
+    showError(`No book found for ISBN: ${isbn}. Please verify the ISBN is correct.`);
 }
         }
         // Show loading state
