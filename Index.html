@@ -3,124 +3,799 @@
 <head>
   <meta charset="UTF-8" />
   <title>BookHive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  >
 
   <style>
+    :root {
+      /* Core palette */
+      --honey-gold: #D4A574;
+      --deep-charcoal: #2a2a2a;
+      --aged-paper: #F5EFE7;
+      --warm-amber: #B8860B;
+      --soft-cream: #FAF7F2;
+      --sepia-brown: #8B7355;
+      --muted-honeycomb: #E8D5B7;
+      --dusty-gold: #C9A961;
+      --dark-walnut: #4A3F35;
+      --border-light: #E0D5C7;
+      --success-gold: #B89968;
+      --neutral-warm: #9B8B7E;
+
+      --shadow-soft: 0 4px 12px rgba(139, 115, 85, 0.15);
+      --radius-card: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: system-ui, sans-serif;
       margin: 0;
-      padding: 0;
-      background: #fafafa;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background: var(--aged-paper);
+      color: var(--deep-charcoal);
+      font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background-image:
+        radial-gradient(circle at 0 0, rgba(255, 255, 255, 0.3), transparent 55%),
+        radial-gradient(circle at 100% 100%, rgba(201, 169, 97, 0.07), transparent 60%);
     }
 
-    header {
-      background: #2a2a2a;
-      padding: 18px;
-      color: white;
-      text-align: center;
+    /* ---------- HEADER ---------- */
+
+    .site-header {
+      background: linear-gradient(135deg, #2a2a2a 0%, #3d3430 45%, #4A3F35 100%);
+      color: #f8f4ec;
+      padding: 14px 18px;
+      border-bottom: 1px solid rgba(245, 239, 231, 0.12);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .site-header::after {
+      content: "";
+      position: absolute;
+      top: -30px;
+      right: -30px;
+      width: 160px;
+      height: 160px;
+      background-image:
+        radial-gradient(circle at 0 0, rgba(212,165,116,0.12), transparent 55%),
+        radial-gradient(circle at 100% 100%, rgba(201,169,97,0.14), transparent 60%);
+      opacity: 0.7;
+      pointer-events: none;
+    }
+
+    .header-inner {
+      max-width: 980px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .logo-lockup {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-hex {
+      width: 40px;
+      height: 40px;
+      background:
+        conic-gradient(from 120deg, rgba(212,165,116,0.25), rgba(201,169,97,0.7), rgba(212,165,116,0.25));
+      clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0 50%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: #2a2a2a;
+      background-color: #F5EFE7;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+    }
+
+    .logo-text {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .logo-title {
+      font-family: "Playfair Display", "Times New Roman", serif;
       font-size: 1.6rem;
-      font-weight: bold;
+      letter-spacing: 0.05em;
     }
 
-    #shelf-label {
-      text-align: center;
-      padding: 20px;
-      font-size: 1.4rem;
-      font-weight: 600;
+    .logo-subtitle {
+      font-size: 0.8rem;
+      opacity: 0.8;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
     }
+
+    .header-meta {
+      text-align: right;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      font-size: 0.88rem;
+    }
+
+    .meta-label {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      opacity: 0.75;
+    }
+
+    #shelf-label.meta-value {
+      font-weight: 500;
+      color: #fefaf5;
+      font-size: 0.95rem;
+      max-width: 260px;
+      word-wrap: break-word;
+    }
+
+    /* ---------- PAGE LAYOUT ---------- */
+
+    .page-main {
+      flex: 1;
+      padding: 18px 16px 40px;
+    }
+
+    .page-inner {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+
+    .page-intro {
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .page-heading {
+      font-family: "Playfair Display", serif;
+      font-size: 1.3rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--dark-walnut);
+    }
+
+    .page-description {
+      font-size: 0.92rem;
+      color: var(--sepia-brown);
+      max-width: 520px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(232, 213, 183, 0.7);
+      color: var(--dark-walnut);
+      font-size: 0.8rem;
+      font-family: "JetBrains Mono", monospace;
+    }
+
+    .meta-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--honey-gold);
+      box-shadow: 0 0 0 3px rgba(212, 165, 116, 0.3);
+    }
+
+    /* ---------- FILTER BAR + LEGEND ---------- */
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 14px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      margin-top: 4px;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.85rem;
+      color: var(--sepia-brown);
+    }
+
+    .filter-label {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--neutral-warm);
+    }
+
+    .filter-select {
+      border-radius: 999px;
+      border: 1px solid var(--border-light);
+      padding: 6px 10px;
+      background: var(--soft-cream);
+      font-size: 0.85rem;
+      color: var(--dark-walnut);
+      outline: none;
+      min-width: 160px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .filter-select:hover {
+      border-color: var(--honey-gold);
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      font-size: 0.78rem;
+    }
+
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: rgba(232, 213, 183, 0.7);
+      color: var(--dark-walnut);
+    }
+
+    .legend-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--honey-gold);
+      opacity: 0.9;
+    }
+
+    .legend-item--excellent .legend-dot {
+      background: #d1a023;
+    }
+
+    .legend-item--strong .legend-dot {
+      background: #c9a961;
+    }
+
+    .legend-item--mixed .legend-dot {
+      background: #b89968;
+    }
+
+    .legend-item--low .legend-dot {
+      background: #9b8b7e;
+    }
+
+    /* ---------- SHELF / BOOK CARDS ---------- */
 
     #shelf-container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 14px;
+      margin-top: 6px;
     }
 
     .book-card {
-      background: white;
-      padding: 18px;
-      margin-bottom: 18px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+      position: relative;
+      background: var(--soft-cream);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-soft);
+      padding: 14px 14px 12px;
+      overflow: hidden;
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        border-color 0.2s ease,
+        background-color 0.2s ease;
+      cursor: pointer;
     }
 
-    .book-card h3 {
+    .book-card::before {
+      content: "";
+      position: absolute;
+      top: -35px;
+      right: -20px;
+      width: 140px;
+      height: 140px;
+      background-image:
+        radial-gradient(circle at 0 0, rgba(212,165,116,0.14), transparent 55%),
+        radial-gradient(circle at 100% 100%, rgba(201,169,97,0.12), transparent 60%);
+      opacity: 0.7;
+      pointer-events: none;
+    }
+
+    .book-card:hover {
+      border-color: var(--honey-gold);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+      background-color: #fdfaf6;
+    }
+
+    .book-card-header {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 8px 10px;
+      align-items: center;
+    }
+
+    .book-rank {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: rgba(212, 165, 116, 0.12);
+      color: var(--dark-walnut);
+    }
+
+    .book-title-author {
+      min-width: 0;
+    }
+
+    .book-title {
       margin: 0;
-      font-size: 1.3rem;
+      font-family: "Playfair Display", serif;
+      font-size: 1.05rem;
+      letter-spacing: 0.4px;
+      color: var(--deep-charcoal);
     }
 
-    .themes {
-      font-size: 0.9rem;
-      color: #555;
+    .book-author {
+      margin: 3px 0 0;
+      font-size: 0.88rem;
+      color: var(--sepia-brown);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .book-rating-badge {
+      justify-self: flex-end;
+      padding: 5px 8px;
+      border-radius: 999px;
+      border: 1px solid rgba(184, 134, 11, 0.35);
+      background: rgba(212, 165, 116, 0.12);
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.78rem;
+      display: inline-flex;
+      align-items: baseline;
+      gap: 2px;
+      color: var(--dark-walnut);
+    }
+
+    .rating-score {
+      font-weight: 500;
+    }
+
+    .rating-max {
+      font-size: 0.7rem;
+      opacity: 0.75;
+    }
+
+    .book-card-footer {
       margin-top: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
     }
 
-    .review-summary {
+    .book-preview-themes {
+      font-size: 0.8rem;
+      color: var(--neutral-warm);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .book-preview-themes span {
+      margin-right: 4px;
+    }
+
+    .card-chevron {
+      font-size: 0.9rem;
+      color: var(--dusty-gold);
+      flex-shrink: 0;
+    }
+
+    /* ---------- FOOTER ---------- */
+
+    .site-footer {
+      border-top: 1px solid rgba(224, 213, 199, 0.8);
+      background: #f3ebdf;
+      padding: 10px 16px 14px;
+      font-size: 0.78rem;
+      color: var(--sepia-brown);
+    }
+
+    .footer-inner {
+      max-width: 980px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .footer-metadata {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.75rem;
+    }
+
+    /* ---------- DETAIL DRAWER ---------- */
+
+    .detail-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.35);
+      display: none;
+      align-items: flex-end;
+      justify-content: center;
+      z-index: 50;
+    }
+
+    .detail-backdrop.active {
+      display: flex;
+    }
+
+    .detail-drawer {
+      width: 100%;
+      max-width: 980px;
+      max-height: 75vh;
+      background: var(--soft-cream);
+      border-radius: 16px 16px 0 0;
+      box-shadow: 0 -4px 18px rgba(0,0,0,0.25);
+      transform: translateY(100%);
+      opacity: 0;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .detail-backdrop.active .detail-drawer {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    .detail-handle {
+      width: 42px;
+      height: 5px;
+      border-radius: 999px;
+      background: rgba(212, 165, 116, 0.8);
+      margin: 8px auto 4px;
+    }
+
+    .detail-header {
+      padding: 6px 16px 8px;
+      border-bottom: 1px solid rgba(224, 213, 199, 0.9);
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .detail-titleblock {
+      max-width: 80%;
+    }
+
+    .detail-title {
+      margin: 0;
+      font-family: "Playfair Display", serif;
+      font-size: 1.1rem;
+      letter-spacing: 0.4px;
+      color: var(--deep-charcoal);
+    }
+
+    .detail-author {
+      margin: 3px 0 0;
+      font-size: 0.88rem;
+      color: var(--sepia-brown);
+    }
+
+    .detail-rating {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.86rem;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid rgba(184, 134, 11, 0.35);
+      background: rgba(212, 165, 116, 0.12);
+      color: var(--dark-walnut);
+      display: inline-flex;
+      align-items: baseline;
+      gap: 3px;
+    }
+
+    .detail-close-btn {
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      border: none;
+      background: transparent;
+      font-size: 1.1rem;
+      cursor: pointer;
+      color: var(--neutral-warm);
+      padding: 4px;
+    }
+
+    .detail-body {
+      padding: 10px 16px 16px;
+      overflow-y: auto;
+      max-height: calc(75vh - 60px);
+    }
+
+    .detail-section-label {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--neutral-warm);
+      margin-bottom: 6px;
+    }
+
+    .detail-themes {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .detail-theme-pill {
+      background: var(--muted-honeycomb);
+      color: var(--dark-walnut);
+      border-radius: 16px;
+      padding: 4px 10px;
+      font-size: 0.8rem;
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .detail-theme-pill::before {
+      content: "◦";
+      font-size: 0.75rem;
+      margin-right: 4px;
+      opacity: 0.7;
+    }
+
+    .detail-reviews-list {
+      margin: 0;
+      padding-left: 18px;
+      list-style: disc;
+      font-size: 0.9rem;
+      color: var(--dark-walnut);
+    }
+
+    .detail-reviews-list li + li {
+      margin-top: 3px;
+    }
+
+    .detail-meta-row {
       margin-top: 10px;
-      padding-left: 22px;
+      font-size: 0.8rem;
+      color: var(--neutral-warm);
+      font-family: "JetBrains Mono", monospace;
+    }
+
+    @media (min-width: 720px) {
+      .detail-body {
+        max-height: calc(75vh - 64px);
+      }
+    }
+
+    /* Utility */
+    .hidden {
+      display: none !important;
     }
   </style>
 </head>
 
 <body>
 
-<header>📚 BookHive</header>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo-lockup">
+        <div class="logo-hex">BH</div>
+        <div class="logo-text">
+          <span class="logo-title">BookHive</span>
+          <span class="logo-subtitle">Curated shelves, at a glance</span>
+        </div>
+      </div>
 
-<div id="shelf-label"></div>
-<div id="shelf-container"></div>
+      <div class="header-meta">
+        <span class="meta-label">Current Shelf</span>
+        <span id="shelf-label" class="meta-value">Scan a shelf tag to begin.</span>
+      </div>
+    </div>
+  </header>
 
-<script type="module">
-  // --- READ ?shelf= FROM URL ---
-  function getShelfFromURL() {
-    const params = new URLSearchParams(window.location.search);
-    return params.get("shelf");
-  }
+  <main class="page-main">
+    <div class="page-inner">
+      <div class="page-intro">
+        <div>
+          <div class="page-heading">Shelf Overview</div>
+          <p class="page-description">
+            Ranked by reader rating, then opened for detail. Think of each card as a tiny spine label for the shelf.
+          </p>
+        </div>
 
-  // --- LOAD JSON FILE FOR SHELF ---
-  async function loadShelf(shelfId) {
-    try {
-      const res = await fetch(`data/${shelfId}.json`);
-      const shelfData = await res.json();
-      renderShelf(shelfData);
-    } catch (err) {
-      console.error("Error loading shelf:", err);
-      document.getElementById("shelf-label").textContent = "Shelf not found";
+        <div class="meta-chip">
+          <span class="meta-dot"></span>
+          <span>Live shelf data</span>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div class="filter-group">
+          <span class="filter-label">Filter</span>
+          <select id="theme-filter" class="filter-select">
+            <option value="">All themes</option>
+          </select>
+        </div>
+
+        <div class="legend">
+          <div class="legend-item legend-item--excellent">
+            <span class="legend-dot"></span>
+            <span>4.5–5 Excellent</span>
+          </div>
+          <div class="legend-item legend-item--strong">
+            <span class="legend-dot"></span>
+            <span>4.0–4.4 Strong</span>
+          </div>
+          <div class="legend-item legend-item--mixed">
+            <span class="legend-dot"></span>
+            <span>3.0–3.9 Mixed</span>
+          </div>
+          <div class="legend-item legend-item--low">
+            <span class="legend-dot"></span>
+            <span>&lt;3.0 Lower</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="shelf-container"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>&copy; <span id="year"></span> BookHive</div>
+      <div class="footer-metadata">layout.v2 · warm stacks &amp; honeyed shelves</div>
+    </div>
+  </footer>
+
+  <!-- Detail Drawer -->
+  <div id="detail-backdrop" class="detail-backdrop">
+    <div class="detail-drawer" role="dialog" aria-modal="true">
+      <div class="detail-handle"></div>
+      <button class="detail-close-btn" type="button" aria-label="Close details">&times;</button>
+      <div class="detail-header">
+        <div class="detail-titleblock">
+          <h2 id="detail-title" class="detail-title"></h2>
+          <p id="detail-author" class="detail-author"></p>
+        </div>
+        <div id="detail-rating" class="detail-rating">
+          <span id="detail-rating-score"></span>
+          <span>/5</span>
+        </div>
+      </div>
+      <div class="detail-body">
+        <div>
+          <div class="detail-section-label">Themes</div>
+          <div id="detail-themes" class="detail-themes"></div>
+        </div>
+
+        <div style="margin-top: 10px;">
+          <div class="detail-section-label">What readers are saying</div>
+          <ul id="detail-reviews" class="detail-reviews-list"></ul>
+        </div>
+
+        <div id="detail-meta" class="detail-meta-row"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    let currentShelfData = null;
+    let currentBooks = [];
+    let currentThemeFilter = "";
+
+    function getShelfFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("shelf");
     }
-  }
 
-  // --- RENDER SHELF INTO PAGE ---
-  function renderShelf(shelfData) {
-    document.getElementById("shelf-label").textContent = shelfData.shelfLabel;
+    async function loadShelf(shelfId) {
+      try {
+        const res = await fetch(`data/${shelfId}.json`);
+        if (!res.ok) {
+          throw new Error("HTTP " + res.status);
+        }
+        const shelfData = await res.json();
+        currentShelfData = shelfData;
 
-    const container = document.getElementById("shelf-container");
-    container.innerHTML = "";
+        // sort books by rating (highest → lowest)
+        const books = Array.isArray(shelfData.books) ? [...shelfData.books] : [];
+        books.sort((a, b) => {
+          const ra = parseFloat(a.approxRating ?? 0) || 0;
+          const rb = parseFloat(b.approxRating ?? 0) || 0;
+          return rb - ra;
+        });
 
-    shelfData.books.forEach((book) => {
-      const card = document.createElement("div");
-      card.className = "book-card";
-      card.innerHTML = `
-        <h3>#${book.rank} — ${book.title}</h3>
-        <p><strong>Author:</strong> ${book.author}</p>
-        <p><strong>Rating:</strong> ~${book.approxRating}/5</p>
-        <p class="themes"><strong>Themes:</strong> ${book.themes.join(", ")}</p>
+        // assign computed rank
+        books.forEach((book, i) => {
+          book._computedRank = i + 1;
+        });
 
-        <ul class="review-summary">
-          ${book.reviewSummary.map(line => `<li>${line}</li>`).join("")}
-        </ul>
-      `;
-      container.appendChild(card);
-    });
-  }
+        currentBooks = books;
 
-  // --- AUTO LOAD ON PAGE LOAD ---
-  document.addEventListener("DOMContentLoaded", () => {
-    const shelfId = getShelfFromURL();
-    if (shelfId) {
-      loadShelf(shelfId);
-    } else {
-      document.getElementById("shelf-label").textContent =
-        "Scan a shelf tag to begin.";
+        updateShelfLabel(shelfData.shelfLabel);
+        populateThemeFilterOptions(books);
+        renderShelf();
+      } catch (err) {
+        console.error("Error loading shelf:", err);
+        updateShelfLabel("Shelf not found.");
+        const container = document.getElementById("shelf-container");
+        if (container) {
+          container.innerHTML =
+            "<p>We couldn’t load this shelf. Check the tag or file name in the <code>data/</code> folder.</p>";
+        }
+      }
     }
-  });
-</script>
 
-</body>
-</html>
+    function updateShelfLabel(label) {
+      const labelEl = document.getElementById("shelf-label");
+      if (labelEl) {
+        labelEl.textContent = label || "Unnamed shelf";
+      }
+    }
+
+    function populateThemeFilterOptions(books) {
+      const select = document.getElementById("theme-filter");
+      if (!select) return;
+
+      // keep "All themes" as first
+      const themesSet = new Set();
+      books.forEach((b) => {
+        (b.themes || []).forEach((t) => {
+          if (t && typeof t === "string") {
+            themesSet.add(t.trim());
+          }
+        });
+      });
+
+      // clear everything except first option
+      const firstOption = select.querySelector("option[value='']");
+      select.innerHTML = "";
+      if (firstOption) {
+        select.appendChild(firstOption);
+      } else {
+        const opt = document.createElement("option");
+        opt
