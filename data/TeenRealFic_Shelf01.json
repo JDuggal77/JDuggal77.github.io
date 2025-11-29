@@ -1,0 +1,467 @@
+{
+  "shelfId": "TeenRealFic_Shelf01",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 1",
+  "updated": "2025-11-29",
+  "books": [
+    {
+      "rank": 1,
+      "isbn": "9780062882769",
+      "title": "Clap When You Land",
+      "author": "Elizabeth Acevedo",
+      "approxRating": 4.3,
+      "ratingNote": "Approximate rating based on large review counts across major book platforms as of 2025.",
+      "reviewSummary": [
+        "Novel in verse following Camino in the Dominican Republic and Yahaira in New York City, two sisters who discover each other after their father's death in a plane crash.",
+        "Readers highlight the lyrical, accessible poetry style that still feels fast-paced and emotionally intense, making it easy to devour in a sitting but hard to shake afterward.",
+        "Frequently praised for its portrayal of grief, complicated family secrets, and the slow, messy process of forgiveness between sisters who have every reason to resent each other.",
+        "Many reviews point out the strong sense of place: the contrast between life in the Dominican Republic and life in New York, plus the economic and immigration realities underneath both.",
+        "Readers also appreciate the queer representation, nuanced portrayal of parental flaws, and the focus on sisterhood over romance."
+      ],
+      "themes": [
+        "grief",
+        "sisterhood",
+        "immigration",
+        "family secrets",
+        "queer representation"
+      ],
+      "ageNote": "Best for roughly 14+ due to themes of death, grief, sexual references, and family conflict."
+    },
+    {
+      "rank": 2,
+      "isbn": "9781250890139",
+      "title": "Four Eids and a Funeral",
+      "author": "Faridah Àbíké-Íyímídé & Adiba Jaigirdar",
+      "approxRating": 4.5,
+      "ratingNote": "Early ratings on retail and review sites trend in the mid-to-high 4s as of 2025.",
+      "reviewSummary": [
+        "YA contemporary about ex–best friends Tiwa and Said, who reunite after the death of a beloved librarian and end up working together to save their local Islamic center from demolition.",
+        "Readers describe it as a warm, funny, and romantic story that still makes space for grief, burnout, and the complicated ways people drift apart and reconnect.",
+        "Widely praised for centering Muslim community life, Eid traditions, and the everyday details of growing up between cultures and expectations.",
+        "Many reviews highlight the great chemistry between the leads, strong side characters (including family and community members), and the emphasis on communication and accountability in relationships.",
+        "Often recommended to fans of soft but emotionally honest romcoms with activism, family pressure, and community organizing woven into the plot."
+      ],
+      "themes": [
+        "second-chance romance",
+        "friendship",
+        "community activism",
+        "Muslim representation",
+        "grief"
+      ],
+      "ageNote": "Generally aimed at YA readers 14+; includes grief, Islamophobia, and stressful family dynamics but maintains an overall hopeful tone."
+    },
+    {
+      "rank": 3,
+      "isbn": "9780241440490",
+      "title": "You Must Be Layla",
+      "author": "Yassmin Abdel-Magied",
+      "approxRating": 4.1,
+      "ratingNote": "Moderate number of reader reviews that tend positive, with most ratings in the low 4s.",
+      "reviewSummary": [
+        "Follows Layla, a Sudanese-Australian Muslim girl who wins a scholarship to an elite private school and runs into snobbery, racism, and culture shock while trying to stay true to herself.",
+        "Readers describe Layla as energetic, funny, and impulsive; her confident, sometimes chaotic voice is a big part of the book’s appeal for younger teens.",
+        "Often praised for centering a Black Muslim immigrant family, showing both the stresses (job hunting, prejudice, culture clashes) and the warmth, humor, and support inside the home.",
+        "Many reviews mention the STEM/engineering project storyline as a refreshing focus that shows girls of color building things instead of just reacting to drama.",
+        "The book is frequently recommended as a starting point for conversations about microaggressions, systemic bias at schools, and how to advocate for yourself without losing your sense of humor."
+      ],
+      "themes": [
+        "bullying",
+        "racism",
+        "immigrant experience",
+        "STEM",
+        "school story"
+      ],
+      "ageNote": "Generally suitable for about 11–14; includes bullying and racism but is written with a younger-teen sensibility and an ultimately uplifting tone."
+    },
+    {
+      "rank": 4,
+      "isbn": "9780062662835",
+      "title": "With the Fire on High",
+      "author": "Elizabeth Acevedo",
+      "approxRating": 4.4,
+      "ratingNote": "Typically rated in the mid-4s by a large number of readers across major platforms.",
+      "reviewSummary": [
+        "Centers Emoni, a Black Puerto Rican teen mom in Philadelphia who is balancing high school, parenting, a part-time job, and a deep passion for cooking.",
+        "Readers love the vivid food descriptions and the way recipes and cooking function as both an art form and an emotional language for Emoni.",
+        "Frequently praised for a realistic, compassionate portrayal of teen motherhood, family responsibility, and the financial and time pressures that limit young people’s options.",
+        "Many reviews highlight the supportive relationships with Emoni’s abuela and best friend, as well as the gentle, respectful romance that doesn’t overwhelm the core story about self-worth and ambition.",
+        "Often recommended as a book that feels comforting and sensory while still being honest about structural barriers, racism, and expectations placed on teen girls of color."
+      ],
+      "themes": [
+        "teen parenthood",
+        "food and cooking",
+        "family responsibility",
+        "identity",
+        "Latinx representation"
+      ],
+      "ageNote": "Best for about 14+; includes teen pregnancy in the backstory, mild language, and romantic elements but is not explicit."
+    },
+    {
+      "rank": 5,
+      "isbn": "9780062662804",
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "approxRating": 4.5,
+      "ratingNote": "Consistently very highly rated, with large numbers of reviews and multiple major awards.",
+      "reviewSummary": [
+        "Verse novel about Xiomara, a Dominican American teen in Harlem who discovers slam poetry as a way to express herself while clashing with her mother’s strict religious expectations.",
+        "Readers call it raw, powerful, and intensely emotional, with many saying they saw their own struggles with faith, body image, or family pressure reflected in Xiomara’s story.",
+        "Praised for tackling topics like sexual autonomy, religion, emotional abuse, and street harassment in language that is direct but poetic and accessible.",
+        "The poetry format is frequently mentioned as cinematic and engaging, making it appealing even to students who don’t usually like verse or poetry.",
+        "Widely assigned in classrooms and book clubs as a springboard for talking about identity, voice, and how art can be a survival tool."
+      ],
+      "themes": [
+        "slam poetry",
+        "religion vs identity",
+        "body image",
+        "coming of age",
+        "Latinx representation"
+      ],
+      "ageNote": "Generally recommended for 14+; includes frank discussion of sexuality, religious conflict, and emotionally abusive dynamics at home."
+    },
+    {
+      "rank": 6,
+      "isbn": "9780316547840",
+      "title": "This Book Won't Burn",
+      "author": "Samira Ahmed",
+      "approxRating": 4.2,
+      "ratingNote": "Early ratings and trade reviews are generally strong, clustering a bit above 4 stars.",
+      "reviewSummary": [
+        "Contemporary YA about Noor, a Pakistani American teen forced to start over at a new school in a conservative town where book bans and censorship are ramping up.",
+        "Reviewers describe it as a timely, suspenseful story that combines personal stakes (family upheaval, friendship shifts) with broader questions about who gets to decide what stories are allowed in schools.",
+        "Praised for its depiction of student activism, allyship, and the way social media, school policy, and community gossip intersect.",
+        "Many readers appreciate that the book doesn’t present activism as easy or glamorous; Noor makes mistakes and has to recalibrate her tactics and expectations.",
+        "Recommended for readers interested in banned-books debates, as well as for classroom discussions about intellectual freedom and marginalized voices."
+      ],
+      "themes": [
+        "book banning",
+        "activism",
+        "free speech",
+        "racism",
+        "small-town politics"
+      ],
+      "ageNote": "Generally for 13–16+; includes harassment, bigotry, and tense confrontations but no graphic on-page violence."
+    },
+    {
+      "rank": 7,
+      "isbn": "9780062348708",
+      "title": "The Upside of Unrequited",
+      "author": "Becky Albertalli",
+      "approxRating": 4.0,
+      "ratingNote": "Ratings typically fall around the low 4s, with many readers calling it cute and comforting.",
+      "reviewSummary": [
+        "Follows Molly, a fat, anxious 17-year-old who has had many crushes but no real relationships, as she navigates shifting friendships, her twin sister’s new romance, and her own first real chance at love.",
+        "Readers appreciate the body-positive representation; Molly’s weight is part of the story but she is never reduced to a stereotype or a joke.",
+        "Often praised for its inclusive cast: queer moms, queer teens, Jewish identity, and characters of multiple races and body types.",
+        "Some reviews note the slower, slice-of-life pacing, but many consider that realism a strength, reflecting how feelings and friendships evolve over a summer.",
+        "Recommended for readers who like soft, character-driven contemporary stories more focused on interior feelings and relationships than big plot twists."
+      ],
+      "themes": [
+        "body positivity",
+        "social anxiety",
+        "sisterhood",
+        "LGBTQ+ representation",
+        "romantic comedy"
+      ],
+      "ageNote": "Typically shelved for 13–16+; includes teen drinking references, kissing, and frank talk about crushes and sexuality."
+    },
+    {
+      "rank": 8,
+      "isbn": "9780425289877",
+      "title": "Down and Across",
+      "author": "Arvin Ahmadi",
+      "approxRating": 3.9,
+      "ratingNote": "Average reader ratings cluster just under 4 stars, with a mix of strong and more muted reactions.",
+      "reviewSummary": [
+        "Coming-of-age story about Scott, a teen who feels directionless and travels to Washington, D.C. to seek advice from a famous professor, only to end up on an impulsive journey with new friends.",
+        "Frequently compared to John Green–style contemporaries: voicey, slightly chaotic, and introspective, with a lot of focus on conversations rather than big action scenes.",
+        "Readers praise the exploration of failure, grit, and the anxiety of not having your life plan figured out when everyone else seems to.",
+        "Some reviews wish for tighter plotting or a more focused ending, but many enjoy the quirky side characters, crossword puzzle motif, and road-trip energy.",
+        "Often recommended to teens who feel pressure around college, careers, and the idea of having a single passion or purpose."
+      ],
+      "themes": [
+        "finding purpose",
+        "grit vs talent",
+        "road trip",
+        "college pressure",
+        "South Asian representation"
+      ],
+      "ageNote": "Generally appropriate for 13+; includes some language and references to sex and substance use, but not graphically."
+    },
+    {
+      "rank": 9,
+      "isbn": "9780063045873",
+      "title": "Imogen, Obviously",
+      "author": "Becky Albertalli",
+      "approxRating": 4.4,
+      "ratingNote": "Recent ratings are strong, trending in the mid-4s with lots of enthusiasm in queer YA spaces.",
+      "reviewSummary": [
+        "Centers Imogen, a self-proclaimed \"hopelessly straight\" ally whose visit to her best friend’s college forces her to reconsider her own sexuality and how she has understood queerness.",
+        "Readers highlight the book’s vulnerability and humor as Imogen untangles internalized expectations, the pressure to be a perfect ally, and the fear of hurting people she loves.",
+        "Praised for nuanced queer representation, messy but loving friendships, and a tender slow-burn romance that grows out of shared jokes and long conversations.",
+        "Many readers say it captures the confusion and relief of late-in-life or late-teen queer realization in a way that feels both specific and widely relatable.",
+        "Often recommended for readers who enjoy introspective, identity-focused contemporary YA with big feelings and college-visit vibes."
+      ],
+      "themes": [
+        "questioning sexuality",
+        "college visit",
+        "friendship",
+        "queer romance",
+        "identity"
+      ],
+      "ageNote": "Best for 14+; includes alcohol at college parties, swearing, and lots of frank discussion of sexuality and labels."
+    },
+    {
+      "rank": 10,
+      "isbn": "9780063071636",
+      "title": "Here's to Us",
+      "author": "Becky Albertalli & Adam Silvera",
+      "approxRating": 4.1,
+      "ratingNote": "Generally rated a bit above 4 stars, especially by readers who enjoyed What If It's Us.",
+      "reviewSummary": [
+        "Sequel to \"What If It’s Us,\" revisiting Arthur and Ben a couple of years later as they reconnect in New York City and reconsider what they mean to each other after time apart.",
+        "Reviews describe it as emotional, romantic, and sometimes angsty, focusing on second chances and how people change after high school and long-distance strain.",
+        "Praised for its honest look at communication problems, jealousy, and balancing new relationships with unresolved feelings about an old one.",
+        "Readers who love the pairing appreciate the fan-service moments, callbacks, and cameos from side characters, while some note it works best if you already care about Arthur and Ben.",
+        "Recommended as a satisfying follow-up for fans of the first book and for readers who enjoy queer romcoms that allow for bittersweet and realistic moments."
+      ],
+      "themes": [
+        "second chances",
+        "long-distance relationships",
+        "New York City",
+        "queer romance",
+        "growing up"
+      ],
+      "ageNote": "Generally for 14+; includes swearing, discussions of sex and relationships, and social drinking."
+    },
+    {
+      "rank": 11,
+      "isbn": "9780062795250",
+      "title": "What If It's Us",
+      "author": "Becky Albertalli & Adam Silvera",
+      "approxRating": 4.1,
+      "ratingNote": "Ratings typically sit just above 4 stars with a large reader base.",
+      "reviewSummary": [
+        "Meet-cute queer romcom about Arthur, a theater-obsessed visitor to New York for the summer, and Ben, a local teen, whose random post office encounter keeps circling back into something more.",
+        "Readers praise the witty dialogue, specific NYC setting, and sweet, awkward dates that feel authentically teen rather than perfectly polished.",
+        "The ending is frequently described as realistic and open-ended rather than purely fairy-tale, which some find refreshing and others bittersweet.",
+        "Features strong friend-group dynamics, parents who actually matter to the story, and side plots about creative projects, breakups, and summer jobs.",
+        "Often recommended to readers who want a fun but emotionally grounded queer romance with two distinct authors’ voices blending together."
+      ],
+      "themes": [
+        "meet-cute romance",
+        "New York City",
+        "friend groups",
+        "breakups and makeups",
+        "queer representation"
+      ],
+      "ageNote": "Best for 13–16+; includes kissing, innuendo, and some language, but is overall fairly light in explicit content."
+    },
+    {
+      "rank": 12,
+      "isbn": "9780062937049",
+      "title": "Yes No Maybe So",
+      "author": "Becky Albertalli & Aisha Saeed",
+      "approxRating": 4.0,
+      "ratingNote": "Average reader ratings are around the low 4s, with particular praise from readers interested in politics and activism.",
+      "reviewSummary": [
+        "Dual POV story about Jamie, a shy Jewish teen, and Maya, a Muslim teen dealing with family changes, who end up canvassing together for a local political campaign.",
+        "Readers appreciate how the book mixes awkward teen romance with a grounded look at grassroots organizing, door-knocking, and the emotional toll of activism.",
+        "Praised for Muslim representation, interfaith friendship, and frank discussion of Islamophobia, voter suppression, and targeted legislation.",
+        "Some reviews mention a slower pace and heavy focus on canvassing scenes, but many find that realism part of the appeal.",
+        "Recommended for readers curious about how teens actually get involved in elections and local issues, and for classrooms discussing civic engagement."
+      ],
+      "themes": [
+        "political activism",
+        "canvassing",
+        "interfaith friendship",
+        "Islamophobia",
+        "slow-burn romance"
+      ],
+      "ageNote": "Usually shelved for 13–16+; includes Islamophobia, microaggressions, and political tension but not graphic violence."
+    },
+    {
+      "rank": 13,
+      "isbn": "9780759556058",
+      "title": "Indivisible",
+      "author": "Daniel Aleman",
+      "approxRating": 4.4,
+      "ratingNote": "Consistently strong ratings, often in the mid-4s, with many readers calling it powerful and important.",
+      "reviewSummary": [
+        "Follows Mateo, a Mexican American teen in New York City whose parents are detained by immigration authorities, leaving him to care for his younger sister and fight for their family’s future.",
+        "Reviewers describe it as heartbreaking but compassionate, with a strong focus on sibling bonds, friendships, and the network of adults who try to help.",
+        "Praised for humanizing the impact of deportation policies and showing how quickly a teenager can be forced into adult roles at home and at work.",
+        "Many readers note that the story balances intense situations with quiet moments of joy, humor, and community support.",
+        "Frequently recommended for classroom and book-club discussions about immigration, family separation, and the meaning of home."
+      ],
+      "themes": [
+        "deportation",
+        "family separation",
+        "sibling bonds",
+        "immigration",
+        "social justice"
+      ],
+      "ageNote": "Generally recommended for 14+; includes detainment, fear of deportation, and emotional distress, but no graphic on-page violence."
+    },
+    {
+      "rank": 14,
+      "isbn": "9780316704472",
+      "title": "Brighter Than the Sun",
+      "author": "Daniel Aleman",
+      "approxRating": 4.2,
+      "ratingNote": "Early reviews trend positively, with many readers responding strongly to the emotional and topical content.",
+      "reviewSummary": [
+        "Centers Sol, a Mexican teen who crosses the U.S.–Mexico border daily for school and work, then becomes unexpectedly stuck on the U.S. side when circumstances change.",
+        "Reviewers highlight the book’s exploration of border politics, economic pressure, and the crushing responsibility Sol feels to help support her family.",
+        "Praised for its nuanced treatment of guilt and relief: Sol is torn between missing her loved ones and recognizing that being away from home also frees her from some abuse and hardship.",
+        "Many readers call it thought-provoking and timely, with a strong sense of physical and emotional distance built into the setting.",
+        "Recommended for teens who appreciated \"Indivisible\" or other contemporary novels about immigration, borders, and working-class life."
+      ],
+      "themes": [
+        "border crossings",
+        "immigration",
+        "family responsibility",
+        "economic pressure",
+        "coming of age"
+      ],
+      "ageNote": "Best for 14+; tackles border enforcement, family separation anxiety, and workplace exploitation, but without graphic violence."
+    },
+    {
+      "rank": 15,
+      "isbn": "9780310761839",
+      "title": "Solo",
+      "author": "Kwame Alexander & Mary Rand Hess",
+      "approxRating": 4.2,
+      "ratingNote": "Typically rated a bit above 4 stars, with praise from both teens and educators.",
+      "reviewSummary": [
+        "Verse novel about Blade, the son of a famous but troubled rock star, who is struggling with his father’s addictions and his own sense of identity when a family secret sends him on a journey to Ghana.",
+        "Reviewers praise the musicality of the writing, with lyrics, rhythm, and white space used to echo Blade’s emotional highs and lows.",
+        "Themes of addiction, recovery, fame, and forgiveness are handled in a way many readers find accessible to teens without being overly simplified.",
+        "The portion of the story set in Ghana is often singled out for rich sensory detail and a thoughtful portrayal of heritage, culture, and community.",
+        "Widely used in classrooms and recommended to music-loving or reluctant readers because the verse format and rock backdrop make it feel fast and engaging."
+      ],
+      "themes": [
+        "verse novel",
+        "music and fame",
+        "addiction",
+        "identity search",
+        "Ghana setting"
+      ],
+      "ageNote": "Usually suggested for 13+; includes substance abuse, family conflict, and romantic tension, but is not explicit."
+    },
+    {
+      "rank": 16,
+      "isbn": "9781534442726",
+      "title": "Love from A to Z",
+      "author": "S.K. Ali",
+      "approxRating": 4.4,
+      "ratingNote": "Frequently rated in the mid-to-high 4s with many enthusiastic reader reviews.",
+      "reviewSummary": [
+        "Alternating-journal romance between Zayneb, a hijabi teen suspended for standing up to an Islamophobic teacher, and Adam, a Canadian teen with multiple sclerosis, who meet while traveling and gradually fall for each other.",
+        "Readers praise the gentle, heartfelt romance and the way both characters are allowed to be angry, vulnerable, hopeful, and imperfect in their faith and relationships.",
+        "Widely appreciated for Muslim representation, chronic-illness representation, and nuanced depictions of family expectations, grief, and doubt.",
+        "Many reviews highlight the marvels-and-oddities journal structure as making the story feel intimate, reflective, and easy to dip in and out of.",
+        "Frequently recommended as a favorite YA Muslim love story that balances swoon-worthy moments with serious conversations about injustice and resilience."
+      ],
+      "themes": [
+        "Muslim representation",
+        "chronic illness",
+        "travel",
+        "slow-burn romance",
+        "faith and doubt"
+      ],
+      "ageNote": "Generally for 13–16+; includes Islamophobia, illness, and grief but maintains a warm tone and avoids graphic content."
+    },
+    {
+      "rank": 17,
+      "isbn": "9781534494558",
+      "title": "Queen of the Tiles",
+      "author": "Hanna Alkaf",
+      "approxRating": 4.0,
+      "ratingNote": "Average ratings hover around the low 4s, with particular love from mystery fans and Scrabble enthusiasts.",
+      "reviewSummary": [
+        "Mystery set at a Malaysian Scrabble tournament a year after teen champion Trina’s death; her best friend Najwa starts receiving eerie messages from Trina’s revived social media account.",
+        "Readers love the blend of competitive Scrabble details, tournament tension, and grief, as Najwa tries to solve both the mystery of the messages and how to move forward without her friend.",
+        "Praised for Malaysian Muslim representation, layered friendships, and exploration of anxiety, burnout, and the pressure to perform.",
+        "Some reviews note that the pacing is more character- and mood-driven than action-heavy, but many still find the reveals and emotional payoff satisfying.",
+        "Recommended for readers who enjoy quieter, brainy mysteries with a strong sense of place and a focus on friendship as much as the central puzzle."
+      ],
+      "themes": [
+        "mystery",
+        "grief",
+        "competitive Scrabble",
+        "Malaysian setting",
+        "social media"
+      ],
+      "ageNote": "Suggested for about 13+; includes grief, discussion of death, and tense confrontations, but nothing graphic."
+    },
+    {
+      "rank": 18,
+      "isbn": "9780593202340",
+      "title": "All My Rage",
+      "author": "Sabaa Tahir",
+      "approxRating": 4.6,
+      "ratingNote": "Extremely high average ratings and multiple major awards; often cited as a standout YA novel of the 2020s.",
+      "reviewSummary": [
+        "Interwoven story of Noor and Salahudin, Pakistani American teens in a small California desert town, plus flashbacks to Salahudin’s mother Misbah in Pakistan, exploring family, faith, and intergenerational trauma.",
+        "Reviews describe it as devastating, beautiful, and cathartic; many readers mention crying multiple times but also feeling deeply moved and hopeful by the end.",
+        "Praised for unflinching depictions of alcoholism, domestic violence, Islamophobia, and poverty while still centering love, loyalty, and the possibility of change.",
+        "Many highlight how well it handles complex parental relationships and the weight of expectations on children of immigrants who are trying to save both themselves and their families.",
+        "Frequently recommended as a must-read for older teens and adults who like emotionally intense, literary contemporary YA that doesn’t shy away from hard topics."
+      ],
+      "themes": [
+        "generational trauma",
+        "Islamophobia",
+        "addiction",
+        "friendship and love",
+        "Pakistani diaspora"
+      ],
+      "ageNote": "Typically recommended for 15+; includes on-page substance abuse, domestic violence, trauma, and heavy emotional content."
+    },
+    {
+      "rank": 19,
+      "isbn": "9781534497719",
+      "title": "Other Side of the Tracks",
+      "author": "Charity Alyse",
+      "approxRating": 4.1,
+      "ratingNote": "Reader ratings are generally strong, especially from those looking for books like The Hate U Give and All American Boys.",
+      "reviewSummary": [
+        "Told from multiple perspectives in two racially segregated towns divided by train tracks, following three teens whose lives collide after a violent incident and rising community tension.",
+        "Reviews describe it as emotionally raw and tense, tackling racism, police brutality, and forbidden love in a way that invites comparison to other big-issue YA like \"The Hate U Give.\"",
+        "Praised for nuanced portrayals of both Black and white teens grappling with loyalty, guilt, and how much power they have to push back against their communities’ unspoken rules.",
+        "Some readers mention that it can feel heavy and long, but many appreciate the depth, character development, and willingness to sit with discomfort.",
+        "Recommended for readers and classes who want a lot to unpack about structural racism, protest, and how relationships are shaped by segregation."
+      ],
+      "themes": [
+        "racism",
+        "police brutality",
+        "forbidden romance",
+        "small-town division",
+        "multi-POV"
+      ],
+      "ageNote": "Best for 15+; includes racial slurs, violence, and intense confrontation around a police shooting."
+    },
+    {
+      "rank": 20,
+      "isbn": "9781250101631",
+      "title": "The Weight of the Stars",
+      "author": "K. Ancrum",
+      "approxRating": 4.3,
+      "ratingNote": "Often rated in the low-to-mid 4s, with a passionate fanbase that highlights its quiet, emotional storytelling.",
+      "reviewSummary": [
+        "Slow-burn contemporary about Ryann, a working-class teen who leads a tight-knit friend group, and Alexandria, the prickly daughter of an astronaut on a one-way mission to the edge of the solar system.",
+        "Readers praise the gentle, atmospheric writing and the focus on found family, queer love, and big questions about time, distance, and what we owe to the people we love.",
+        "Frequently highlighted for its butch lesbian protagonist, diverse ensemble cast, and nuanced representation of trauma, caregiving, and mutual support.",
+        "Some note that the plot is low-key and more slice-of-life than high-drama, but many consider that a strength and part of what makes the emotional beats land.",
+        "Recommended for readers who like character-driven stories with a speculative-science backdrop that mostly exists to frame very human emotions."
+      ],
+      "themes": [
+        "queer romance",
+        "found family",
+        "space and science",
+        "working-class life",
+        "slow-burn"
+      ],
+      "ageNote": "Usually shelved for 14+; includes trauma references, some violence in backstory, and romantic content, but little is graphic."
+    }
+  ]
+}
