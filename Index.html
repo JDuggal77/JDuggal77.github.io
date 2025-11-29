@@ -15,7 +15,6 @@
 
   <style>
     :root {
-      /* Core palette */
       --honey-gold: #D4A574;
       --deep-charcoal: #2a2a2a;
       --aged-paper: #F5EFE7;
@@ -276,21 +275,10 @@
       opacity: 0.9;
     }
 
-    .legend-item--excellent .legend-dot {
-      background: #d1a023;
-    }
-
-    .legend-item--strong .legend-dot {
-      background: #c9a961;
-    }
-
-    .legend-item--mixed .legend-dot {
-      background: #b89968;
-    }
-
-    .legend-item--low .legend-dot {
-      background: #9b8b7e;
-    }
+    .legend-item--excellent .legend-dot { background: #d1a023; }
+    .legend-item--strong .legend-dot   { background: #c9a961; }
+    .legend-item--mixed .legend-dot    { background: #b89968; }
+    .legend-item--low .legend-dot      { background: #9b8b7e; }
 
     /* ---------- SHELF / BOOK CARDS ---------- */
 
@@ -390,14 +378,8 @@
       color: var(--dark-walnut);
     }
 
-    .rating-score {
-      font-weight: 500;
-    }
-
-    .rating-max {
-      font-size: 0.7rem;
-      opacity: 0.75;
-    }
+    .rating-score { font-weight: 500; }
+    .rating-max   { font-size: 0.7rem; opacity: 0.75; }
 
     .book-card-footer {
       margin-top: 8px;
@@ -415,9 +397,7 @@
       white-space: nowrap;
     }
 
-    .book-preview-themes span {
-      margin-right: 4px;
-    }
+    .book-preview-themes span { margin-right: 4px; }
 
     .card-chevron {
       font-size: 0.9rem;
@@ -610,10 +590,7 @@
       }
     }
 
-    /* Utility */
-    .hidden {
-      display: none !important;
-    }
+    .hidden { display: none !important; }
   </style>
 </head>
 
@@ -727,9 +704,41 @@
     let currentBooks = [];
     let currentThemeFilter = "";
 
+    // 🔑 Robust shelf extractor – works with:
+    // https://bookhive122.netlify.app?shelf=TeenRealFic_Shelf01
+    // https://bookhive122.netlify.app/index.html?shelf=...
+    // #shelf=..., ?TeenRealFic_Shelf01, etc.
     function getShelfFromURL() {
-      const params = new URLSearchParams(window.location.search);
-      return params.get("shelf");
+      const href = window.location.href;
+      const lowerHref = href.toLowerCase();
+      const search = window.location.search;
+      const hash = window.location.hash;
+
+      // 1) Normal query param: ?shelf=name (case-insensitive key)
+      const params = new URLSearchParams(search);
+      let shelfParam =
+        params.get("shelf") ||
+        params.get("Shelf") ||
+        params.get("SHELF");
+      if (shelfParam) return shelfParam;
+
+      // 2) Hash like #shelf=name
+      if (hash && hash.toLowerCase().includes("shelf=")) {
+        return hash.split(/shelf=/i)[1].split(/[&#?]/)[0];
+      }
+
+      // 3) Query like ?TeenRealFic_Shelf01 (no equals sign)
+      if (search && search.startsWith("?") && !search.includes("=")) {
+        return search.slice(1);
+      }
+
+      // 4) Fallback: any 'shelf=' in full URL
+      const idx = lowerHref.indexOf("shelf=");
+      if (idx !== -1) {
+        return href.slice(idx + 6).split(/[&#?]/)[0];
+      }
+
+      return null;
     }
 
     async function loadShelf(shelfId) {
@@ -741,8 +750,9 @@
         const shelfData = await res.json();
         currentShelfData = shelfData;
 
-        // sort books by rating (highest → lowest)
         const books = Array.isArray(shelfData.books) ? [...shelfData.books] : [];
+
+        // sort by rating high → low
         books.sort((a, b) => {
           const ra = parseFloat(a.approxRating ?? 0) || 0;
           const rb = parseFloat(b.approxRating ?? 0) || 0;
@@ -781,7 +791,6 @@
       const select = document.getElementById("theme-filter");
       if (!select) return;
 
-      // keep "All themes" as first
       const themesSet = new Set();
       books.forEach((b) => {
         (b.themes || []).forEach((t) => {
@@ -791,11 +800,188 @@
         });
       });
 
-      // clear everything except first option
       const firstOption = select.querySelector("option[value='']");
       select.innerHTML = "";
       if (firstOption) {
         select.appendChild(firstOption);
       } else {
         const opt = document.createElement("option");
-        opt
+        opt.value = "";
+        opt.textContent = "All themes";
+        select.appendChild(opt);
+      }
+
+      Array.from(themesSet)
+        .sort((a, b) => a.localeCompare(b))
+        .forEach((theme) => {
+          const opt = document.createElement("option");
+          opt.value = theme;
+          opt.textContent = theme;
+          select.appendChild(opt);
+        });
+    }
+
+    function renderShelf() {
+      const container = document.getElementById("shelf-container");
+      if (!container) return;
+
+      container.innerHTML = "";
+      const themeFilter = currentThemeFilter;
+
+      currentBooks.forEach((book, index) => {
+        const themes = Array.isArray(book.themes) ? book.themes : [];
+
+        if (themeFilter) {
+          const matches = themes.some((t) => t === themeFilter);
+          if (!matches) return;
+        }
+
+        const approxRating = book.approxRating ?? "?";
+        const rank = book._computedRank ?? (index + 1);
+
+        const card = document.createElement("article");
+        card.className = "book-card";
+        card.dataset.index = String(index);
+
+        const previewThemes = themes
+          .slice(0, 3)
+          .map((t) => `<span>${t}</span>`)
+          .join("");
+
+        card.innerHTML = `
+          <div class="book-card-header">
+            <div class="book-rank">#${rank}</div>
+
+            <div class="book-title-author">
+              <h3 class="book-title">${book.title}</h3>
+              <p class="book-author">${book.author ? "by " + book.author : ""}</p>
+            </div>
+
+            <div class="book-rating-badge" title="Approximate average rating">
+              <span class="rating-score">${approxRating}</span>
+              <span class="rating-max">/5</span>
+            </div>
+          </div>
+
+          <div class="book-card-footer">
+            <div class="book-preview-themes">
+              ${previewThemes || "<span>No themes listed</span>"}
+            </div>
+            <div class="card-chevron" aria-hidden="true">More &rsaquo;</div>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
+    function openDetailDrawer(book) {
+      const backdrop = document.getElementById("detail-backdrop");
+      if (!backdrop || !book) return;
+
+      const titleEl = document.getElementById("detail-title");
+      const authorEl = document.getElementById("detail-author");
+      const ratingScoreEl = document.getElementById("detail-rating-score");
+      const themesEl = document.getElementById("detail-themes");
+      const reviewsEl = document.getElementById("detail-reviews");
+      const metaEl = document.getElementById("detail-meta");
+
+      if (titleEl) titleEl.textContent = book.title || "Untitled";
+      if (authorEl) authorEl.textContent = book.author ? `by ${book.author}` : "";
+      if (ratingScoreEl) ratingScoreEl.textContent = book.approxRating ?? "?";
+
+      if (themesEl) {
+        themesEl.innerHTML = "";
+        (book.themes || []).forEach((t) => {
+          const pill = document.createElement("span");
+          pill.className = "detail-theme-pill";
+          pill.textContent = t;
+          themesEl.appendChild(pill);
+        });
+      }
+
+      if (reviewsEl) {
+        reviewsEl.innerHTML = "";
+        (book.reviewSummary || []).forEach((line) => {
+          const li = document.createElement("li");
+          li.textContent = line;
+          reviewsEl.appendChild(li);
+        });
+      }
+
+      if (metaEl) {
+        const rank = book._computedRank ?? "";
+        metaEl.textContent = rank
+          ? `Ranked #${rank} on this shelf • Approx rating: ${book.approxRating ?? "?"}/5`
+          : `Approx rating: ${book.approxRating ?? "?"}/5`;
+      }
+
+      backdrop.classList.add("active");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeDetailDrawer() {
+      const backdrop = document.getElementById("detail-backdrop");
+      if (!backdrop) return;
+      backdrop.classList.remove("active");
+      document.body.style.overflow = "";
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const yearEl = document.getElementById("year");
+      if (yearEl) {
+        yearEl.textContent = new Date().getFullYear();
+      }
+
+      const shelfId = getShelfFromURL();
+      if (shelfId) {
+        loadShelf(shelfId);
+      } else {
+        updateShelfLabel("Scan a shelf tag to begin.");
+      }
+
+      const filterSelect = document.getElementById("theme-filter");
+      if (filterSelect) {
+        filterSelect.addEventListener("change", (e) => {
+          currentThemeFilter = e.target.value || "";
+          renderShelf();
+        });
+      }
+
+      const container = document.getElementById("shelf-container");
+      if (container) {
+        container.addEventListener("click", (e) => {
+          const card = e.target.closest(".book-card");
+          if (!card) return;
+          const index = parseInt(card.dataset.index, 10);
+          if (!Number.isNaN(index) && currentBooks[index]) {
+            openDetailDrawer(currentBooks[index]);
+          }
+        });
+      }
+
+      const backdrop = document.getElementById("detail-backdrop");
+      const closeBtn = document.querySelector(".detail-close-btn");
+
+      if (backdrop) {
+        backdrop.addEventListener("click", (e) => {
+          if (e.target === backdrop) {
+            closeDetailDrawer();
+          }
+        });
+      }
+
+      if (closeBtn) {
+        closeBtn.addEventListener("click", () => closeDetailDrawer());
+      }
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          closeDetailDrawer();
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>
