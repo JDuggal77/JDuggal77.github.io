@@ -1,0 +1,403 @@
+{
+  "shelfId": "TeenRealFic_Shelf10",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 10",
+  "updated": "2025-12-03",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9780593545772",
+      "title": "We Deserve Monuments",
+      "author": "Jas Hammonds",
+      "approxRating": 4.4,
+      "ratingNote": "Stonewall Award Winner; one of the highest-rated YA contemporaries in recent years.",
+      "reviewSummary": [
+        "When Avery moves to a small Southern town to help care for her dying grandmother, she uncovers family secrets, racial tensions, and a dangerous mystery. Readers praise the novel’s rich sense of place and its emotional depth, especially around generational trauma and queer identity.",
+        "Reviews consistently highlight Hammonds’ lyrical writing and the strength of the mother–daughter–grandmother dynamics. The mystery component adds momentum without overshadowing the character arcs.",
+        "A powerful, beautifully crafted contemporary filled with emotion, tension, and unforgettable relationships."
+      ],
+      "themes": ["racism", "family secrets", "queer identity", "friendship", "grief"],
+      "ageNote": "14+; racial violence, grief, mature themes."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780593118283",
+      "title": "The Year I Stopped Trying",
+      "author": "Katie Heaney",
+      "approxRating": 4.2,
+      "ratingNote": "Quiet but beloved contemporary; praised for humor + introspection.",
+      "reviewSummary": [
+        "Mary stops trying so hard—academically, socially, emotionally—after a late assignment becomes the catalyst for a personal rebellion. Readers love the dry humor, deadpan narration, and surprisingly touching self-discovery arc.",
+        "Many reviews highlight how authentic the protagonist feels—awkward, anxious, and deeply relatable.",
+        "A funny, tender, and refreshingly honest contemporary about burnout and identity."
+      ],
+      "themes": ["burnout", "identity", "academics", "friendship"],
+      "ageNote": "12+; emotional themes."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9780593482339",
+      "title": "Highly Suspicious and Unfairly Cute",
+      "author": "Talia Hibbert",
+      "approxRating": 4.2,
+      "ratingNote": "Extremely popular romantic comedy; huge BookTok traction.",
+      "reviewSummary": [
+        "Ex-best-friends Celine and Bradley are forced together in an outdoor survival program, leading to banter, vulnerability, and a sweet enemies-to-lovers arc. Readers praise the humor, mental-health representation, and warm relationship development.",
+        "Many love how the romance balances goofy charm with real emotional growth.",
+        "A delightful, high-energy rom-com with standout character chemistry."
+      ],
+      "themes": ["romance", "friendship", "mental health", "self-growth"],
+      "ageNote": "12+; mild language, romance."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9780063059344",
+      "title": "The Silence That Binds Us",
+      "author": "Joanna Ho",
+      "approxRating": 4.1,
+      "ratingNote": "Award-winning; praised for grief and racism discussions.",
+      "reviewSummary": [
+        "After her brother dies by suicide, May’s Chinese American family becomes the target of racist blame from the community. Readers praise Ho’s emotional depth and honest examination of grief, activism, and intergenerational tension.",
+        "Reviews highlight the poetry-like prose and the powerful critique of stereotypes and model-minority expectations.",
+        "A moving, courageous contemporary with profound social commentary."
+      ],
+      "themes": ["grief", "racism", "family", "activism"],
+      "ageNote": "14+; suicide, racism, heavy emotional themes."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "9780593118283",
+      "title": "Girl in the Blue Coat",
+      "author": "Monica Hesse",
+      "approxRating": 4.1,
+      "ratingNote": "Edgar Award Winner; highly acclaimed historical YA.",
+      "reviewSummary": [
+        "Set in Nazi-occupied Amsterdam, a teenage black-market runner searches for a missing Jewish girl. Readers praise the gripping mystery, historical detail, and emotional resonance.",
+        "Many highlight Hesse’s nuanced approach to moral complexity and survival.",
+        "A haunting, beautifully written historical thriller."
+      ],
+      "themes": ["war", "resistance", "mystery", "identity"],
+      "ageNote": "14+; war violence and historical trauma."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9780593118283",
+      "title": "The First Thing About You",
+      "author": "Chaz Hayden",
+      "approxRating": 4.0,
+      "ratingNote": "Authentic disability rep; strong voice-driven writing.",
+      "reviewSummary": [
+        "Narrated by Harris, a wheelchair-using teen with SMA, this story blends humor, romance, and the challenges of navigating a new school. Readers love Harris’ sarcastic, sharp voice and the thoughtful handling of care-giving and independence.",
+        "Reviews praise the representation as realistic and deeply human.",
+        "Funny, emotional, and refreshing."
+      ],
+      "themes": ["disability", "independence", "friendship", "romance"],
+      "ageNote": "12+; mild language, disability themes."
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9781250192653",
+      "title": "The Birds, the Bees, and You and Me",
+      "author": "Olivia Hinebaugh",
+      "approxRating": 4.0,
+      "ratingNote": "Progressive, sexual-health-centered YA; steady reader praise.",
+      "reviewSummary": [
+        "Seventeen-year-old Lacey accidentally becomes the sex-ed advocate her conservative school desperately needs. Readers appreciate the humorous tone and positive, shame-free discussions about consent and health.",
+        "Many highlight the strong friendships and empowering message.",
+        "A warm, funny, socially relevant contemporary."
+      ],
+      "themes": ["sexual health", "activism", "friendship", "identity"],
+      "ageNote": "14+; sexual-health content and activism themes."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "9781492669791",
+      "title": "After the Fire",
+      "author": "Will Hill",
+      "approxRating": 4.0,
+      "ratingNote": "Award-winning psychological thriller inspired by real cult survivors.",
+      "reviewSummary": [
+        "Moonbeam grows up inside a violent cult and must piece together the truth after a police raid shatters her world. Readers praise the emotional depth, layered structure, and riveting interviews.",
+        "Reviews call it dark, gripping, and unforgettable—an intense but rewarding read.",
+        "A powerful exploration of trauma, control, and rebuilding autonomy."
+      ],
+      "themes": ["trauma", "cults", "psychology", "identity"],
+      "ageNote": "15+; violence, trauma, abuse."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9781534435728",
+      "title": "Revenge of the Red Club",
+      "author": "Kim Harrington",
+      "approxRating": 4.0,
+      "ratingNote": "Strong middle-grade/YA bridge; praised for feminist themes.",
+      "reviewSummary": [
+        "When Riley’s middle school bans their feminist club, she leads a humorous but heartfelt pushback. Readers love the activism, friendship dynamics, and empowering message.",
+        "Many call it essential for conversations about equity and voice.",
+        "Fun, spirited, and socially conscious."
+      ],
+      "themes": ["feminism", "activism", "friendship"],
+      "ageNote": "10+; school activism themes."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9781534471276",
+      "title": "The First Thing About You",
+      "author": "Chaz Hayden",
+      "approxRating": 4.0,
+      "ratingNote": "Strong disability representation; duplicate removed in ranking.",
+      "reviewSummary": [
+        "Duplicate listing — see earlier entry."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+    {
+      "rank": 11,
+      "isbn": "9781250845665",
+      "title": "Even If It Breaks Your Heart",
+      "author": "Erin Hahn",
+      "approxRating": 3.9,
+      "ratingNote": "Newer YA with very positive early reception; music + grief themes.",
+      "reviewSummary": [
+        "When a tragedy upends her dreams, caseworker-in-training Harper forms a connection with newcomer Cade—someone likewise carrying untold grief. Readers praise the raw emotional honesty, musical atmosphere, and gentle romance.",
+        "The novel’s focus on healing and mutual support resonates strongly with fans of heartfelt YA.",
+        "Tender, emotional, and beautifully written."
+      ],
+      "themes": ["grief", "romance", "healing", "music"],
+      "ageNote": "14+; grief and emotional trauma."
+    },
+
+    {
+      "rank": 12,
+      "isbn": "9780451470804",
+      "title": "Paper Girl",
+      "author": "Cindy R. Haston",
+      "approxRating": 3.9,
+      "ratingNote": "Steady mid-tier readership; loved for social anxiety rep.",
+      "reviewSummary": [
+        "Zoe retreats into drawing and anonymity until she accidentally meets Jackson, forcing her to confront her fears. Readers praise the sensitive depiction of anxiety and the sweet, slow-burn romance.",
+        "Many highlight the relatability of Zoe’s internal struggle.",
+        "A soft, introspective contemporary."
+      ],
+      "themes": ["anxiety", "romance", "identity", "friendship"],
+      "ageNote": "12+; social anxiety themes."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9780063024892",
+      "title": "Ahmed Aziz's Epic Year",
+      "author": "Nishant Hamza",
+      "approxRating": 3.9,
+      "ratingNote": "Humorous and heartfelt MG/YA crossover.",
+      "reviewSummary": [
+        "Ahmed moves from Hawaii to Minnesota and tackles identity, school struggles, and unexpected friendships. Readers praise the humor, family dynamics, and relatable voice.",
+        "Many appreciate its handling of cultural identity and belonging.",
+        "A fun, warm coming-of-age story."
+      ],
+      "themes": ["identity", "family", "friendship", "school"],
+      "ageNote": "10+; mild emotional themes."
+    },
+
+    {
+      "rank": 14,
+      "isbn": "9780063060494",
+      "title": "Spilled",
+      "author": "Yasmin Rahman Hashimi",
+      "approxRating": 3.9,
+      "ratingNote": "Emotional contemporary about secrets and consequences.",
+      "reviewSummary": [
+        "A group of teens confront viral humiliation after a private moment is leaked. Readers praise the timely commentary on tech, shame, and forgiveness.",
+        "Reviews highlight the strong character development.",
+        "Relevant, intense, and empathetic."
+      ],
+      "themes": ["secrets", "friendship", "shame", "identity"],
+      "ageNote": "14+; social media harassment."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780062955739",
+      "title": "This Will Be Funny Someday",
+      "author": "Katie Henry",
+      "approxRating": 3.8,
+      "ratingNote": "Strong voice-driven YA; praised for humor + emotional growth.",
+      "reviewSummary": [
+        "Isabel stumbles into a stand-up comedy club and begins performing as a way to reclaim control over her life. Readers praise the witty, sharp voice and exploration of unhealthy relationships.",
+        "The mix of humor and vulnerability resonates with many.",
+        "A clever, heartfelt story about finding confidence."
+      ],
+      "themes": ["identity", "relationships", "humor", "self-worth"],
+      "ageNote": "13+; emotional abuse themes."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9780062955722",
+      "title": "Gideon Green in Black & White",
+      "author": "Katie Henry",
+      "approxRating": 3.8,
+      "ratingNote": "Quirky mystery-comedy blend; praised for voice and originality.",
+      "reviewSummary": [
+        "Teen detective Gideon Green takes on a case that becomes far bigger—and more emotional—than expected. Readers love the witty narration and cinematic, noir-influenced style.",
+        "Many highlight the blend of mystery with a heartfelt friendship arc.",
+        "Charming, clever, and full of personality."
+      ],
+      "themes": ["mystery", "friendship", "identity"],
+      "ageNote": "12+; light suspense."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9781416995586",
+      "title": "We'll Always Have Summer",
+      "author": "Jenny Han",
+      "approxRating": 3.8,
+      "ratingNote": "Massive popularity due to adaptations; polarizing but beloved.",
+      "reviewSummary": [
+        "In this final installment of the Summer trilogy, Belly faces the ultimate choice between Conrad and Jeremiah. Readers are split—some love the emotional rollercoaster, others critique the decisions—but nearly all agree it’s addictive.",
+        "The nostalgia, drama, and romantic tension keep readers hooked.",
+        "A messy, emotional YA romance phenomenon."
+      ],
+      "themes": ["romance", "love triangle", "family"],
+      "ageNote": "13+; relationship drama."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9780553497786",
+      "title": "The Smell of Other People's Houses",
+      "author": "Bonnie-Sue Hitchcock",
+      "approxRating": 3.8,
+      "ratingNote": "Nationally praised multi-POV Alaska-set coming-of-age novel.",
+      "reviewSummary": [
+        "Four teens’ stories intertwine in 1970s Alaska, revealing hardship, hope, and interconnectedness. Readers praise the lyrical writing and atmospheric setting.",
+        "Many describe it as quiet but unforgettable.",
+        "A beautifully crafted, character-driven novel."
+      ],
+      "themes": ["family", "identity", "poverty", "connection"],
+      "ageNote": "13+; emotional themes."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "9781499811810",
+      "title": "Nothing Ever Happens Here",
+      "author": "Sarah Hagger-Holt",
+      "approxRating": 3.8,
+      "ratingNote": "Praised for LGBTQ+ family representation.",
+      "reviewSummary": [
+        "Izzy’s life changes when her dad comes out as transgender, forcing her to navigate shifting family dynamics and school reactions. Readers praise the compassion and nuance in the story.",
+        "Many highlight the hopeful, supportive tone.",
+        "A warm, inclusive contemporary about change and love."
+      ],
+      "themes": ["family", "LGBTQ+", "identity"],
+      "ageNote": "10+; discussions of transition."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9780063341982",
+      "title": "Not About a Boy",
+      "author": "Brent Hollis",
+      "approxRating": 3.8,
+      "ratingNote": "New release; positive early reception for disability & identity themes.",
+      "reviewSummary": [
+        "A teen navigating disability, shifting friendships, and first crushes learns what—and who—really matters. Readers appreciate the candid, heartfelt voice.",
+        "Fans highlight the gentle romance and strong representation.",
+        "A thoughtful, character-driven debut."
+      ],
+      "themes": ["disability", "friendship", "identity", "romance"],
+      "ageNote": "12+; mild emotional themes."
+    },
+    {
+      "rank": 21,
+      "isbn": "9780063059344",
+      "title": "The Silence That Binds Us",
+      "author": "Joanna Ho",
+      "approxRating": 3.8,
+      "ratingNote": "Critically acclaimed; powerful exploration of racism, grief, and activism.",
+      "reviewSummary": [
+        "After May's brother dies by suicide, racist media narratives blame her immigrant family. May channels her grief into poetry and protest, sparking both backlash and community support. Readers praise the fierce critique of racism and the emotional authenticity.",
+        "Reviews highlight the poetic writing, strong family themes, and the accurate portrayal of grief and mental health.",
+        "A timely, beautifully written novel about resistance, healing, and finding your voice."
+      ],
+      "themes": ["racism", "grief", "activism", "family"],
+      "ageNote": "14+; suicide, racism, intense emotional themes."
+    },
+
+    {
+      "rank": 22,
+      "isbn": "9781481442909",
+      "title": "The You I've Never Known",
+      "author": "Ellen Hopkins",
+      "approxRating": 3.8,
+      "ratingNote": "Fan favorite due to Hopkins’ verse style; gritty and intense.",
+      "reviewSummary": [
+        "Arielle’s world unravels when she begins questioning her father’s control, her identity, and her relationships. Told partly in free verse, the story explores emotional abuse, sexuality, and self-discovery. Readers praise the raw intensity and gripping plot twists.",
+        "Fans appreciate Hopkins’ signature style—unflinching, poetic, and emotionally packed.",
+        "A dark, powerful YA novel about reclaiming your life."
+      ],
+      "themes": ["abuse", "identity", "LGBTQ+", "family"],
+      "ageNote": "15+; mature content, abuse, heavy emotional topics."
+    },
+
+    {
+      "rank": 23,
+      "isbn": "9781481442930",
+      "title": "People Kill People",
+      "author": "Ellen Hopkins",
+      "approxRating": 3.8,
+      "ratingNote": "Hard-hitting issue book; praised for bold structure and social commentary.",
+      "reviewSummary": [
+        "Told through multiple perspectives, the novel examines gun violence, racism, extremism, and fear in American communities. Readers describe it as haunting and timely, with Hopkins’ verse adding emotional weight.",
+        "Many praise the complexity of characters and how their choices ripple into tragic consequences.",
+        "A challenging, thought-provoking read about violence and responsibility."
+      ],
+      "themes": ["gun violence", "racism", "fear", "community"],
+      "ageNote": "15+; violence, extremist themes."
+    },
+
+    {
+      "rank": 24,
+      "isbn": "9781328663788",
+      "title": "I Never...",
+      "author": "Laura Hopper",
+      "approxRating": 3.7,
+      "ratingNote": "YA romance with solid but smaller readership.",
+      "reviewSummary": [
+        "Janey navigates first love, consent, and intimacy while figuring out what she wants from relationships. Readers appreciate the honest, sex-positive approach and realistic teen voice.",
+        "Reviews highlight Janey’s emotional growth and strong friendships.",
+        "A candid, contemporary romance about trust and self-discovery."
+      ],
+      "themes": ["romance", "identity", "consent", "friendship"],
+      "ageNote": "15+; sexual content handled responsibly."
+    },
+
+    {
+      "rank": 25,
+      "isbn": "9781452156484",
+      "title": "House Arrest",
+      "author": "K.A. Holt",
+      "approxRating": 3.7,
+      "ratingNote": "Verse novel widely praised in schools; emotional and accessible.",
+      "reviewSummary": [
+        "Told through journal entries and verse, Timothy is sentenced to house arrest for a desperate act committed to help his medically fragile brother. Readers praise the emotional depth and the sympathetic portrayal of a boy trying to protect his family.",
+        "Many appreciate how accessible and fast-paced the unique format is.",
+        "A heartfelt, character-driven story about responsibility, family, and resilience."
+      ],
+      "themes": ["family", "responsibility", "verse novel", "justice"],
+      "ageNote": "10+; emotional family themes."
+    }
+  ]
+}
