@@ -1,0 +1,407 @@
+{
+  "shelfId": "TeenRealFic_Shelf06",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 6",
+  "updated": "2025-12-03",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9781338306125",
+      "title": "I Wish You All the Best",
+      "author": "Mason Deaver",
+      "approxRating": 4.3,
+      "ratingNote": "One of the most beloved queer YA novels; widely praised for emotional honesty.",
+      "reviewSummary": [
+        "Ben De Backer is kicked out by their parents after coming out as nonbinary, and the story follows their attempt to rebuild a life while dealing with trauma, anxiety, and the uncertainty of being young and queer without stable support. Reviewers consistently praise the novel’s sensitivity, warmth, and emotional depth, describing it as a lifeline for readers seeking representation. Nathan, Ben’s love interest, is frequently mentioned as one of the most tender and supportive YA characters in recent years.",
+        "The novel examines chosen family, healing, and self-worth with nuance, making it resonate deeply across queer audiences. Many highlight that Deaver’s portrayal of anxiety and panic attacks feels unusually accurate for YA fiction.",
+        "A quiet but powerful story of survival, love, and identity."
+      ],
+      "themes": ["nonbinary identity", "trauma", "healing", "romance"],
+      "ageNote": "14+; parental rejection, anxiety, panic attacks."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780062020567",
+      "title": "The Miseducation of Cameron Post",
+      "author": "Emily M. Danforth",
+      "approxRating": 4.3,
+      "ratingNote": "Award-winning, influential queer coming-of-age novel.",
+      "reviewSummary": [
+        "After the death of her parents, Cameron Post is sent to live with conservative relatives who later force her into a conversion therapy camp. Readers praise the book for its sweeping emotional range and its honest, unflinching look at sexuality, shame, and resistance. Danforth’s writing is celebrated for its introspective detail and richly drawn characters.",
+        "Many reviews emphasize how powerful the novel feels as both a historical story and a contemporary message about queer autonomy and survival. The camp scenes are harrowing but grounded in Cameron’s fierce internal resilience.",
+        "A cornerstone of modern queer YA literature."
+      ],
+      "themes": ["sexuality", "conversion therapy", "identity", "resilience"],
+      "ageNote": "15+; abuse, homophobia, emotional trauma."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9781250222794",
+      "title": "Little Universes",
+      "author": "Heather Demetrios",
+      "approxRating": 4.2,
+      "ratingNote": "Deeply emotional and literary; praised for character complexity.",
+      "reviewSummary": [
+        "Sisters Mae and Hannah are left reeling after the sudden death of their parents, and the novel explores grief, mental illness, religion, and love through alternating viewpoints. Readers praise the intensity and beauty of the writing—Demetrios dives into messy emotional territory with honesty and compassion. Mae’s scientific perspective clashes with Hannah’s artistic, anxious worldview, creating tension that feels real and heartbreaking.",
+        "Many reviewers highlight the authenticity of the depression and addiction portrayals, noting that the book refuses to offer easy solutions. Fans call it devastating, lyrical, and cathartic.",
+        "An emotionally raw, atmospheric story about healing, family, and loss."
+      ],
+      "themes": ["grief", "sisterhood", "mental health", "addiction"],
+      "ageNote": "15+; depression, substance use, heavy emotional themes."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9781665902373",
+      "title": "Forget Me Not",
+      "author": "Alyson Derrick",
+      "approxRating": 4.2,
+      "ratingNote": "Emotional queer romance with high dramatic stakes.",
+      "reviewSummary": [
+        "Stevie and Nora are deeply in love—until an accident erases Stevie’s memory of their entire relationship. Reviewers praise how Derrick captures the ache and tension of a one-sided love story where one girl remembers everything and the other remembers nothing. The emotional stakes are high, and readers often describe the book as a ‘gut punch’ in the best way.",
+        "The themes of identity, parental control, and queer autonomy are woven tightly into the plot, making the romance feel weighty and real. Many praise the restraint and tenderness in Derrick’s writing.",
+        "A heartbreaking, unforgettable queer love story."
+      ],
+      "themes": ["amnesia", "queer romance", "family pressure", "identity"],
+      "ageNote": "14+; emotional intensity, parental homophobia."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "9781534405073",
+      "title": "Everything I Know About You",
+      "author": "Barbara Dee",
+      "approxRating": 4.1,
+      "ratingNote": "Praised for sensitive depiction of eating disorders and middle-school friendships.",
+      "reviewSummary": [
+        "Tally goes on a school trip with her classmates and begins to notice alarming signs that her roommate, Ava, may have an eating disorder. Reviewers praise the balance between gentle friendship storytelling and honest mental health representation. Dee’s writing is consistently noted as accessible, empathetic, and age-appropriate, making complex topics manageable for young readers.",
+        "The book also explores insecurity, jealousy, and the difficulty of speaking up when something is wrong. Many teachers and librarians consider it one of the best middle-grade explorations of disordered eating.",
+        "A thoughtful, compassionate story for younger YA readers."
+      ],
+      "themes": ["friendship", "eating disorders", "self-image", "trust"],
+      "ageNote": "10+; eating disorder themes but handled delicately."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9781481478519",
+      "title": "Halfway Normal",
+      "author": "Barbara Dee",
+      "approxRating": 4.0,
+      "ratingNote": "Emotional, hopeful novel about life after illness.",
+      "reviewSummary": [
+        "Nora is returning to school after two years of cancer treatment, and she struggles to fit in when her classmates treat her like she’s fragile or famous. Readers praise the book’s authentic depiction of medical trauma, identity shifts, and the awkwardness of re-entry after long illness. Nora’s voice is straightforward, relatable, and often funny in a quiet way.",
+        "Many reviewers appreciate that the book focuses on the ‘after’ rather than the illness itself, portraying healing as nonlinear and emotionally complex.",
+        "A tender, meaningful story about resilience and redefining normal."
+      ],
+      "themes": ["illness recovery", "identity", "friendship", "healing"],
+      "ageNote": "10+; emotional but gentle."
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9781481459686",
+      "title": "Truth or Dare",
+      "author": "Barbara Dee",
+      "approxRating": 4.0,
+      "ratingNote": "Well-received story about boundaries, pressure, and self-worth.",
+      "reviewSummary": [
+        "During a sleepover, Lia becomes increasingly uncomfortable with the direction a game of Truth or Dare is taking and begins questioning her friendships and sense of self. Readers highlight how realistically Dee portrays peer pressure and confusing early-teen experiences. The book has been praised by educators for opening discussions about consent and discomfort in age-appropriate ways.",
+        "The emotional arc is subtle but meaningful, focusing on self-confidence and learning to voice your boundaries.",
+        "A relatable, empowering story for younger teens."
+      ],
+      "themes": ["peer pressure", "friendship", "consent", "self-esteem"],
+      "ageNote": "9+; mild emotional tension."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "9781534466340",
+      "title": "All This Time",
+      "author": "Mikki Daughtry & Rachael Lippincott",
+      "approxRating": 4.0,
+      "ratingNote": "Bestselling emotional romance; dramatic twist leaves strong impact.",
+      "reviewSummary": [
+        "Kyle is recovering from an accident that killed his girlfriend when he meets Marley, a mysterious girl dealing with her own grief. Readers praise the emotional poignancy and the vulnerability of the characters. The book contains a major twist that has been divisive—but memorable—for YA romance fans.",
+        "The authors of *Five Feet Apart* bring a similar blend of sorrow and sweetness, making this a favorite among readers who enjoy dramatic romances.",
+        "A heartfelt, sometimes heartbreaking story about loss and healing."
+      ],
+      "themes": ["grief", "romance", "healing", "trauma"],
+      "ageNote": "13+; death, emotional distress."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9781534438248",
+      "title": "Don’t Ask Me Where I’m From",
+      "author": "Jennifer De Leon",
+      "approxRating": 3.9,
+      "ratingNote": "Timely, widely taught, praised for immigrant identity themes.",
+      "reviewSummary": [
+        "Liliana is accepted into a METCO-style program that buses her to a predominantly white school, forcing her to navigate microaggressions, culture shock, and her father’s deportation. Readers praise the authenticity of the voice and the strong emotional beats. The book explores race, assimilation, and activism in ways that feel accessible and meaningful to teens.",
+        "Many reviews highlight how realistic the friendships and conflicts feel, showing both the pain and pride of being first-generation.",
+        "A thoughtful, culturally rich novel that resonates with many young readers."
+      ],
+      "themes": ["immigration", "identity", "racism", "assimilation"],
+      "ageNote": "12+; racism, immigration trauma."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9781665904162",
+      "title": "Borderless",
+      "author": "Jennifer De Leon",
+      "approxRating": 3.9,
+      "ratingNote": "Powerful immigration-themed YA; praised for socio-political realism.",
+      "reviewSummary": [
+        "Maya, a Guatemalan teenager, dreams of becoming a fashion designer but becomes entangled in political and economic forces pushing her toward migration. Readers highlight the immediacy and urgency of the story, which shows the systemic pressures that shape migration journeys. The writing is vivid and empathetic, and the emotional stakes feel real.",
+        "Many reviews praise De Leon for centering Central American voices in YA, a grouping rarely given nuance or visibility.",
+        "An intense, timely book that blends ambition with survival."
+      ],
+      "themes": ["immigration", "politics", "dreams", "family"],
+      "ageNote": "13+; violence and political unrest."
+    },
+
+    {
+      "rank": 11,
+      "isbn": "9780593429426",
+      "title": "Love & Other Great Expectations",
+      "author": "Becky Dean",
+      "approxRating": 3.9,
+      "ratingNote": "Feel-good literary-themed romance; popular among light contemporary YA fans.",
+      "reviewSummary": [
+        "Brittany joins a literary scavenger hunt across the UK, meeting a charming rival named Luke along the way. Readers praise the book’s blend of travel adventure, romance, and classic-lit references. It’s often described as a ‘comfort read’—funny, sweet, and atmospheric.",
+        "Reviewers appreciate how the book deals with grief and disability (Brittany has recently lost her vision in one eye), adding depth without overwhelming the light tone.",
+        "A charming romantic adventure perfect for fans of bookish YA contemporaries."
+      ],
+      "themes": ["romance", "travel", "literature", "self-discovery"],
+      "ageNote": "12+; romance and light emotional themes."
+    },
+
+    {
+      "rank": 12,
+      "isbn": "1338797697",
+      "title": "Debating Darcy",
+      "author": "Sayantani DasGupta",
+      "approxRating": 3.8,
+      "ratingNote": "Pride & Prejudice retelling with an activism/social justice twist.",
+      "reviewSummary": [
+        "Leela Bose joins her elite school’s debate team, clashing immediately with Firoze Darcy, the brilliant but frustratingly arrogant star debater. Readers praise the book’s humor, cultural detail, and feminist energy. The modern debates mirror Austen’s social commentary with sharp relevance.",
+        "Many reviewers highlight the fun banter and slow-burn rivalry-to-romance dynamic, along with the exploration of privilege and school competition.",
+        "A lively, smart retelling for fans of rom-com-styled YA."
+      ],
+      "themes": ["debate", "rivals-to-lovers", "culture", "feminism"],
+      "ageNote": "12+; mild romance."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9780063018570",
+      "title": "When the Vibe Is Right",
+      "author": "Sarah Dass",
+      "approxRating": 3.8,
+      "ratingNote": "Fun Caribbean romance with Carnival setting.",
+      "reviewSummary": [
+        "Eliza and Kingsley find themselves thrown together during Trinidad’s Carnival season, balancing love, grief, and family expectations. Readers love the vibrant Caribbean setting—food, music, traditions, and community—which brings the story to life. The romance is sweet and emotional without being heavy.",
+        "Many reviewers highlight Dass’s depiction of grief and healing, which adds depth beneath the festive backdrop.",
+        "A colorful, feel-good romance woven with cultural pride."
+      ],
+      "themes": ["romance", "culture", "grief", "family"],
+      "ageNote": "12+; mild romance."
+    },
+
+    {
+      "rank": 14,
+      "isbn": "154203874X",
+      "title": "Somebody That I Used to Know",
+      "author": "Dana Davis",
+      "approxRating": 3.8,
+      "ratingNote": "Teen Hollywood drama with emotional undercurrent.",
+      "reviewSummary": [
+        "Dylan returns to L.A. to confront the ex-best friend who ditched her for stardom, only to find herself drawn into a messy mix of fame, rivalry, and old feelings. Readers enjoy the drama and pacing, noting that Davis balances humor with emotional honesty about ambition and jealousy.",
+        "Reviews praise the character development, particularly Dylan’s journey toward self-worth and forgiveness.",
+        "A fun, dramatic contemporary with heart."
+      ],
+      "themes": ["friendship fallout", "celebrity", "identity", "romance"],
+      "ageNote": "13+; drama, romance."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780593109977",
+      "title": "Sunny G’s Series of Rash Decisions",
+      "author": "Navdeep Dhillon",
+      "approxRating": 3.8,
+      "ratingNote": "Loud, heartfelt coming-of-age with cultural representation.",
+      "reviewSummary": [
+        "Sunny G, grieving his brother, decides to break out of his routine by following the wild impulses of Mindii Vang over one chaotic night. Readers praise the blend of humor, grief, and Sikh American representation, noting that the book feels vibrant and unique.",
+        "Many reviews highlight Sunny’s internal struggle between family duty and self-expression, which forms the emotional backbone of the story.",
+        "A bold, chaotic, heartfelt one-night adventure."
+      ],
+      "themes": ["grief", "culture", "adventure", "self-expression"],
+      "ageNote": "13+; grief themes, light language."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9781335012357",
+      "title": "Belly Up",
+      "author": "Eva Darrows",
+      "approxRating": 3.7,
+      "ratingNote": "Hybrid YA contemporary/comedy with unexpected pregnancy storyline.",
+      "reviewSummary": [
+        "Serendipity ‘Sev’ Rodriguez becomes pregnant after a summer fling and must navigate identity, sexuality, family tension, and unexpected responsibility. Readers appreciate Sev’s sharp, sarcastic voice and the book’s willingness to tackle heavy themes with humor.",
+        "Reviewers say the story feels messy in the way real life is messy—queer identity, complicated friendships, and the fear of losing control.",
+        "A bold, chaotic, emotionally charged contemporary."
+      ],
+      "themes": ["pregnancy", "sexuality", "identity", "friendship"],
+      "ageNote": "15+; sex, pregnancy, mature themes."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9781682635988",
+      "title": "Wren Martin Ruins It All",
+      "author": "Amanda DeWitt",
+      "approxRating": 3.7,
+      "ratingNote": "Quirky queer rom-com; character-driven and funny.",
+      "reviewSummary": [
+        "Wren Martin, a rule-following neurotic overachiever, is forced to collaborate with his sarcastic ex-best-friend-turned-enemy Leo Reyes. Readers praise the sharp banter, emotional vulnerability, and gradual reconnection of the boys’ friendship-turned-romance.",
+        "The book has a humorous tone but meaningful emotional beats about trust, forgiveness, and expectations.",
+        "A fun, heartfelt rivals-to-friends-to-lovers queer contemporary."
+      ],
+      "themes": ["queer romance", "friendship", "rivals", "identity"],
+      "ageNote": "13+; light romance."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9780062933621",
+      "title": "The Rest of the Story",
+      "author": "Sarah Dessen",
+      "approxRating": 3.7,
+      "ratingNote": "Summery romance with strong family themes.",
+      "reviewSummary": [
+        "Emma visits her late mother’s family for the summer and becomes torn between two worlds: the polished, controlled life she knows and the warm, chaotic lakeside community she’s rediscovering. Readers praise the emotional tension and the depiction of grief, family, and first love.",
+        "Dessen’s hallmark introspective writing and summer atmosphere make this a favorite among her longtime fans.",
+        "A reflective, romantic summer story with quiet emotional depth."
+      ],
+      "themes": ["family", "summer", "romance", "identity"],
+      "ageNote": "12+; mild romance and grief."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "0544439554",
+      "title": "High Heat",
+      "author": "Carl Deuker",
+      "approxRating": 3.7,
+      "ratingNote": "Sports drama with strong emotional core.",
+      "reviewSummary": [
+        "When Shane’s father is arrested, his future in baseball—and his sense of stability—begin to crumble. Readers appreciate how Deuker blends sports action with themes of anger, control, and redemption.",
+        "The baseball scenes are energetic and well-researched, making the emotional beats hit harder.",
+        "A gripping sports-centered coming-of-age story."
+      ],
+      "themes": ["sports", "anger", "family trouble", "identity"],
+      "ageNote": "12+; family tension, emotional stress."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9780358012429",
+      "title": "Golden Arm",
+      "author": "Carl Deuker",
+      "approxRating": 3.7,
+      "ratingNote": "Another solid Deuker sports novel; popular with teen athletes.",
+      "reviewSummary": [
+        "Lazarus Weathers, a pitcher from a rough Seattle neighborhood, gets the chance to play in an elite baseball league. Readers praise the underdog storyline and the insight into class divides and athletic ambition.",
+        "The book balances gritty realism with inspiring moments, earning support from coaches and reluctant readers.",
+        "A strong sports drama with heart and authenticity."
+      ],
+      "themes": ["sports", "poverty", "ambition", "family"],
+      "ageNote": "12+; mild violence, sports intensity."
+    },
+
+    {
+      "rank": 21,
+      "isbn": "9780063376342",
+      "title": "Shadowed",
+      "author": "Carl Deuker",
+      "approxRating": 3.6,
+      "ratingNote": "Less widely known Deuker title but solid sports-thriller blend.",
+      "reviewSummary": [
+        "Brian and Kyle stumble into trouble when they discover stolen goods, and their decisions threaten to derail their futures. Readers appreciate the blend of sports, loyalty, and suspense.",
+        "Reviews highlight the tension and moral dilemmas, though it’s considered one of Deuker’s quieter releases.",
+        "A fast, accessible read with realistic stakes."
+      ],
+      "themes": ["sports", "crime", "choices", "loyalty"],
+      "ageNote": "12+; mild danger."
+    },
+
+    {
+      "rank": 22,
+      "isbn": "9780593354254",
+      "title": "Diamond Park",
+      "author": "Phillippe Diederich",
+      "approxRating": 3.6,
+      "ratingNote": "Gritty road-trip thriller with cultural weight.",
+      "reviewSummary": [
+        "Three friends head to Mexico to collect the body of a murdered friend’s father, only to be swept into cartel territory and danger. Readers praise the intensity, cultural specificity, and moral questions raised.",
+        "The book is fast-paced but rooted in the characters’ emotional stakes and loyalty.",
+        "A gripping, tension-filled YA thriller with purpose."
+      ],
+      "themes": ["violence", "friendship", "culture", "danger"],
+      "ageNote": "15+; violence, cartel activity."
+    },
+
+    {
+      "rank": 23,
+      "isbn": "9781250887771",
+      "title": "The Rules of Royalty",
+      "author": "Cale Dietrich",
+      "approxRating": 3.5,
+      "ratingNote": "Pop-romance fun with a royal twist.",
+      "reviewSummary": [
+        "A movie star and a prince fall into a secret romance that turns both their lives upside down. Readers enjoy the swoony escapism and queer joy, though some note it’s lighter than Dietrich’s thrillers.",
+        "It’s fast, charming, and full of fan-favorite tropes.",
+        "A sweet, fluffy queer royal romance."
+      ],
+      "themes": ["romance", "royalty", "celebrity", "queer joy"],
+      "ageNote": "12+; light romance."
+    },
+
+    {
+      "rank": 24,
+      "isbn": "9781250887771",
+      "title": "The Rules of Royalty (copy 2)",
+      "author": "Cale Dietrich",
+      "approxRating": 3.5,
+      "ratingNote": "Duplicate copy for library circulation.",
+      "reviewSummary": [
+        "This is a duplicate library copy of the same book. Reviewers’ reactions remain identical to the original: light, fun, escapist, and full of sweet queer romance energy.",
+        "Perfect for readers wanting a breezy, trope-filled contemporary."
+      ],
+      "themes": ["romance", "royalty", "celebrity", "queer joy"],
+      "ageNote": "12+; light romance."
+    },
+
+    {
+      "rank": 25,
+      "isbn": "9780063255715",
+      "title": "Out of Body",
+      "author": "N.E. Davenport",
+      "approxRating": 3.4,
+      "ratingNote": "More speculative than realistic; lower YA familiarity.",
+      "reviewSummary": [
+        "A teen experiences frightening out-of-body visions and must confront trauma, trust, and the thin line between reality and imagination. Readers say the book is genre-bending and atmospheric, though some find it darker and less contemporary than expected.",
+        "The protagonist’s emotional journey is compelling even when the plot leans surreal.",
+        "A moody, intense story for readers who enjoy psychological twists."
+      ],
+      "themes": ["trauma", "surrealism", "identity", "fear"],
+      "ageNote": "14+; dark themes, psychological tension."
+    }
+
+  ]
+}
