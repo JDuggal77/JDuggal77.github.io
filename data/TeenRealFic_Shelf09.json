@@ -1,0 +1,438 @@
+{
+  "shelfId": "TeenRealFic_Shelf09",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 9",
+  "updated": "2025-12-03",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9780525478812",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "approxRating": 4.4,
+      "ratingNote": "One of the most influential YA novels ever; huge global impact and consistently high ratings.",
+      "reviewSummary": [
+        "Hazel Grace Lancaster and Augustus Waters navigate first love while facing terminal illness, mortality, and the hunger to live meaningfully. Readers highlight the novel’s blend of humor and devastating emotional honesty, praising its sensitive portrayal of illness without sentimentality.",
+        "Many reviews describe the narrative as life-affirming despite its tragic core, with special praise for Green’s dialogue and philosophical undertones. The Amsterdam chapters and the exploration of unfinished stories resonate strongly.",
+        "Universally regarded as a touchstone of YA contemporary fiction."
+      ],
+      "themes": ["mortality", "love", "illness", "grief"],
+      "ageNote": "14+; cancer themes, emotional intensity."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780316540827",
+      "title": "Foxglove",
+      "author": "Adalyn Grace",
+      "approxRating": 4.3,
+      "ratingNote": "Strong follow-up to Belladonna with huge BookTok traction.",
+      "reviewSummary": [
+        "In this gothic-romance sequel, Signa and Sylvan increasingly confront the tension between fate, death, and love. Reviewers love Grace’s atmospheric writing, rich world-building, and romantic tension.",
+        "Readers consistently praise the pacing and deepening emotional stakes, calling it darker and more gripping than the first installment.",
+        "A lush, dramatic YA fantasy-romance with mass popularity."
+      ],
+      "themes": ["romance", "mystery", "gothic", "destiny"],
+      "ageNote": "14+; mild violence, romantic tension."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9780374310581",
+      "title": "Somewhere Only We Know",
+      "author": "Maurene Goo",
+      "approxRating": 4.2,
+      "ratingNote": "Widely loved rom-com; strong K-pop and travel appeal.",
+      "reviewSummary": [
+        "An aspiring K-pop star and a paparazzi-adjacent boy share an unexpected 24-hour adventure in Hong Kong. Readers adore Goo’s blend of heartfelt romance, humor, and cultural nuance.",
+        "Reviews highlight the chemistry between the leads and the vivid sense of place—food stalls, neon streets, and stardom pressures.",
+        "A delightful, warm romance with depth beneath the charm."
+      ],
+      "themes": ["romance", "identity", "fame", "serendipity"],
+      "ageNote": "12+; light romance."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9780374311144",
+      "title": "Throwback",
+      "author": "Maurene Goo",
+      "approxRating": 4.2,
+      "ratingNote": "Time-travel mother-daughter story with emotional weight.",
+      "reviewSummary": [
+        "After a fight with her immigrant mom, Samantha is thrown back to the 1990s to understand the life her mother lived. Reviewers praise the blend of humor, cultural reflection, and heartfelt generational healing.",
+        "The 90s references, friendship arcs, and emotional growth make it one of Goo’s strongest novels.",
+        "A funny, nostalgic, and tender story about understanding where you come from."
+      ],
+      "themes": ["family", "identity", "culture", "time travel"],
+      "ageNote": "12+; family conflict and mild language."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "9781250769787",
+      "title": "Perfect on Paper",
+      "author": "Sophie Gonzales",
+      "approxRating": 4.2,
+      "ratingNote": "Very well-reviewed bisexual rom-com; strong critical praise.",
+      "reviewSummary": [
+        "Darcy Phillips anonymously runs a relationship-advice locker until she’s caught and recruited to help a classmate win back his ex. Readers adore Gonzales’s humor, heartfelt friendships, and strong LGBTQ+ representation.",
+        "Reviews emphasize Darcy’s messy, relatable journey toward honesty and emotional maturity.",
+        "A witty, thoughtful, big-hearted contemporary romance."
+      ],
+      "themes": ["romance", "identity", "friendship", "self-discovery"],
+      "ageNote": "13+; romance and mild language."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9781250813497",
+      "title": "Icebreaker",
+      "author": "A. L. Graziadei",
+      "approxRating": 4.1,
+      "ratingNote": "National Book Award longlist; very strong queer sports romance.",
+      "reviewSummary": [
+        "Mickey James—an NHL prospect grappling with mental health, expectations, and sexuality—forms a complicated bond with rival Jaysen Caulfield. Reviewers praise the chemistry, emotional nuance, and authentic sports details.",
+        "Many highlight Graziadei’s compassionate portrayal of depression and pressure in elite athletics.",
+        "A compelling, vulnerable queer contemporary with emotional power."
+      ],
+      "themes": ["mental health", "queer romance", "sports", "identity"],
+      "ageNote": "15+; mental-health themes and mild sexual content."
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9780374389006",
+      "title": "A Million Quiet Revolutions",
+      "author": "Robin Gow",
+      "approxRating": 4.1,
+      "ratingNote": "Award-recognized; intimate, poetic dual-trans-boy love story.",
+      "reviewSummary": [
+        "Aaron and Oliver, two trans boys in a small town, find strength in their bond and in reclaiming queer history. Readers praise the lyrical writing and powerful emotional core.",
+        "Many reviews highlight its themes of activism, identity, and tenderness.",
+        "Quiet, political, romantic, and deeply meaningful."
+      ],
+      "themes": ["queer identity", "activism", "love", "history"],
+      "ageNote": "14+; emotional intensity and activism themes."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "9781368078160",
+      "title": "Caught in a Bad Fauxmance",
+      "author": "Elle Gonzalez Rose",
+      "approxRating": 4.1,
+      "ratingNote": "Very popular recent YA rom-com; strong reviews.",
+      "reviewSummary": [
+        "A fake-dating setup set against messy family politics and Cuban American culture. Readers love the humor, the chemistry, and the warm family dynamics.",
+        "Many reviews highlight its fun tone and well-developed love interest.",
+        "A charming, culturally rich fake-dating romance."
+      ],
+      "themes": ["romance", "family", "identity", "fake dating"],
+      "ageNote": "13+; light romance."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9780593485071",
+      "title": "Boys I Know",
+      "author": "Anna Gracia",
+      "approxRating": 4.0,
+      "ratingNote": "Strong cultural voice; widely praised in Asian American YA circles.",
+      "reviewSummary": [
+        "June’s messy, complicated relationships with boys collide with her Taiwanese American family expectations. Readers praise the authentic voice, unfiltered emotions, and painfully real mistakes.",
+        "Many highlight how refreshing it is to see an imperfect, confused protagonist.",
+        "Sharp, honest, and culturally resonant."
+      ],
+      "themes": ["identity", "dating", "culture", "self-worth"],
+      "ageNote": "15+; sex, drinking, and messy teen relationships."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9780593487099",
+      "title": "The Misdirection of Fault Lines",
+      "author": "Anna Gracia",
+      "approxRating": 4.0,
+      "ratingNote": "Newer title; strong early reviews and cultural depth.",
+      "reviewSummary": [
+        "A layered exploration of ambition, anxiety, and relationships among high-achieving teens. Reviewers appreciate Gracia’s honest portrayal of burnout, cultural pressure, and self-doubt.",
+        "Readers say the emotional unraveling feels painfully real and meaningful.",
+        "Thoughtful, nuanced contemporary with strong character depth."
+      ],
+      "themes": ["academics", "anxiety", "culture", "relationships"],
+      "ageNote": "14+; emotional intensity."
+    },
+    {
+      "rank": 11,
+      "isbn": "9781250856982",
+      "title": "In Repair",
+      "author": "A. L. Graziadei",
+      "approxRating": 4.0,
+      "ratingNote": "Critically praised follow-up exploring grief, identity, and mental health.",
+      "reviewSummary": [
+        "Graziadei continues their trademark blend of emotional depth and sports culture, centering a character struggling to rebuild after trauma. Readers highlight the quiet vulnerability and nuanced depiction of healing.",
+        "Reviews frequently praise the author’s ability to balance romance, introspection, and the pressures of competitive athletics.",
+        "A tender, quietly powerful exploration of recovery."
+      ],
+      "themes": ["healing", "sports", "grief", "identity"],
+      "ageNote": "15+; grief, mental health themes."
+    },
+
+    {
+      "rank": 12,
+      "isbn": "9780374311144",
+      "title": "Paper Towns",
+      "author": "John Green",
+      "approxRating": 3.9,
+      "ratingNote": "Major bestseller; strong cultural footprint from film & BookTube era.",
+      "reviewSummary": [
+        "Quentin’s search for the enigmatic Margo Roth Spiegelman becomes a journey about seeing people clearly rather than idealizing them. Readers praise Green’s humor, philosophical edge, and exploration of identity.",
+        "Many highlight the road-trip climax and the subversion of manic-pixie tropes.",
+        "Funny, thoughtful, and reflective—a YA staple."
+      ],
+      "themes": ["identity", "perception", "friendship", "mystery"],
+      "ageNote": "13+; language and emotional themes."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9781338726596",
+      "title": "In the Same Boat",
+      "author": "Holly Green",
+      "approxRating": 3.9,
+      "ratingNote": "Underrated gem; praised for romance + athletic grit.",
+      "reviewSummary": [
+        "Sadie competes in a brutal Texas river race while grappling with grief and her complicated childhood friend-turned-rival. Readers love the intense physical stakes, the slow-burn romance, and the emotional weight.",
+        "Many emphasize the authenticity of the endurance-race details.",
+        "A unique, heartfelt sports-meets-romance YA."
+      ],
+      "themes": ["grief", "sports", "romance", "friendship"],
+      "ageNote": "13+; emotional themes."
+    },
+
+    {
+      "rank": 14,
+      "isbn": "9780060784623",
+      "title": "Unstoppable",
+      "author": "Tim Green",
+      "approxRating": 3.9,
+      "ratingNote": "Beloved middle-grade/YA hybrid; heavy emotional punch.",
+      "reviewSummary": [
+        "Harrison’s football dreams collide with harsh realities when he enters foster care and faces a life-changing illness. Readers praise the gripping emotion and grounded sports drama.",
+        "Many reviews highlight how unflinching yet compassionate the story feels.",
+        "Heart-wrenching, inspiring, and widely used in classrooms."
+      ],
+      "themes": ["illness", "sports", "family", "trauma"],
+      "ageNote": "11+; illness and domestic abuse themes."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780061122738",
+      "title": "First Team",
+      "author": "Tim Green",
+      "approxRating": 3.8,
+      "ratingNote": "Popular with teen sports readers; steady moderate ratings.",
+      "reviewSummary": [
+        "When Brock is forced to hide the truth about his identity to join a football team, he faces challenges around honesty, loyalty, and belonging. Readers enjoy the pacing and authentic football action.",
+        "The sports drama and moral questions resonate strongly with younger YA readers.",
+        "Fast-paced, engaging sports contemporary."
+      ],
+      "themes": ["sports", "identity", "honesty", "teamwork"],
+      "ageNote": "10+; mild sports violence."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9780061122721",
+      "title": "Final Season",
+      "author": "Tim Green",
+      "approxRating": 3.8,
+      "ratingNote": "Moving family-centered football story.",
+      "reviewSummary": [
+        "A boy faces the difficult choice of continuing football as his father battles ALS. Reviews praise the emotional depth and heartfelt father-son relationship.",
+        "Readers say it confronts tough topics with sincerity.",
+        "Touching, meaningful, and grounded in real emotional stakes."
+      ],
+      "themes": ["family", "illness", "sports", "grief"],
+      "ageNote": "11+; illness themes."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9780061122738",
+      "title": "New Kid",
+      "author": "Tim Green",
+      "approxRating": 3.8,
+      "ratingNote": "Strong middle-grade crossover; classic Tim Green tone.",
+      "reviewSummary": [
+        "Brock, on the run with his dad, struggles to keep a low profile while navigating a new school and football team. Readers praise the blend of suspense and sports.",
+        "The tension keeps the pace fast for reluctant readers.",
+        "Action-driven and accessible for younger teens."
+      ],
+      "themes": ["sports", "family", "identity", "survival"],
+      "ageNote": "10+; mild action."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9781250822123",
+      "title": "What the Woods Took",
+      "author": "Courtney Gould",
+      "approxRating": 3.8,
+      "ratingNote": "Atmospheric horror-contemporary hybrid; strong cult following.",
+      "reviewSummary": [
+        "Gould blends grief, loneliness, and eerie supernatural elements as a girl investigates her sister’s disappearance. Readers praise the haunting mood and emotional core.",
+        "Reviews often compare it to psychological horror with strong queer themes.",
+        "Creepy, slow-burning, and beautifully written."
+      ],
+      "themes": ["mystery", "grief", "queer identity", "horror"],
+      "ageNote": "14+; unsettling imagery."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "9781627798543",
+      "title": "The Handsome Girl & Her Beautiful Boy",
+      "author": "B. T. Gottfred",
+      "approxRating": 3.7,
+      "ratingNote": "Very mixed reviews but notable for its gender-role subversion.",
+      "reviewSummary": [
+        "Zee, a tall, athletic girl, and Art, a beautifully feminine boy, navigate their unconventional, confusing relationship. Readers praise the attempt at gender-role reversal.",
+        "Others critique the uneven voice and pacing, resulting in polarized ratings.",
+        "Unique, messy, and conversation-provoking."
+      ],
+      "themes": ["gender roles", "romance", "identity"],
+      "ageNote": "15+; sexual themes."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9781250079206",
+      "title": "Forever for a Year",
+      "author": "B. T. Gottfred",
+      "approxRating": 3.7,
+      "ratingNote": "Intense, messy first-love story; controversial but discussed.",
+      "reviewSummary": [
+        "An unfiltered look at first love through two alternating perspectives. Readers appreciate the emotional honesty but warn the content is raw and sometimes uncomfortably intense.",
+        "Fans say it captures adolescent longing and confusion with accuracy.",
+        "Polarizing, bold, and emotionally vulnerable."
+      ],
+      "themes": ["romance", "identity", "coming of age"],
+      "ageNote": "15+; sexual content and emotional intensity."
+    },
+    {
+      "rank": 21,
+      "isbn": "9780399176262",
+      "title": "Here I Am",
+      "author": "Shaunta Grimes",
+      "approxRating": 3.7,
+      "ratingNote": "Quiet contemporary with strong emotional tone.",
+      "reviewSummary": [
+        "The story follows a teen girl navigating grief and anxiety while forming unexpected friendships. Readers appreciate Grimes’ soft, introspective writing and the focus on healing.",
+        "Some note a slower pace, but fans say the emotional moments land powerfully.",
+        "An intimate coming-of-age about rebuilding after loss."
+      ],
+      "themes": ["grief", "healing", "friendship", "identity"],
+      "ageNote": "12+; emotional themes."
+    },
+
+    {
+      "rank": 22,
+      "isbn": "9781613835017",
+      "title": "Blank Paige",
+      "author": "Ashley Griffin",
+      "approxRating": 3.7,
+      "ratingNote": "Lesser-known contemporary with moderate reviews.",
+      "reviewSummary": [
+        "Paige struggles with identity, creativity, and academic pressure while trying to reinvent herself. Readers say the themes feel relatable, though the book never reached wide distribution.",
+        "Fans enjoy the honesty about burnout and teen expectations.",
+        "A quiet, earnest story about finding your voice."
+      ],
+      "themes": ["academics", "identity", "self-worth"],
+      "ageNote": "12+; school stress."
+    },
+
+    {
+      "rank": 23,
+      "isbn": "9781534497467",
+      "title": "The Secrets We Keep",
+      "author": "Cassie Gustafson",
+      "approxRating": 3.7,
+      "ratingNote": "Heavy, emotional contemporary exploring trauma.",
+      "reviewSummary": [
+        "A teen girl wrestles with a devastating secret and the fallout that shapes her relationships and self-concept. Readers praise the thoughtful handling of trauma and the emotional authenticity.",
+        "Some warn it is a tough but meaningful read.",
+        "Raw, powerful, and deeply empathetic."
+      ],
+      "themes": ["trauma", "friendship", "healing", "grief"],
+      "ageNote": "15+; trauma, abuse themes."
+    },
+
+    {
+      "rank": 24,
+      "isbn": "9781981042301",
+      "title": "Dreaming with Mariposas",
+      "author": "Kenneth Gutierrez",
+      "approxRating": 3.7,
+      "ratingNote": "Well-liked indie coming-of-age novel.",
+      "reviewSummary": [
+        "A Salvadoran American teen navigates family, culture, and the search for identity amid magical-realism touches. Readers praise the cultural descriptions and emotional warmth.",
+        "Its indie roots give it a unique voice that resonates strongly with those who connect to the themes.",
+        "Gentle, heartfelt, and reflective."
+      ],
+      "themes": ["culture", "family", "identity", "magical realism"],
+      "ageNote": "12+; emotional themes."
+    },
+
+    {
+      "rank": 25,
+      "isbn": "9781481417648",
+      "title": "The Summer of Broken Things",
+      "author": "Margaret Peterson Haddix",
+      "approxRating": 3.7,
+      "ratingNote": "Popular MG/YA bridge novel with steady ratings.",
+      "reviewSummary": [
+        "Avery and Kayla—former childhood friends—are forced together during a summer in Spain, unlocking family secrets and personal revelations. Readers appreciate the emotional growth and setting.",
+        "Some find the pacing uneven, but most enjoy the engaging character arcs.",
+        "A thoughtful story about friendship and truth."
+      ],
+      "themes": ["friendship", "family secrets", "identity"],
+      "ageNote": "10+; mild emotional tension."
+    },
+
+    {
+      "rank": 26,
+      "isbn": "9781400032716",
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "author": "Mark Haddon",
+      "approxRating": 3.7,
+      "ratingNote": "Modern classic; widely taught; highly acclaimed but polarizing.",
+      "reviewSummary": [
+        "Told from the POV of Christopher, a 15-year-old autistic protagonist, this novel blends mystery, logic, and emotional insight. Readers praise its unique narrative voice and structure.",
+        "Some criticize portrayals of neurodivergence, but many find it moving and eye-opening.",
+        "Innovative, memorable, and culturally significant."
+      ],
+      "themes": ["neurodiversity", "family", "mystery", "perception"],
+      "ageNote": "13+; strong language and emotional tension."
+    },
+
+    {
+      "rank": 27,
+      "isbn": "9781250079213",
+      "title": "The Nerdy and the Dirty",
+      "author": "B. T. Gottfred",
+      "approxRating": 3.7,
+      "ratingNote": "Known for unfiltered voice and bold teen themes.",
+      "reviewSummary": [
+        "A shy, rule-following boy and a rebellious girl form an unlikely bond during a lake retreat. Readers describe it as raw, funny, and messy in a very teen-realistic way.",
+        "Some find it too explicit or chaotic, but fans say the emotional beats hit hard.",
+        "A bold, unconventional contemporary about desire and vulnerability."
+      ],
+      "themes": ["romance", "identity", "desire", "rebellion"],
+      "ageNote": "16+; sexual content and language."
+    }
+
+  ]
+}
