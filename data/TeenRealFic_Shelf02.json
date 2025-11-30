@@ -188,4 +188,142 @@
       "approxRating": 4.0,
       "ratingNote": "Dark, atmospheric, and literary.",
       "reviewSummary": [
-        "In a harsh Idaho winter, Jack must protect his younger brother from violent men while navigating poverty, isolation, and fear. Readers describe the writing as haunting and cinematic, with
+        "In a harsh Idaho winter, Jack must protect his younger brother from violent men while navigating poverty, isolation, and fear. Readers describe the writing as haunting and cinematic, with an almost thriller-like tension woven through a deeply emotional story. Ava’s perspective adds warmth and vulnerability, providing contrast to the novel’s bleak tone.",
+        "Many reviewers say the book feels like adult literary fiction—slow, deliberate, and very emotionally intense. The novel’s moral weight and stark setting are frequently highlighted as standout elements.",
+        "A haunting contemporary for readers who want realism with a sharp edge."
+      ],
+      "themes": ["poverty", "survival", "violence", "family loyalty"],
+      "ageNote": "15+; violent and emotionally heavy."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9780062494276",
+      "title": "We’ll Fly Away",
+      "author": "Bryan Bliss",
+      "approxRating": 4.0,
+      "ratingNote": "Award-nominated, emotionally intense.",
+      "reviewSummary": [
+        "Told partly through letters from death row, the novel explores the unraveling friendship of Luke and Toby as poverty, abuse, and choices they can’t take back pull them deeper into tragedy. Readers praise the emotional complexity of the boys’ relationship, saying it feels painfully real and tender even in its darkest moments. The structure—present-day letters and past events—creates a slow-building dread that reviewers call both heartbreaking and gripping.",
+        "Many reviews emphasize how the book avoids easy moralizing; instead, it portrays the justice system, family dysfunction, and loyalty in all their messy grey areas. It’s not a light read, but one that leaves readers thinking long after the final pages.",
+        "A powerful novel for mature teens who want realism handled with compassion."
+      ],
+      "themes": ["justice", "poverty", "friendship", "tragedy"],
+      "ageNote": "15+; abuse and violence themes."
+    },
+
+    {
+      "rank": 14,
+      "isbn": "9780358449041",
+      "title": "I Rise",
+      "author": "Marie Arnold",
+      "approxRating": 4.0,
+      "ratingNote": "Engaging contemporary with social-justice themes.",
+      "reviewSummary": [
+        "Ava is thrust into activism after her mother is harmed in a violent incident connected to rising police tension in their community. Readers praise how the book balances real-world issues with a deeply personal story about fear, responsibility, and exhaustion. Ava’s struggle with being labeled a symbol or “the face of change” feels especially relevant in today’s social climate.",
+        "Many reviews mention how grounded Ava feels—angry, scared, hopeful, and overwhelmed, often all at once. While the plot moves quickly at times, readers say the emotional truth is what sticks with you.",
+        "A timely contemporary for teens exploring activism and identity."
+      ],
+      "themes": ["activism", "identity", "community", "police violence"],
+      "ageNote": "13+; protest violence and emotional stress."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780063078727",
+      "title": "How to Excavate a Heart",
+      "author": "Jake Maia Arlow",
+      "approxRating": 4.0,
+      "ratingNote": "Popular queer holiday romance.",
+      "reviewSummary": [
+        "After a messy breakup, Shani accidentally hits a girl with her car—literally—and sparks an unexpected winter romance set against snowy D.C. streets. Readers love the cozy atmosphere, queer and Jewish representation, and the awkward, tender chemistry between the characters. The story captures that early-college mix of independence and uncertainty extremely well.",
+        "Some reviewers note that the pacing dips slightly in the middle, but the emotional payoff and holiday ambiance make up for it. The romance feels sweet, chaotic, and realistic rather than overly polished.",
+        "A soft, wintry queer romance perfect for fans of character-driven love stories."
+      ],
+      "themes": ["romance", "queer identity", "winter", "family complications"],
+      "ageNote": "14+; mild sexual content and drinking."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9780374304638",
+      "title": "What I Lost",
+      "author": "Alexandra Ballard",
+      "approxRating": 4.0,
+      "ratingNote": "Strong, empathetic handling of eating disorder recovery.",
+      "reviewSummary": [
+        "Elizabeth enters treatment for anorexia and struggles with recovery, family pressure, and her own perfectionism. Readers praise how authentically the book portrays the emotional and psychological sides of eating disorders instead of focusing just on symptoms. Elizabeth’s voice feels vulnerable and honest, and the setting—letters, therapy sessions, friendships—feels grounded and realistic.",
+        "Some reviewers mention that the book can be triggering for those currently struggling, but many say it’s one of the more hopeful and balanced portrayals they’ve seen in YA. The complexity of Elizabeth’s relationship with her mother is especially praised.",
+        "An emotional, thoughtful story about recovery and the hard work of healing."
+      ],
+      "themes": ["eating disorder recovery", "self-worth", "family pressure"],
+      "ageNote": "14+; detailed ED-related thoughts."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9780142411841",
+      "title": "Twisted",
+      "author": "Laurie Halse Anderson",
+      "approxRating": 3.9,
+      "ratingNote": "Gritty male-led contemporary; strong cult following.",
+      "reviewSummary": [
+        "Tyler becomes the center of attention after a prank, but the newfound visibility comes with pressure, rumors, and toxic expectations. Readers appreciate the raw look at masculinity, shame, depression, and the feeling of being trapped by how others see you. Anderson captures the internal collapse of a teen boy who doesn’t know how to ask for help.",
+        "Many reviewers say the ending hits hard and stays with you, and that the book feels ahead of its time in how it portrays mental health in boys. A few readers find Tyler abrasive, but most argue that’s precisely why the story works.",
+        "A dark, honest look at teen life under crushing pressure."
+      ],
+      "themes": ["masculinity", "rumors", "depression", "identity"],
+      "ageNote": "14+; includes suicidal ideation."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9781250802637",
+      "title": "Sasha Masha",
+      "author": "Agnes Borinsky",
+      "approxRating": 3.9,
+      "ratingNote": "Small, introspective queer contemporary.",
+      "reviewSummary": [
+        "Alex begins quietly questioning gender and identity while drifting into queer community spaces filled with artists and older friends who see the world differently. Readers describe the book as dreamlike, slow, and incredibly intimate, focusing on feelings rather than neat narrative arcs. Many say it captures that uncertain, in-between stage of self-discovery better than more polished, linear novels do.",
+        "Some reviewers find the ambiguity challenging, but most appreciate the honesty and the gentle, almost poetic tone. It resonates especially with readers exploring gender outside of traditional labels.",
+        "A thoughtful, quiet story that sits with you long after."
+      ],
+      "themes": ["gender questioning", "queer community", "identity"],
+      "ageNote": "14+; mild substance use and exploration themes."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "9781534430655",
+      "title": "Kings, Queens, and In-Betweens",
+      "author": "Tanya Boteju",
+      "approxRating": 3.8,
+      "ratingNote": "Joyful drag-centered story with strong LGBTQ+ representation.",
+      "reviewSummary": [
+        "Nima stumbles into the vibrant world of drag kings and queens, discovering performance as a way to explore identity and self-expression. Readers love the celebratory energy of the book—the glitter, the costumes, the found-family feeling of the drag community. The story balances fun with emotional depth, especially around family issues and self-confidence.",
+        "While some reviewers say the pacing meanders, most still praise the joyful representation and the heart of the story. It’s a novel that centers queer joy and experimentation rather than trauma.",
+        "A colorful, uplifting story for readers wanting queer positivity."
+      ],
+      "themes": ["drag culture", "self-expression", "queer identity"],
+      "ageNote": "14+; some drinking and discussions of sexuality."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9781534482326",
+      "title": "Always Jane",
+      "author": "Jenn Bennett",
+      "approxRating": 3.8,
+      "ratingNote": "Soft, romantic, character-driven.",
+      "reviewSummary": [
+        "Jane, living with a heart condition and navigating a complicated crush, spends a summer filled with music, secrets, and shifting relationships. Readers appreciate Bennett’s signature realism in dialogue and character emotions, saying the romance feels sweet and grounded. Many like how Jane’s health condition is portrayed—serious but not her entire identity.",
+        "Some say the plot is lighter than Bennett’s other books, but many still find the character arcs satisfying and comforting. Reviewers often mention that the story captures the emotional immediacy of teen relationships extremely well.",
+               "A gentle, heartfelt summer romance with sincerity and charm."
+      ],
+      "themes": ["romance", "health struggles", "family", "friendship"],
+      "ageNote": "13+; includes kissing and relationship tension."
+    }
+
+  ]
+}
+
