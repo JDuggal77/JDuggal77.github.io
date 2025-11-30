@@ -1,0 +1,328 @@
+{
+  "shelfId": "TeenRealFic_Shelf02",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 2",
+  "updated": "2025-11-30",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9780062330628",
+      "title": "Far from the Tree",
+      "author": "Robin Benway",
+      "approxRating": 4.4,
+      "ratingNote": "National Book Award winner; extremely high reader engagement.",
+      "reviewSummary": [
+        "Three biological siblings—Grace, Maya, and Joaquin—meet for the first time as teens after being adopted and fostered into different families.",
+        "Readers praise its emotional depth and how each sibling’s arc is unique and grounded: adoption guilt, chaotic families, and aging out of the foster system.",
+        "Often described as a powerful, cathartic ‘crying book’ with quiet moments of kindness that land very hard."
+      ],
+      "themes": ["adoption", "foster care", "siblings", "identity", "family trauma"],
+      "ageNote": "14+; includes teen pregnancy, addiction, and emotional abuse (not graphic)."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780062990297",
+      "title": "The Black Flamingo",
+      "author": "Dean Atta",
+      "approxRating": 4.4,
+      "ratingNote": "Award-winning verse novel with huge school and library readership.",
+      "reviewSummary": [
+        "Michael, a mixed-race British teen, discovers drag as a way to step into a fully owned queer identity.",
+        "Readers love the poetry, vulnerability, and joy, praising its portrayal of drag as both art and self-liberation.",
+        "Frequently described as ‘soft but powerful,’ offering both emotional honesty and celebration."
+      ],
+      "themes": ["drag performance", "queer identity", "mixed-race experience", "self-expression"],
+      "ageNote": "14+; includes homophobic language, sexual references, and mature themes."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9781328778239",
+      "title": "Girl Made of Stars",
+      "author": "Ashley Herring Blake",
+      "approxRating": 4.3,
+      "ratingNote": "Intense and critically acclaimed; widely read in YA spaces.",
+      "reviewSummary": [
+        "Mara’s twin brother is accused of rape by her best friend, forcing Mara to confront loyalty, trauma, and her own history.",
+        "Readers praise its nuanced, unflinching handling of sexual assault, gaslighting, and anxiety.",
+        "Extremely emotional; admired for refusing easy answers."
+      ],
+      "themes": ["sexual assault", "survivor advocacy", "family conflict", "anxiety"],
+      "ageNote": "16+; heavy discussions of assault, panic attacks, and trauma."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9780316515467",
+      "title": "Ivy Aberdeen's Letter to the World",
+      "author": "Ashley Herring Blake",
+      "approxRating": 4.3,
+      "ratingNote": "Award-winning MG/YA crossover with huge classroom readership.",
+      "reviewSummary": [
+        "After a tornado destroys her home, Ivy’s sketchbook of drawings of girls holding hands goes missing—and someone begins leaving her notes acknowledging them.",
+        "Readers call it tender and affirming for kids exploring early queer identity.",
+        "Praised for honesty, gentleness, and realistic family dynamics."
+      ],
+      "themes": ["early queer identity", "family change", "friendship", "self-discovery"],
+      "ageNote": "10–14; gentle LGBTQ+ themes and family stress."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "374371520",
+      "title": "Speak",
+      "author": "Laurie Halse Anderson",
+      "approxRating": 4.1,
+      "ratingNote": "One of the most influential YA novels ever published.",
+      "reviewSummary": [
+        "Melinda stops speaking after being raped at a summer party and becomes isolated at school; through art, she starts reclaiming her voice.",
+        "Praised for its raw, realistic portrayal of trauma and silence.",
+        "Frequently challenged and banned—yet widely taught because of its emotional impact and discussions it opens."
+      ],
+      "themes": ["sexual assault", "trauma recovery", "identity", "voice and silence"],
+      "ageNote": "14+; includes sexual assault (indirectly described)."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9781481478809",
+      "title": "Starry Eyes",
+      "author": "Jenn Bennett",
+      "approxRating": 4.1,
+      "ratingNote": "Popular in YA romance; strong BookTok presence.",
+      "reviewSummary": [
+        "Ex-best-friends-turned-enemies Zorie and Lennon get stranded together on a backpacking trip and must work through their past.",
+        "Praised for sexual-positivity, communication, and wilderness vibes.",
+        "Family drama occasionally feels soap-operatic, but readers enjoy the emotional payoff."
+      ],
+      "themes": ["romance", "enemies-to-lovers", "family secrets", "outdoors"],
+      "ageNote": "16+; sexual content, language."
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9780593524787",
+      "title": "I Loved You in Another Life",
+      "author": "David Arnold",
+      "approxRating": 4.1,
+      "ratingNote": "Strong recent buzz; well-received lyrical romance.",
+      "reviewSummary": [
+        "Two lonely teens are drawn together by a mysterious recurring song that hints at past lives.",
+        "Readers describe it as dreamy, melancholy, and romantic.",
+        "Some find pacing slow, but many love the emotional atmosphere."
+      ],
+      "themes": ["soulmates", "grief", "music", "fate"],
+      "ageNote": "14+; emotional heaviness but not graphic."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "1250247756",
+      "title": "The Brave",
+      "author": "James Bird",
+      "approxRating": 4.1,
+      "ratingNote": "Strong reviews; steady popularity in schools.",
+      "reviewSummary": [
+        "Collin, who compulsively counts the letters people speak, moves to live with his Ojibwe mother and discovers a new sense of belonging.",
+        "Praised for gentle magical realism and neurodivergent representation.",
+        "Short, emotional, and hopeful."
+      ],
+      "themes": ["neurodivergence", "Ojibwe identity", "nature", "family"],
+      "ageNote": "11–15+; includes illness themes."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9780451470775",
+      "title": "Mosquitoland",
+      "author": "David Arnold",
+      "approxRating": 3.9,
+      "ratingNote": "Large, devoted readership; highly polarizing.",
+      "reviewSummary": [
+        "Mim flees Mississippi by Greyhound to find her mother, meeting eccentric characters and confronting buried truths.",
+        "Readers love the quirky voice and road-trip surrealism.",
+        "Criticized for disability representation and uneven tone."
+      ],
+      "themes": ["road trip", "family separation", "mental health", "unreliable narrator"],
+      "ageNote": "14+; language, some mature content."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9780670012091",
+      "title": "The Impossible Knife of Memory",
+      "author": "Laurie Halse Anderson",
+      "approxRating": 4.0,
+      "ratingNote": "Highly regarded for PTSD representation.",
+      "reviewSummary": [
+        "Hayley tries to survive high school while caring for her father whose PTSD is worsening.",
+        "Praised for realism and emotional intensity.",
+        "Some find pacing uneven; emotional core considered very strong."
+      ],
+      "themes": ["PTSD", "caretaking", "family trauma"],
+      "ageNote": "14+; war memories, alcoholism."
+    },
+
+    {
+      "rank": 11,
+      "isbn": "9780062338204",
+      "title": "Posted",
+      "author": "John David Anderson",
+      "approxRating": 4.0,
+      "ratingNote": "Huge school-library circulation.",
+      "reviewSummary": [
+        "At a school where phones are banned, kids turn to sticky-note communication—leading to gossip and bullying.",
+        "Praised for humor and realistic middle-school emotional stakes.",
+        "Quiet but powerful."
+      ],
+      "themes": ["bullying", "friendship", "communication", "identity"],
+      "ageNote": "11–14."
+    },
+
+    {
+      "rank": 12,
+      "isbn": "9781250268099",
+      "title": "What Beauty There Is",
+      "author": "Cory Anderson",
+      "approxRating": 4.0,
+      "ratingNote": "Bleak, literary YA thriller; moderate popularity.",
+      "reviewSummary": [
+        "A boy desperate to protect his brother becomes entangled in a violent criminal world.",
+        "Praised for atmosphere and emotional stakes.",
+        "Slow for some readers, but deeply affecting."
+      ],
+      "themes": ["poverty", "crime", "sibling bonds", "survival"],
+      "ageNote": "14+; violence, crime."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9780062494276",
+      "title": "We'll Fly Away",
+      "author": "Bryan Bliss",
+      "approxRating": 4.0,
+      "ratingNote": "Critically praised; smaller readership.",
+      "reviewSummary": [
+        "Told partly from death row, it traces how two boys’ lives led to tragedy.",
+        "Readers call it painful but powerful.",
+        "Focuses on systemic failures and poverty."
+      ],
+      "themes": ["death row", "friendship", "poverty", "abuse"],
+      "ageNote": "16+; violence, trauma."
+    },
+
+    {
+      "rank": 14,
+      "isbn": "9780358449041",
+      "title": "I Rise",
+      "author": "Marie Arnold",
+      "approxRating": 4.0,
+      "ratingNote": "Strong activism-focused contemporary.",
+      "reviewSummary": [
+        "Ayo steps into activism after her mother is injured during a protest.",
+        "Praised for relevance and emotional honesty.",
+        "Some pacing issues but powerful themes."
+      ],
+      "themes": ["activism", "Haitian American identity", "family"],
+      "ageNote": "13+; protest violence."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780063078727",
+      "title": "How to Excavate a Heart",
+      "author": "Jake Maia Arlow",
+      "approxRating": 4.0,
+      "ratingNote": "Strong queer holiday romance; newer release.",
+      "reviewSummary": [
+        "Two Jewish queer teens fall into a grumpy/sunshine romance over winter break.",
+        "Praised for humor, chemistry, and specific cultural identity.",
+        "Messy, anxious, and realistic."
+      ],
+      "themes": ["queer romance", "holidays", "grief", "identity"],
+      "ageNote": "16+; sexual content (non-graphic)."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9780374304638",
+      "title": "What I Lost",
+      "author": "Alexandra Ballard",
+      "approxRating": 4.0,
+      "ratingNote": "Strong ED-recovery representation.",
+      "reviewSummary": [
+        "Set in an in-patient eating disorder treatment center as Elizabeth struggles through recovery.",
+        "Praised for realism and emotional depth.",
+        "Family dynamics are intense but true-to-life."
+      ],
+      "themes": ["eating disorders", "recovery", "family pressure"],
+      "ageNote": "15+; ED content, triggering."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9780142411841",
+      "title": "Twisted",
+      "author": "Laurie Halse Anderson",
+      "approxRating": 3.9,
+      "ratingNote": "Still widely read; intense male-perspective YA.",
+      "reviewSummary": [
+        "Tyler navigates rumors, masculinity, depression, and high-pressure expectations.",
+        "Praised for honesty and grit.",
+        "Heavy, messy, and realistic."
+      ],
+      "themes": ["masculinity", "rumors", "mental health"],
+      "ageNote": "15+; suicidal ideation."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9781250802637",
+      "title": "Sasha Masha",
+      "author": "Agnes Borinsky",
+      "approxRating": 3.9,
+      "ratingNote": "Niche but meaningful for gender-questioning readers.",
+      "reviewSummary": [
+        "Alex explores gender, community, and identity through crushes and queer spaces.",
+        "Quiet, introspective, and experimental in style.",
+        "Ambiguous in a way many readers appreciate."
+      ],
+      "themes": ["gender questioning", "queer community"],
+      "ageNote": "14+; some mature content."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "9781534482326",
+      "title": "Always Jane",
+      "author": "Jenn Bennett",
+      "approxRating": 3.8,
+      "ratingNote": "Moderately popular; romance-forward.",
+      "reviewSummary": [
+        "Jane, who has a neurological condition, navigates a messy love triangle in the music world.",
+        "Praised for disability rep and sensory writing.",
+        "Some pacing/plot melodrama but enjoyable for romance fans."
+      ],
+      "themes": ["disability", "romance", "music industry"],
+      "ageNote": "16+; sexual content, language."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9781534430655",
+      "title": "Kings, Queens, and In-Betweens",
+      "author": "Tanya Boteju",
+      "approxRating": 3.8,
+      "ratingNote": "Beloved in queer circles; moderate overall readership.",
+      "reviewSummary": [
+        "Nima, a lonely queer teen, discovers drag kings/queens and begins exploring identity and expression.",
+        "Praised for joyful queer representation and coming-of-age tone.",
+        "Some uneven pacing but very affirming."
+      ],
+      "themes": ["drag", "queer identity", "self-expression"],
+      "ageNote": "14+; drinking, queerphobia from others."
+    }
+
+  ]
+}
