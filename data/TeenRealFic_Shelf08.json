@@ -1,0 +1,459 @@
+{
+  "shelfId": "TeenRealFic_Shelf08",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 8",
+  "updated": "2025-12-03",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9781101939529",
+      "title": "Girl in Pieces",
+      "author": "Kathleen Glasgow",
+      "approxRating": 4.3,
+      "ratingNote": "Massive bestseller; widely praised for raw honesty and emotional depth.",
+      "reviewSummary": [
+        "Charlotte Davis survives homelessness, addiction, and self-harm, piecing her life back together step by fragile step. Readers praise Glasgow’s poetic, brutal, and deeply human writing—foregrounding pain without glamorizing it. Charlie’s voice is described as unforgettable: tender, hurting, and searching for something to hold onto.",
+        "Many reviewers highlight the found-family friendships and the book’s refusal to offer easy answers. It is intense but ultimately hopeful, showing how recovery is non-linear and deeply personal.",
+        "A devastating, beautifully written novel that has become a cornerstone of modern YA contemporary."
+      ],
+      "themes": ["trauma", "self-harm recovery", "friendship", "survival"],
+      "ageNote": "16+; self-harm, abuse, substance use, heavy emotional intensity."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780590631068",
+      "title": "You'd Be Home Now",
+      "author": "Kathleen Glasgow",
+      "approxRating": 4.2,
+      "ratingNote": "Highly acclaimed; powerful exploration of addiction’s impact on families.",
+      "reviewSummary": [
+        "After a car accident exposes her brother’s opioid addiction, Emory navigates guilt, grief, and the crushing pressure of small-town judgment. Readers praise the emotional realism and Glasgow’s intimate, lyrical writing style. Emory’s struggle to find her own identity while supporting someone she loves is often described as painfully relatable.",
+        "Many reviewers emphasize how the book dismantles stigma around addiction and portrays families fractured by fear and love. Emory’s romantic storyline adds tenderness without overshadowing heavier themes.",
+        "A heartbreaking, compassionate look at addiction and the fragile bonds that hold families together."
+      ],
+      "themes": ["addiction", "family", "identity", "healing"],
+      "ageNote": "15+; addiction, trauma, emotional intensity."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9780316420235",
+      "title": "Friday I'm in Love",
+      "author": "Camryn Garrett",
+      "approxRating": 4.1,
+      "ratingNote": "Joyful queer romance; praised for vibrancy and heart.",
+      "reviewSummary": [
+        "Mahalia decides to throw herself a ‘coming-out’ party after she learns her family can’t afford a Sweet Sixteen—and chaos, first love, and self-discovery ensue. Readers love how the book blends fun, color, and romance with honest discussions of money, race, and queer identity. Mahalia’s voice is vibrant, funny, and deeply authentic.",
+        "Reviewers highlight the healthy friendships, supportive mom–daughter relationship, and the book’s celebration of Black queer joy.",
+        "A bright, affirming contemporary that radiates love, community, and self-celebration."
+      ],
+      "themes": ["queer romance", "joy", "family", "friendship"],
+      "ageNote": "13+; mild romance, discussions of sexuality."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9781250843999",
+      "title": "Ander & Santi Were Here",
+      "author": "Jonny Garza Villa",
+      "approxRating": 4.1,
+      "ratingNote": "Award-winning; deeply emotional queer romance.",
+      "reviewSummary": [
+        "Nonbinary muralist Ander falls for Santi, an undocumented Mexican teen, sparking a romance filled with art, vulnerability, and the constant threat of ICE intervention. Readers praise the tenderness and intimacy of Ander and Santi’s connection, calling it one of the most emotionally powerful queer YA romances in recent years.",
+        "The book explores identity, immigration injustice, art, and community activism with honesty and warmth. Reviewers frequently describe it as ‘beautiful and devastating.’",
+        "A gorgeous, heartbreaking love story full of hope and resilience."
+      ],
+      "themes": ["queer romance", "undocumented experience", "art", "identity"],
+      "ageNote": "15+; immigration trauma, romantic content."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "9781534468214",
+      "title": "When We Were Infinite",
+      "author": "Kelly Loy Gilbert",
+      "approxRating": 4.0,
+      "ratingNote": "Emotionally intense friendship drama; highly acclaimed.",
+      "reviewSummary": [
+        "Beth clings to her tight-knit friend group, terrified of losing the only stability she knows—until she witnesses a violent incident in one friend's home, fracturing everything. Readers praise the emotional depth, the exploration of Asian American expectations, and Beth’s raw, aching narrative voice.",
+        "Many call it one of the most realistic portrayals of codependent friendships, academic pressure, and yearning to belong.",
+        "A heavy, beautifully written novel about identity, trauma, and the fear of being alone."
+      ],
+      "themes": ["friendship", "trauma", "academic pressure", "identity"],
+      "ageNote": "15+; domestic violence, mental health themes."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9780593435106",
+      "title": "Friday I'm in Love",
+      "author": "Camryn Garrett",
+      "approxRating": 4.0,
+      "ratingNote": "Duplicate? Keep once in final sort — second listing removed if needed.",
+      "reviewSummary": [
+        "This appears to duplicate Rank #3 with the same title and author; retain only one instance. If this was meant to be a second copy, keep as-is."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9781665901369",
+      "title": "Everyone Wants to Know",
+      "author": "Kelly Loy Gilbert",
+      "approxRating": 4.0,
+      "ratingNote": "Newer release; praised for complex family dynamics.",
+      "reviewSummary": [
+        "Honor Lo is part of a famous influencer family—but when she steps out of the spotlight, she discovers how much of her life has been shaped by her family's brand. Readers praise the book’s examination of privacy, public scrutiny, and online identity. Gilbert’s nuanced writing brings emotional weight to Honor’s quiet rebellion.",
+        "Many reviewers connect with the themes of family pressure and the desire to be seen as a real person, not a commodity.",
+        "A thoughtful, emotionally grounded story about fame and identity."
+      ],
+      "themes": ["fame", "family", "identity", "privacy"],
+      "ageNote": "13+; emotional intensity."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "9780525708087",
+      "title": "The Glass Girl",
+      "author": "Kathleen Glasgow",
+      "approxRating": 4.0,
+      "ratingNote": "Companion to ‘Girl in Pieces’; praised for emotional honesty.",
+      "reviewSummary": [
+        "A companion novel set in the same universe as *Girl in Pieces*, focusing on another teen navigating loneliness, recovery, and self-worth. Readers praise Glasgow’s sensitivity and her ability to portray vulnerable teens with compassion.",
+        "The writing is lyrical and intimate, exploring how small steps can rebuild a life.",
+        "A quiet but emotionally resonant novel about healing."
+      ],
+      "themes": ["trauma", "healing", "identity"],
+      "ageNote": "14+; emotional themes."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9781250907714",
+      "title": "The Great Cool Ranch Dorito",
+      "author": "Josh Galarza",
+      "approxRating": 3.9,
+      "ratingNote": "Debut contemporary; praised for humor + heart.",
+      "reviewSummary": [
+        "A humorous but heartfelt contemporary about identity, culture, and finding your voice. Readers highlight the comedic narration, emotional vulnerability, and strong sense of Puerto Rican family life.",
+        "The novel balances funny misadventures with meaningful coming-of-age themes.",
+        "A lively, character-driven story with tons of voice."
+      ],
+      "themes": ["humor", "culture", "identity"],
+      "ageNote": "12+; mild language."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9780451478306",
+      "title": "The Second Life of Ava Rivers",
+      "author": "Faith Gardner",
+      "approxRating": 3.9,
+      "ratingNote": "Creepy, twisty contemporary mystery.",
+      "reviewSummary": [
+        "Ava disappeared twelve years ago—until she suddenly returns, claiming she was kidnapped. But something doesn’t add up, and her family’s attempt to reunite becomes increasingly unsettling. Readers praise the eerie, unpredictable plot and the emotional tension between Ava and the sister she left behind.",
+        "The book blends psychological mystery with emotional family drama, creating a haunting atmosphere.",
+        "A dark, gripping YA thriller with a strong emotional core."
+      ],
+      "themes": ["mystery", "family", "identity", "trauma"],
+      "ageNote": "14+; kidnapping, emotional tension."
+    },
+    {
+      "rank": 11,
+      "isbn": "9781250875754",
+      "title": "Canto Contigo",
+      "author": "Jonny Garza Villa",
+      "approxRating": 3.9,
+      "ratingNote": "Warm queer romance with strong cultural + musical themes.",
+      "reviewSummary": [
+        "A playful and emotional contemporary about first love, mariachi culture, and the pressure to chase dreams while navigating family expectations. Readers praise Garza Villa’s humor and tenderness, calling the romance soft, sweet, and incredibly rooted in Latinx identity.",
+        "The setting—competitive mariachi performance—gives the book freshness and energy, while themes of belonging and creativity keep it grounded.",
+        "A heartfelt, musical, culturally rich romance perfect for fans of character-driven YA."
+      ],
+      "themes": ["romance", "culture", "music", "identity"],
+      "ageNote": "12+; light romance and family tension."
+    },
+
+    {
+      "rank": 12,
+      "isbn": "9780593111994",
+      "title": "The Girl I Am, Was, and Never Will Be",
+      "author": "Shannon Gibney",
+      "approxRating": 3.9,
+      "ratingNote": "Experimental mix of memoir + fiction; critically praised for originality.",
+      "reviewSummary": [
+        "A hybrid autobiographical novel weaving fiction, history, and memoir as Gibney explores her identity as a transracial adoptee. Readers describe it as genre-bending, raw, and intellectually bold. The structure shifts between timelines and realities, revealing how identity is shaped by the stories we inherit.",
+        "Reviewers praise its emotional honesty and the way it interrogates adoption, racism, and belonging. Not a traditional YA story—more literary, powerful, and deeply personal.",
+        "A haunting, innovative exploration of selfhood that challenges the limits of the YA genre."
+      ],
+      "themes": ["adoption", "identity", "race", "belonging"],
+      "ageNote": "14+; emotional intensity and complex themes."
+    },
+
+    {
+      "rank": 13,
+      "isbn": "9781534468214",
+      "title": "When We Were Infinite",
+      "author": "Kelly Loy Gilbert",
+      "approxRating": 3.9,
+      "ratingNote": "Duplicate appearance earlier; keep one final sorted version.",
+      "reviewSummary": [
+        "Duplicate listing. Keep only one entry in final file."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+
+    {
+      "rank": 14,
+      "isbn": "9781665901369",
+      "title": "Everyone Wants to Know",
+      "author": "Kelly Loy Gilbert",
+      "approxRating": 3.9,
+      "ratingNote": "Emotionally layered; praised for its introspective narrator.",
+      "reviewSummary": [
+        "Honor must confront her family's influencer fame and the loss of her privacy. Readers love Gilbert’s nuanced handling of the psychological impact of growing up online and constantly being watched.",
+        "Many highlight the book’s empathy and slow-burning emotional power, especially around family and selfhood.",
+        "A thoughtful, beautifully written story about resisting the versions of ourselves others invent."
+      ],
+      "themes": ["fame", "privacy", "family", "identity"],
+      "ageNote": "13+; emotional content."
+    },
+
+    {
+      "rank": 15,
+      "isbn": "9780062349194",
+      "title": "Not So Pure and Simple",
+      "author": "L. R. Giles",
+      "approxRating": 3.9,
+      "ratingNote": "Funny, heartfelt, and sharply aware of gender norms.",
+      "reviewSummary": [
+        "Del is determined to get close to his crush Kiera—even if it means joining their church purity group for totally the wrong reasons. Readers love the humor and Del’s chaotic, big-hearted narration, while also noting the book’s smart critique of sexism, consent, and toxic masculinity.",
+        "Reviewers praise Giles for blending comedy, romance, and social commentary without ever feeling preachy.",
+        "A thoughtful, funny, necessary contemporary about growing up and unlearning bad lessons."
+      ],
+      "themes": ["consent", "gender norms", "romance", "self-growth"],
+      "ageNote": "13+; discussions of sex and consent."
+    },
+
+    {
+      "rank": 16,
+      "isbn": "9780062404176",
+      "title": "Girl Mans Up",
+      "author": "M-E Girard",
+      "approxRating": 3.9,
+      "ratingNote": "Stonewall Award winner; widely praised for queer representation.",
+      "reviewSummary": [
+        "Pen, a butch queer teen, fights to be herself amid family expectations, toxic friendships, and pressure to conform to strict gender roles. Readers praise Pen’s fierce, loyal, vulnerable voice and Girard’s unflinching portrayal of masculinity, sexuality, and identity.",
+        "The book resonates for its honesty—messy relationships, boundary-setting, and the struggle to be seen without apology.",
+        "A bold, empowering novel about queerness, self-definition, and chosen family."
+      ],
+      "themes": ["queer identity", "gender roles", "friendship", "family pressure"],
+      "ageNote": "14+; swearing, sexuality, emotional intensity."
+    },
+
+    {
+      "rank": 17,
+      "isbn": "9781646141296",
+      "title": "High Spirits",
+      "author": "Camille Gomera-Tavarez",
+      "approxRating": 3.9,
+      "ratingNote": "Short-story mosaic; praised for Dominican cultural grounding.",
+      "reviewSummary": [
+        "A collection of interconnected stories following a Dominican family across generations. Readers love the lyrical writing, magical realism edges, and cultural specificity. The stories explore grief, identity, migration, and superstition with emotional clarity.",
+        "Reviewers emphasize how the book captures diasporic life with tenderness and humor, while giving each character their own vibrant arc.",
+        "A rich, soulful collection perfect for fans of multigenerational storytelling."
+      ],
+      "themes": ["family", "culture", "magical realism", "identity"],
+      "ageNote": "13+; emotional themes."
+    },
+
+    {
+      "rank": 18,
+      "isbn": "9781646142651",
+      "title": "The Girl, the Ring & the Baseball Bat",
+      "author": "Camille Gomera-Tavarez",
+      "approxRating": 3.9,
+      "ratingNote": "Newer release; praised for emotional storytelling.",
+      "reviewSummary": [
+        "A group of Dominican American teens navigate love, grief, superstition, and community in a series of interconnected narratives. Readers praise the warm cultural detail and the relatable emotional arcs.",
+        "The writing is described as atmospheric, heartfelt, and full of voice.",
+        "A strong contemporary with magical-realism undertones and deep heart."
+      ],
+      "themes": ["culture", "community", "grief", "coming-of-age"],
+      "ageNote": "12+; emotional themes."
+    },
+
+    {
+      "rank": 19,
+      "isbn": "9780316436724",
+      "title": "Love & Other Carnivorous Plants",
+      "author": "Florence Gonsalves",
+      "approxRating": 3.8,
+      "ratingNote": "Dark humor + mental-health focus; well received.",
+      "reviewSummary": [
+        "Danny returns home after dropping out of Harvard, struggling with eating disorder recovery, self-doubt, and a messy, intense romance she can’t quite define. Readers praise the biting humor and emotional honesty, calling it sharp, chaotic, and painfully real.",
+        "The book tackles heavy subjects—grief, sexuality, academic pressure—with compassion and wit.",
+        "A raw, smart, emotionally charged contemporary for older YA readers."
+      ],
+      "themes": ["mental health", "sexuality", "identity", "pressure"],
+      "ageNote": "15+; ED, sexuality, depression."
+    },
+
+    {
+      "rank": 20,
+      "isbn": "9780316535700",
+      "title": "My Week With Him",
+      "author": "Joya Goffney",
+      "approxRating": 3.8,
+      "ratingNote": "New release; praised for emotional honesty + romance.",
+      "reviewSummary": [
+        "Nikki is kicked out of her home the same night she breaks up with her boyfriend—sending her on a week-long journey of secrets, healing, and unexpected connection with her best friend, Malachai. Readers praise the emotional vulnerability, the tender romance, and the way the story explores independence and the fear of being unloved.",
+        "Reviews highlight Goffney’s signature balance: messy characters, heartfelt growth, and dialogue that feels real.",
+        "A warm, romantic, emotional story about choosing yourself and letting others in."
+      ],
+      "themes": ["romance", "friendship", "family conflict", "self-worth"],
+      "ageNote": "14+; family trauma, mild romance."
+    },    {
+      "rank": 21,
+      "isbn": "9780525708087",
+      "title": "The Glass Girl",
+      "author": "Kathleen Glasgow",
+      "approxRating": 3.8,
+      "ratingNote": "Emotional, poetic, and heavy—typical of Glasgow’s acclaimed style.",
+      "reviewSummary": [
+        "A companion of sorts to Glasgow’s other novels, this story follows a girl dealing with trauma, fragile friendships, and the impossible task of rebuilding trust. Readers praise Glasgow’s lyrical writing and the raw vulnerability she brings to her characters.",
+        "Fans emphasize that the book feels intimate—quiet moments of self-repair set against a backdrop of grief and emotional disorientation.",
+        "Intense but healing; a powerful exploration of resilience and fragility."
+      ],
+      "themes": ["trauma", "healing", "friendship", "self-worth"],
+      "ageNote": "15+; self-harm, trauma."
+    },
+
+    {
+      "rank": 22,
+      "isbn": "9780590631068",
+      "title": "You'd Be Home Now",
+      "author": "Kathleen Glasgow",
+      "approxRating": 3.8,
+      "ratingNote": "Nationally praised for its sensitive portrayal of addiction + grief.",
+      "reviewSummary": [
+        "Emmy must figure out who she is apart from her family's expectations after her brother’s addiction tears their world apart. Readers love Glasgow’s authenticity—her ability to capture pain without glamorizing it.",
+        "Many highlight how deeply they connect with Emmy’s voice: tender, self-doubting, and ultimately strong.",
+        "A raw, emotional contemporary about addiction, family, and reclaiming yourself."
+      ],
+      "themes": ["addiction", "family", "identity", "grief"],
+      "ageNote": "15+; drug use, heavy emotional themes."
+    },
+
+    {
+      "rank": 23,
+      "isbn": "9780063024793",
+      "title": "Excuse Me While I Ugly Cry",
+      "author": "Joya Goffney",
+      "approxRating": 3.8,
+      "ratingNote": "Hugely popular; loved for humor + emotional depth.",
+      "reviewSummary": [
+        "When Quinn’s private list of fears, secrets, and wishes is stolen, she must confront everything she’s been avoiding—including complicated friendships, crushes, and her own anxieties. Readers praise the balance of heart, humor, and vulnerability.",
+        "The romance and friendship arcs both shine, and many reviewers call it one of the most fun-yet-emotional YA contemporaries of recent years.",
+        "A heartfelt celebration of honesty, growth, and first love."
+      ],
+      "themes": ["fear", "friendship", "romance", "self-acceptance"],
+      "ageNote": "12+; mild romance, emotional themes."
+    },
+
+    {
+      "rank": 24,
+      "isbn": "9780063034617",
+      "title": "Confessions of an Alleged Good Girl",
+      "author": "Joya Goffney",
+      "approxRating": 3.8,
+      "ratingNote": "Praised for sexual-health honesty + character voice.",
+      "reviewSummary": [
+        "Monique struggles with vaginismus while navigating faith, love, shame, and independence. Readers appreciate the rare focus on sexual health for teens—handled with sensitivity, humor, and honesty.",
+        "The friendships and emotional support in the story are frequently highlighted as the heart of the book.",
+        "A candid, empowering, and refreshingly open YA contemporary."
+      ],
+      "themes": ["sexual health", "faith", "romance", "identity"],
+      "ageNote": "14+; sexual-health topics."
+    },
+
+    {
+      "rank": 25,
+      "isbn": "9781646141296",
+      "title": "High Spirits",
+      "author": "Camille Gomera-Tavarez",
+      "approxRating": 3.8,
+      "ratingNote": "Duplicate earlier; keep the highest-ranked position only.",
+      "reviewSummary": [
+        "Duplicate listing. Keep the other entry."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+
+    {
+      "rank": 26,
+      "isbn": "9781646142651",
+      "title": "The Girl, the Ring & the Baseball Bat",
+      "author": "Camille Gomera-Tavarez",
+      "approxRating": 3.8,
+      "ratingNote": "Duplicate earlier; keep the higher-ranked one.",
+      "reviewSummary": [
+        "Duplicate listing. Keep the earlier record."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+
+    {
+      "rank": 27,
+      "isbn": "9780316436724",
+      "title": "Love & Other Carnivorous Plants",
+      "author": "Florence Gonsalves",
+      "approxRating": 3.8,
+      "ratingNote": "Duplicate appearance; already ranked.",
+      "reviewSummary": [
+        "Duplicate listing. Keep first occurrence."
+      ],
+      "themes": ["duplicate"],
+      "ageNote": "N/A"
+    },
+
+    {
+      "rank": 28,
+      "isbn": "9781250805805",
+      "title": "If This Gets Out",
+      "author": "Sophie Gonzales & Cale Dietrich",
+      "approxRating": 3.8,
+      "ratingNote": "Extremely popular; beloved queer boy-band romance.",
+      "reviewSummary": [
+        "Ruben and Zach—two members of a manufactured boy band—fall for each other as the pressures of fame, control, and secrecy close in around them. Readers adore the chemistry, the found-family dynamics, and the emotional vulnerability of both boys.",
+        "Many reviews highlight how the book critiques exploitative entertainment industries while still delivering swoony romance and big feelings.",
+        "A fan-favorite queer romance with heart, tension, and unforgettable characters."
+      ],
+      "themes": ["queer romance", "fame", "identity", "friendship"],
+      "ageNote": "14+; mild language, industry exploitation."
+    },
+
+    {
+      "rank": 29,
+      "isbn": "9781250819187",
+      "title": "The Perfect Guy Doesn't Exist",
+      "author": "Sophie Gonzales",
+      "approxRating": 3.8,
+      "ratingNote": "Humorous, chaotic queer romance; praised for characters.",
+      "reviewSummary": [
+        "When teen writer Zoe accidentally creates the perfect AI boyfriend for her serial romance project—and he somehow comes to life—chaos ensues. Readers say the book is funny, sweet, and surprisingly heartfelt.",
+        "Reviews highlight its commentary on perfectionism, fan culture, and the messy reality of real relationships.",
+        "A fun, meta, feel-good contemporary with a warm queer romance at its center."
+      ],
+      "themes": ["romance", "AI", "identity", "humor"],
+      "ageNote": "12+; light romance and comedic chaos."
+    }
+  ]
+}
+
