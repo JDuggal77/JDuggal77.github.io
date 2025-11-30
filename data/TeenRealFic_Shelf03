@@ -1,0 +1,160 @@
+{
+  "shelfId": "TeenRealFic_Shelf03",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 3",
+  "updated": "2025-12-01",
+  "books": [
+
+    {
+      "rank": 1,
+      "isbn": "9781481415200",
+      "title": "A Heart in a Body in the World",
+      "author": "Deb Caletti",
+      "approxRating": 4.4,
+      "ratingNote": "National Book Award Finalist; extremely high critical acclaim and strong YA readership.",
+      "reviewSummary": [
+        "Annabelle, traumatized by an event the book slowly reveals, impulsively begins running across the country, her grief and rage following close behind.",
+        "Readers praise the slow burn of emotional revelation, the powerful feminist messaging, and how Caletti weaves trauma, activism, and hope.",
+        "Frequently described as 'devastating but healing' with a realistic portrayal of PTSD and survivor guilt."
+      ],
+      "themes": ["trauma", "PTSD", "grief", "activism", "healing"],
+      "ageNote": "14+; includes trauma flashbacks, violence references, emotional intensity."
+    },
+
+    {
+      "rank": 2,
+      "isbn": "9780385729330",
+      "title": "The Sisterhood of the Traveling Pants",
+      "author": "Ann Brashares",
+      "approxRating": 4.1,
+      "ratingNote": "Massively popular YA classic with decades of circulation and film adaptations.",
+      "reviewSummary": [
+        "Four best friends share a pair of jeans that mysteriously fits them all during a summer apart, connecting their individual heartbreaks and growth.",
+        "Readers love its mix of humor, tenderness, and emotional honesty, especially the varied experiences of first love, grief, and independence.",
+        "Timeless appeal keeps it popular with new generations."
+      ],
+      "themes": ["friendship", "coming of age", "family", "first love"],
+      "ageNote": "12+; mild sexuality, emotional themes."
+    },
+
+    {
+      "rank": 3,
+      "isbn": "9780385729347",
+      "title": "The Second Summer of the Sisterhood",
+      "author": "Ann Brashares",
+      "approxRating": 4.1,
+      "ratingNote": "Strong popularity as part of the iconic series.",
+      "reviewSummary": [
+        "The second book continues the girls' evolving identities as they confront new challenges in love, family, and self-worth.",
+        "Readers praise deeper emotional arcs and the sense of growing up alongside the characters.",
+        "Some storylines are heavier but resonate strongly with teen readers."
+      ],
+      "themes": ["friendship growth", "identity", "grief", "romance"],
+      "ageNote": "12+; some sexual themes and emotional intensity."
+    },
+
+    {
+      "rank": 4,
+      "isbn": "9780385729354",
+      "title": "Girls in Pants: The Third Summer of the Sisterhood",
+      "author": "Ann Brashares",
+      "approxRating": 4.0,
+      "ratingNote": "Consistent fandom and high circulation in libraries.",
+      "reviewSummary": [
+        "The girls face major transitions—college, identity shifts, and changing relationships—all threaded together by the magic jeans.",
+        "Praised for emotional maturity compared to book 1, especially family dynamics and independence.",
+        "Still humorous and heartfelt despite heavier moments."
+      ],
+      "themes": ["transition", "friendship loyalty", "future planning"],
+      "ageNote": "13+; romance and mature themes."
+    },
+
+    {
+      "rank": 5,
+      "isbn": "9781984815682",
+      "title": "Fighting Words",
+      "author": "Kimberly Brubaker Bradley",
+      "approxRating": 4.4,
+      "ratingNote": "Newbery Honor; extremely strong reviews for realistic fiction.",
+      "reviewSummary": [
+        "Della and her sister Suki enter foster care after escaping abuse, and the novel follows Della's voice as she attempts to understand safety, healing, and truth.",
+        "Readers praise the balance of humor and pain, and Della’s unforgettable, sharp voice.",
+        "This is a heavy but incredibly impactful book—often read in schools for its sensitive approach to trauma."
+      ],
+      "themes": ["abuse survival", "sisterhood", "healing", "foster care"],
+      "ageNote": "12–14+; includes discussions of sexual abuse (no graphic detail)."
+    },
+
+    {
+      "rank": 6,
+      "isbn": "9781481487757",
+      "title": "Summer Bird Blue",
+      "author": "Akemi Dawn Bowman",
+      "approxRating": 4.2,
+      "ratingNote": "Powerful grief novel with steady popularity and high emotional ratings.",
+      "reviewSummary": [
+        "Rumi moves to Hawaii after her sister’s death and slowly finds healing through music, new friendships, and confronting her guilt.",
+        "Readers praise Bowman's lyrical writing, complex emotions, and nuanced queer representation.",
+        "Not plot-driven—more of a quiet, introspective grief journey."
+      ],
+      "themes": ["grief", "identity", "music", "healing", "queer themes"],
+      "ageNote": "14+; grief, depression, emotional heaviness."
+    },
+
+    {
+      "rank": 7,
+      "isbn": "9780593176399",
+      "title": "Chlorine Sky",
+      "author": "Mahogany L. Browne",
+      "approxRating": 4.1,
+      "ratingNote": "Highly acclaimed verse novel with strong readership.",
+      "reviewSummary": [
+        "A coming-of-age story in verse about a girl losing and redefining friendships while learning confidence in her own body and voice.",
+        "Readers love the punchy poetry, rhythm, and emotional clarity.",
+        "Praised for authenticity and representation of Black girlhood."
+      ],
+      "themes": ["friendship shifts", "self-esteem", "Black girlhood"],
+      "ageNote": "13+; mild language and emotional topics."
+    },
+
+    {
+      "rank": 8,
+      "isbn": "9780593176436",
+      "title": "Vinyl Moon",
+      "author": "Mahogany L. Browne",
+      "approxRating": 4.0,
+      "ratingNote": "Strong verse-novel readership.",
+      "reviewSummary": [
+        "A teen escaping an abusive relationship finds refuge in a new school, a mosaic of stories, and the power of art and sound.",
+        "Readers praise its fragmented, musical structure and raw emotional honesty.",
+        "A powerful portrayal of trauma and reclamation."
+      ],
+      "themes": ["trauma", "healing", "art", "identity"],
+      "ageNote": "14+; relationship trauma, emotional intensity."
+    },
+
+    {
+      "rank": 9,
+      "isbn": "9780593486474",
+      "title": "A Bird in the Air Means We Can Still Breathe",
+      "author": "Mahogany L. Browne",
+      "approxRating": 4.0,
+      "ratingNote": "Newest of Browne’s titles; strong emerging readership.",
+      "reviewSummary": [
+        "Explores anxiety, self-concept, and quiet survival in a world that feels like it’s falling apart.",
+        "Readers highlight Browne’s poetic voice and imagery.",
+        "Themes resonate with teens processing stress and uncertainty."
+      ],
+      "themes": ["anxiety", "self-identity", "family", "poetic expression"],
+      "ageNote": "13+; emotional distress themes."
+    },
+
+    {
+      "rank": 10,
+      "isbn": "9780762467633",
+      "title": "The Edge of Anything",
+      "author": "Nora Shalaway Carpenter",
+      "approxRating": 4.0,
+      "ratingNote": "Steadily popular mental-health contemporary.",
+      "reviewSummary": [
+        "Two girls—one dealing with OCD, one coping with grief—form an unlikely friendship that becomes a lifeline.",
+        "Praised for authenticity in mental-health representation.",
