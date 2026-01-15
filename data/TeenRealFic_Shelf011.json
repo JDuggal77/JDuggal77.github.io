@@ -1,1 +1,428 @@
 
+{
+  "shelfId": "TeenRealFic_Shelf11",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 11",
+  "updated": "2026-01-15",
+  "books": [
+    {
+      "rank": 1,
+      "isbn": "9780593308622",
+      "title": "As Long as the Lemon Trees Grow",
+      "author": "Zoulfa Katouh",
+      "approxRating": 4.5,
+      "ratingNote": "Extremely high average ratings across Goodreads and retail sites; frequently cited as a standout contemporary YA novel.",
+      "reviewSummary": [
+        "Set in war-torn Syria, the novel follows Salama, a pharmacy student turned hospital volunteer, as she struggles with grief, survivor’s guilt, and the impossible choice between fleeing and staying.",
+        "Readers describe the book as devastating yet deeply human, praising its refusal to romanticize war while still centering love, friendship, and resilience.",
+        "Many reviews highlight the tenderness of the romance and the haunting presence of Salama’s imagined companion, which reflects her fractured mental state.",
+        "Often recommended for readers who want emotionally intense, socially grounded YA that lingers long after finishing."
+      ],
+      "themes": ["war and displacement", "grief", "love under crisis", "survival", "Middle Eastern representation"],
+      "ageNote": "15+; includes war violence, death, and heavy emotional content."
+    },
+    {
+      "rank": 2,
+      "isbn": "9780063039858",
+      "title": "Grown",
+      "author": "Tiffany D. Jackson",
+      "approxRating": 4.4,
+      "ratingNote": "Consistently rated in the mid-4s with strong critical and reader response.",
+      "reviewSummary": [
+        "A psychological thriller inspired by real-life abuse cases, following a teenage girl navigating fame, manipulation, and trauma.",
+        "Readers praise Jackson’s unflinching look at grooming and power imbalances, especially in entertainment spaces.",
+        "The nonlinear structure and mounting dread are frequently cited as making the book impossible to put down.",
+        "Often recommended for discussions around consent, silence, and believing survivors."
+      ],
+      "themes": ["grooming", "power imbalance", "trauma", "fame"],
+      "ageNote": "15+; sexual exploitation and emotional abuse."
+    },
+    {
+      "rank": 3,
+      "isbn": "9780062853851",
+      "title": "Monday’s Not Coming",
+      "author": "Tiffany D. Jackson",
+      "approxRating": 4.4,
+      "ratingNote": "Highly rated with strong word-of-mouth among librarians and educators.",
+      "reviewSummary": [
+        "Claudia searches for her missing best friend Monday while adults and institutions fail to take her concerns seriously.",
+        "Readers praise the fragmented timeline, which mirrors confusion, denial, and systemic neglect.",
+        "The reveal is frequently described as shocking and heartbreaking rather than sensational.",
+        "Often cited as a powerful critique of how missing Black girls are overlooked."
+      ],
+      "themes": ["missing persons", "systemic neglect", "friendship", "racism"],
+      "ageNote": "14+; emotional distress and implied abuse."
+    },
+    {
+      "rank": 4,
+      "isbn": "9780063039889",
+      "title": "Let Me Hear a Rhyme",
+      "author": "Tiffany D. Jackson",
+      "approxRating": 4.3,
+      "ratingNote": "Strong ratings, particularly from readers interested in music-centered YA.",
+      "reviewSummary": [
+        "Set in late-1990s Brooklyn, teens attempt to preserve their friend’s legacy after his death through hip-hop.",
+        "Praised for its authentic portrayal of grief, ambition, and Black youth culture.",
+        "Readers love the musical atmosphere and the complicated moral choices the characters face.",
+        "Frequently recommended for fans of stories where art becomes survival."
+      ],
+      "themes": ["hip-hop culture", "grief", "legacy", "friendship"],
+      "ageNote": "14+; language, violence references."
+    },
+    {
+      "rank": 5,
+      "isbn": "9780593095393",
+      "title": "Hani and Ishu’s Guide to Fake Dating",
+      "author": "Adiba Jaigirdar",
+      "approxRating": 4.3,
+      "ratingNote": "Strong reader ratings, especially within queer YA spaces.",
+      "reviewSummary": [
+        "A fake-dating romcom between two Bangladeshi Irish teens navigating school politics and family expectations.",
+        "Readers praise the balance of sweetness and realism, particularly around cultural pressure.",
+        "Often highlighted for joyful queer Muslim representation.",
+        "Recommended for fans of soft, character-driven romance."
+      ],
+      "themes": ["fake dating", "queer romance", "cultural identity"],
+      "ageNote": "13+; romance and mild social conflict."
+    },
+    {
+      "rank": 6,
+      "isbn": "9780062916617",
+      "title": "You Should See Me in a Crown",
+      "author": "Leah Johnson",
+      "approxRating": 4.3,
+      "ratingNote": "Popular and consistently well-rated contemporary.",
+      "reviewSummary": [
+        "Liz Lighty runs for prom queen to secure scholarship money and discovers confidence and love along the way.",
+        "Praised for its joyful tone and lovable protagonist.",
+        "Readers appreciate the mix of humor, romance, and ambition.",
+        "Frequently recommended as a comfort read with substance."
+      ],
+      "themes": ["self-confidence", "romance", "ambition", "Black joy"],
+      "ageNote": "13+; romance and mild language."
+    },
+    {
+      "rank": 7,
+      "isbn": "9780063040649",
+      "title": "This Is My America",
+      "author": "Kim Johnson",
+      "approxRating": 4.3,
+      "ratingNote": "Strong ratings and frequent classroom adoption.",
+      "reviewSummary": [
+        "A teen investigates her father’s wrongful conviction on death row.",
+        "Readers praise the tightly paced plot and moral urgency.",
+        "Often described as anger-inducing but necessary.",
+        "Recommended for readers interested in justice and activism."
+      ],
+      "themes": ["wrongful conviction", "death penalty", "activism"],
+      "ageNote": "14+; violence and systemic injustice."
+    },
+    {
+      "rank": 8,
+      "isbn": "9780062846952",
+      "title": "The Henna Wars",
+      "author": "Adiba Jaigirdar",
+      "approxRating": 4.2,
+      "ratingNote": "Generally rated low-to-mid 4s.",
+      "reviewSummary": [
+        "A rivals-to-lovers story centered on cultural ownership and identity.",
+        "Readers appreciate the nuanced look at microaggressions.",
+        "Praised for queer Muslim representation.",
+        "Often recommended for contemporary school settings."
+      ],
+      "themes": ["cultural appropriation", "queer identity", "competition"],
+      "ageNote": "13+; bullying and romance."
+    },
+    {
+      "rank": 9,
+      "isbn": "9780316451437",
+      "title": "Jay’s Gay Agenda",
+      "author": "Jason June",
+      "approxRating": 4.2,
+      "ratingNote": "Very positive reception among queer YA readers.",
+      "reviewSummary": [
+        "A funny, heartfelt story about a teen exploring identity after moving to Seattle.",
+        "Praised for sex-positive messaging without shame.",
+        "Readers enjoy the humor and found-family dynamics.",
+        "Often described as affirming and joyful."
+      ],
+      "themes": ["queer identity", "friendship", "self-discovery"],
+      "ageNote": "14+; sexual discussions."
+    },
+    {
+      "rank": 10,
+      "isbn": "9781534442726",
+      "title": "Love from A to Z",
+      "author": "S.K. Ali",
+      "approxRating": 4.2,
+      "ratingNote": "Frequently rated in the mid-4s.",
+      "reviewSummary": [
+        "A journal-based romance between two Muslim teens dealing with illness and faith.",
+        "Praised for warmth, vulnerability, and representation.",
+        "Readers love the travel setting and emotional honesty.",
+        "A favorite for soft romance readers."
+      ],
+      "themes": ["Muslim representation", "chronic illness", "romance"],
+      "ageNote": "13+; illness and grief themes."
+    }
+  ]
+}
+    ,
+    {
+      "rank": 11,
+      "isbn": "9781335478881",
+      "title": "Letters to the Lost",
+      "author": "Brigid Kemmerer",
+      "approxRating": 4.2,
+      "ratingNote": "Strong, consistent ratings across Goodreads and retail platforms.",
+      "reviewSummary": [
+        "Juliet pours her grief into letters written to her deceased mother, never expecting someone anonymous to write back and slowly become essential to her healing.",
+        "Readers praise the emotional vulnerability of the letter format, which allows both protagonists to reveal themselves gradually and honestly.",
+        "The story balances romance with genuine processing of loss, avoiding the trap of love magically fixing grief.",
+        "Often recommended for readers who enjoy intimate, emotionally grounded romances."
+      ],
+      "themes": ["grief", "anonymous connection", "healing", "romance"],
+      "ageNote": "13+; grief, emotional distress, and mild romance."
+    },
+    {
+      "rank": 12,
+      "isbn": "9780062918079",
+      "title": "Call It What You Want",
+      "author": "Brigid Kemmerer",
+      "approxRating": 4.1,
+      "ratingNote": "Average ratings sit in the low 4s with a strong teen readership.",
+      "reviewSummary": [
+        "After public scandals ruin their families, two teens find refuge in anonymity, music, and each other.",
+        "Readers highlight how accurately the novel captures social fallout, gossip culture, and isolation.",
+        "The romance is praised for being quiet, slow, and built on mutual understanding rather than drama.",
+        "Frequently described as emotionally heavy but comforting."
+      ],
+      "themes": ["public scandal", "identity", "romance", "isolation"],
+      "ageNote": "14+; depression, anxiety, and public shaming."
+    },
+    {
+      "rank": 13,
+      "isbn": "9780593179628",
+      "title": "Long Story Short",
+      "author": "Serena Kaylor",
+      "approxRating": 4.1,
+      "ratingNote": "Positive early reception with ratings clustering just above 4 stars.",
+      "reviewSummary": [
+        "A summer road trip forces siblings to confront old wounds, family secrets, and unresolved grief.",
+        "Readers appreciate the realistic sibling dynamics—messy, sarcastic, and deeply loving.",
+        "The pacing is often described as gentle and reflective rather than plot-heavy.",
+        "Recommended for fans of character-driven contemporary stories."
+      ],
+      "themes": ["siblings", "road trip", "family healing", "grief"],
+      "ageNote": "13+; family conflict and emotional distress."
+    },
+    {
+      "rank": 14,
+      "isbn": "9781250846693",
+      "title": "Tokyo Ever After",
+      "author": "Emiko Jean",
+      "approxRating": 4.1,
+      "ratingNote": "Consistently rated around the low 4s with broad appeal.",
+      "reviewSummary": [
+        "Izumi discovers she’s the lost princess of Japan and must navigate palace life, cultural expectations, and her own identity.",
+        "Readers love the mix of fish-out-of-water humor and emotional depth.",
+        "Praised for exploring diaspora identity and belonging without glamorizing royalty.",
+        "Often compared to a modern YA Princess Diaries with more cultural nuance."
+      ],
+      "themes": ["identity", "cultural heritage", "royalty", "belonging"],
+      "ageNote": "12+; romance and mild family tension."
+    },
+    {
+      "rank": 15,
+      "isbn": "9780525517634",
+      "title": "We Are the Perfect Girl",
+      "author": "Ami Polonsky",
+      "approxRating": 4.1,
+      "ratingNote": "Strong reception from readers interested in mental health representation.",
+      "reviewSummary": [
+        "A boarding-school mystery centered on a girl questioning both her environment and her own perception.",
+        "Readers praise the atmospheric tension and slow-building unease.",
+        "Mental health themes are treated with ambiguity rather than neat answers.",
+        "Recommended for readers who enjoy psychological contemporary novels."
+      ],
+      "themes": ["mental health", "perfectionism", "institutional pressure"],
+      "ageNote": "14+; emotional instability and psychological distress."
+    },
+    {
+      "rank": 16,
+      "isbn": "9780063051287",
+      "title": "If I Tell You the Truth",
+      "author": "Jasmin Kaur",
+      "approxRating": 4.0,
+      "ratingNote": "Generally rated around 4 stars with strong poetic appeal.",
+      "reviewSummary": [
+        "A verse novel about a girl caught between cultural expectations, secrecy, and her need for autonomy.",
+        "Readers highlight the lyrical language and emotional clarity of the poetry.",
+        "Often praised for South Asian representation and exploration of silence.",
+        "Recommended for fans of poetry-forward YA."
+      ],
+      "themes": ["poetry", "cultural pressure", "identity", "voice"],
+      "ageNote": "13+; emotional themes and family tension."
+    },
+    {
+      "rank": 17,
+      "isbn": "9780062982360",
+      "title": "If I Could Go Back",
+      "author": "Brianna Bourne",
+      "approxRating": 4.0,
+      "ratingNote": "Average ratings hover around 4 stars.",
+      "reviewSummary": [
+        "A time-loop story exploring regret, accountability, and emotional growth.",
+        "Readers appreciate the balance between speculative elements and grounded character work.",
+        "Often described as introspective rather than action-driven.",
+        "Recommended for readers who like quiet what-if narratives."
+      ],
+      "themes": ["time loops", "regret", "personal growth"],
+      "ageNote": "13+; emotional stress and self-reflection."
+    },
+    {
+      "rank": 18,
+      "isbn": "9781984815545",
+      "title": "House Party",
+      "author": "Eric Rosswood",
+      "approxRating": 3.9,
+      "ratingNote": "Solid ratings with niche popularity.",
+      "reviewSummary": [
+        "A single-night story centered around a chaotic party and intersecting teen lives.",
+        "Readers enjoy the fast pacing and ensemble cast.",
+        "Themes of accountability and peer pressure resonate strongly.",
+        "Often recommended as a quick, high-energy read."
+      ],
+      "themes": ["peer pressure", "party culture", "consequences"],
+      "ageNote": "14+; drinking and risky behavior."
+    },
+    {
+      "rank": 19,
+      "isbn": "9780593181348",
+      "title": "Hungry Hearts",
+      "author": "Elsie Chapman & Caroline Tung Richmond",
+      "approxRating": 3.9,
+      "ratingNote": "Consistently rated just under 4 stars.",
+      "reviewSummary": [
+        "A collection of interconnected short stories centered around food and love.",
+        "Readers praise the diversity of voices and cultural settings.",
+        "The anthology format makes it easy to dip in and out.",
+        "Recommended for readers who enjoy slice-of-life storytelling."
+      ],
+      "themes": ["food", "culture", "love", "identity"],
+      "ageNote": "12+; light romance and family themes."
+    },
+    {
+      "rank": 20,
+      "isbn": "9781250759757",
+      "title": "Why We Fly",
+      "author": "Kimberly Jones & Gilly Segal",
+      "approxRating": 3.9,
+      "ratingNote": "Generally positive reception from sports-fiction readers.",
+      "reviewSummary": [
+        "Two girls bond through track while navigating racial tension and grief.",
+        "Readers praise the depiction of female friendship and athletic discipline.",
+        "The novel balances competition with emotional vulnerability.",
+        "Often recommended for readers interested in sports-centered YA."
+      ],
+      "themes": ["sports", "friendship", "grief", "identity"],
+      "ageNote": "13+; emotional stress and social conflict."
+    }
+    ,
+    {
+      "rank": 21,
+      "isbn": "9781250767066",
+      "title": "Rani Choudhury Must Die",
+      "author": "Adiba Jaigirdar",
+      "approxRating": 3.9,
+      "ratingNote": "Average ratings cluster just under 4 stars with strong niche appeal.",
+      "reviewSummary": [
+        "A sharp, witty rivals-to-lovers story following two academically competitive teens forced to work together.",
+        "Readers enjoy the banter-heavy dialogue and the way academic pressure is portrayed as both motivating and suffocating.",
+        "Praised for South Asian Muslim representation and humor that doesn’t undercut emotional stakes.",
+        "Often recommended for readers who like smart, fast-paced contemporary romance."
+      ],
+      "themes": ["academic pressure", "rivals to lovers", "South Asian representation", "romance"],
+      "ageNote": "13+; romance and school stress."
+    },
+    {
+      "rank": 22,
+      "isbn": "9780063009752",
+      "title": "Salt the Water",
+      "author": "Candice Iloh",
+      "approxRating": 3.9,
+      "ratingNote": "Generally rated just under 4 stars; appreciated for its emotional honesty.",
+      "reviewSummary": [
+        "Follows three teens coping with grief after a classmate’s death, each from a different perspective.",
+        "Readers praise the nonlinear structure and poetic language that mirrors emotional disorientation.",
+        "Often highlighted for centering Black grief without sensationalizing tragedy.",
+        "Recommended for readers who like literary, introspective YA."
+      ],
+      "themes": ["grief", "multiple POVs", "community loss", "Black experience"],
+      "ageNote": "14+; death, emotional distress."
+    },
+    {
+      "rank": 23,
+      "isbn": "9780316493505",
+      "title": "Beast Rider",
+      "author": "Tony Johnston",
+      "approxRating": 3.8,
+      "ratingNote": "Moderate ratings with particular praise for its subject matter.",
+      "reviewSummary": [
+        "A survival story following a boy fleeing cartel violence across the U.S.–Mexico border.",
+        "Readers commend the tense pacing and unflinching look at displacement and fear.",
+        "Often recommended alongside other migration-focused YA novels.",
+        "Praised for highlighting human resilience under extreme circumstances."
+      ],
+      "themes": ["migration", "survival", "violence", "border crossing"],
+      "ageNote": "14+; violence and peril."
+    },
+    {
+      "rank": 24,
+      "isbn": "9780063079182",
+      "title": "Technically, You Started It",
+      "author": "Lana Wood Johnson",
+      "approxRating": 3.8,
+      "ratingNote": "Average ratings sit in the high 3s with a strong teen readership.",
+      "reviewSummary": [
+        "Two teens bond through anonymous messaging, unaware they’re rivals in real life.",
+        "Readers enjoy the modern epistolary format and realistic social-media dynamics.",
+        "The romance is praised for being playful but emotionally sincere.",
+        "Recommended for fans of texting-based contemporary stories."
+      ],
+      "themes": ["online identity", "miscommunication", "romance"],
+      "ageNote": "13+; romance and mild language."
+    },
+    {
+      "rank": 25,
+      "isbn": "9780062937063",
+      "title": "The Me I Meant to Be",
+      "author": "Sophie Gonzales",
+      "approxRating": 3.8,
+      "ratingNote": "Generally positive reception within queer YA readership.",
+      "reviewSummary": [
+        "A teen grapples with public scandal and the pressure to redefine himself.",
+        "Readers praise the honest exploration of masculinity, accountability, and growth.",
+        "The story avoids easy redemption, which many find refreshing.",
+        "Often recommended for readers who want emotionally challenging contemporary YA."
+      ],
+      "themes": ["masculinity", "reputation", "self-reinvention"],
+      "ageNote": "14+; emotional distress and public shaming."
+    },
+    {
+      "rank": 26,
+      "isbn": "9780316551427",
+      "title": "The Marvelous Mirza Girls",
+      "author": "Sheba Karim",
+      "approxRating": 3.7,
+      "ratingNote": "Lower average ratings but strong appreciation from readers seeking family-centered stories.",
+      "reviewSummary": [
+        "Three sisters reunite at their parents’ Wisconsin motel during a tense family transition.",
+        "Readers appreciate the realistic sibling dynamics—supportive, resentful, and loving all at once.",
+        "Praised for Muslim American representation and emotional nuance.",
+        "Often recommended for readers who enjoy quiet, family-focused narratives."
+      ],
+      "themes": ["sisterhood", "family change", "Muslim American life"],
+      "ageNote": "13+; family conflict and emotional tension."
+    }
+  ]
+}
