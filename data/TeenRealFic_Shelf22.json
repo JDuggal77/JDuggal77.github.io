@@ -1,250 +1,359 @@
 {
   "shelfId": "TeenRealFic_Shelf22",
   "shelfLabel": "Teen Realistic Fiction — Shelf 22",
-  "bookCount": 27,
+  "updated": "2026-01-18",
+  "bookCount": 29,
   "books": [
     {
       "rank": 1,
-      "title": "All My Rage",
-      "author": "Sabaa Tahir",
-      "isbn13": "9780593202340",
-      "avgRating": 4.56,
-      "summary": "A devastating, deeply emotional contemporary novel about two teens bound by grief, love, and generational trauma. Readers consistently praise its raw honesty and the way it balances pain with compassion and hope.",
-      "reviewTone": "Intense, heartbreaking, powerful"
+      "isbn": "9781338692150",
+      "title": "On the Hook",
+      "author": "Francisco X. Stork",
+      "approxRating": 4.25,
+      "ratingNote": "Goodreads average rating with strong classroom and teen readership.",
+      "reviewSummary": [
+        "Readers describe this as tense and morally complex, praising its realistic portrayal of fear, gang pressure, and ethical choice. Many note the relentless suspense and emotional weight."
+      ],
+      "themes": ["violence", "moral choice", "fear", "resilience"],
+      "ageNote": "14+; gang violence and threats."
     },
     {
       "rank": 2,
-      "title": "Concrete Rose",
-      "author": "Angie Thomas",
-      "isbn13": "9780062846716",
-      "avgRating": 4.27,
-      "summary": "A prequel to The Hate U Give following Maverick as he struggles with fatherhood, loyalty, and survival. Readers admire its emotional depth and refusal to simplify masculinity or redemption.",
-      "reviewTone": "Gritty, thoughtful, emotional"
+      "isbn": "9781616206727",
+      "title": "Wake the Wild Creatures",
+      "author": "Nova Ren Suma",
+      "approxRating": 3.99,
+      "ratingNote": "Goodreads rating with polarized but engaged readership.",
+      "reviewSummary": [
+        "Readers praise the eerie atmosphere and slow-burn mystery, often highlighting its exploration of memory, control, and feminism."
+      ],
+      "themes": ["memory", "control", "feminism"],
+      "ageNote": "14+; disturbing themes."
     },
     {
       "rank": 3,
-      "title": "On the Come Up",
-      "author": "Angie Thomas",
-      "isbn13": "9780062498564",
-      "avgRating": 4.26,
-      "summary": "A sharp, voice-driven story about a teen rapper navigating fame, poverty, and public perception. Frequently praised for its energy, realism, and social commentary.",
-      "reviewTone": "Bold, urgent, empowering"
+      "isbn": "9780062659002",
+      "title": "The Dangerous Art of Blending In",
+      "author": "Angelo Surmelis",
+      "approxRating": 3.99,
+      "ratingNote": "Goodreads rating with strong emotional response.",
+      "reviewSummary": [
+        "Readers describe this as raw and uplifting, praising its honest portrayal of abuse, queerness, and finding one’s voice."
+      ],
+      "themes": ["queer identity", "abuse", "self-expression"],
+      "ageNote": "15+; abuse and emotional distress."
     },
     {
       "rank": 4,
-      "title": "On the Hook",
-      "author": "Francisco X. Stork",
-      "isbn13": "9781338692150",
-      "avgRating": 4.25,
-      "summary": "A tightly paced novel about fear, violence, and moral choice as a teen is threatened by gang retaliation. Readers highlight its realism and relentless tension.",
-      "reviewTone": "Tense, serious, fast-paced"
+      "isbn": "9781534492974",
+      "title": "Drawn That Way",
+      "author": "Elissa Sussman",
+      "approxRating": 3.91,
+      "ratingNote": "Goodreads rating with strong appeal to creative-industry readers.",
+      "reviewSummary": [
+        "Readers praise the ambition-driven plot and gender dynamics, often calling it motivating and romantic."
+      ],
+      "themes": ["ambition", "sexism", "creativity"],
+      "ageNote": "13+; workplace bias and romance."
     },
     {
       "rank": 5,
-      "title": "My Life as a Meme",
-      "author": "Janet Tashjian",
-      "isbn13": "9781250196576",
-      "avgRating": 4.28,
-      "summary": "A humorous, illustrated middle-grade/teen crossover full of internet culture and awkward moments. Fans enjoy its quick pacing and relatable comedy.",
-      "reviewTone": "Funny, light, relatable"
+      "isbn": "9780358536864",
+      "title": "Breathe and Count Back from Ten",
+      "author": "Natalia Sylvester",
+      "approxRating": 3.83,
+      "ratingNote": "Goodreads rating with strong disability-representation praise.",
+      "reviewSummary": [
+        "Readers appreciate the focus on bodily autonomy, disability, and first love, describing it as tender and empowering."
+      ],
+      "themes": ["disability", "body autonomy", "first love"],
+      "ageNote": "13+; medical themes."
     },
     {
       "rank": 6,
-      "title": "Here Lies Daniel Tate",
-      "author": "Cristin Terrill",
-      "isbn13": "9781481480765",
-      "avgRating": 4.05,
-      "summary": "A gripping psychological thriller about a con artist who assumes the identity of a missing boy. Readers praise its twists and moral ambiguity.",
-      "reviewTone": "Suspenseful, clever, unsettling"
+      "isbn": "9780358124351",
+      "title": "Running",
+      "author": "Natalia Sylvester",
+      "approxRating": 4.04,
+      "ratingNote": "Goodreads rating with steady long-term readership.",
+      "reviewSummary": [
+        "Readers praise the nuanced portrayal of politics, family loyalty, and moral awakening."
+      ],
+      "themes": ["politics", "family", "identity"],
+      "ageNote": "13+; political themes."
     },
     {
       "rank": 7,
-      "title": "Saints of the Household",
-      "author": "Ari Tison",
-      "isbn13": "9780374389499",
-      "avgRating": 4.06,
-      "summary": "Two brothers confront the consequences of violence and inherited trauma. Widely praised for emotional intensity and cultural grounding.",
-      "reviewTone": "Dark, emotional, reflective"
+      "isbn": "9780593202340",
+      "title": "All My Rage",
+      "author": "Sabaa Tahir",
+      "approxRating": 4.56,
+      "ratingNote": "Goodreads rating with extremely high engagement and critical acclaim.",
+      "reviewSummary": [
+        "Readers consistently describe this as devastating yet compassionate, praising its portrayal of grief, forgiveness, and generational trauma."
+      ],
+      "themes": ["grief", "family", "generational trauma"],
+      "ageNote": "14+; abuse, violence, and emotional intensity."
     },
     {
       "rank": 8,
-      "title": "Wake the Wild Creatures",
-      "author": "Nova Ren Suma",
-      "isbn13": "9781616206727",
-      "avgRating": 3.99,
-      "summary": "A haunting, atmospheric novel about memory, control, and a mysterious feminist commune. Readers enjoy its eerie tone and slow-burn mystery.",
-      "reviewTone": "Moody, unsettling, introspective"
+      "isbn": "9781368078405",
+      "title": "Anne of Greenville",
+      "author": "Mariko Tamaki",
+      "approxRating": 3.85,
+      "ratingNote": "Goodreads rating with strong LGBTQ+ readership.",
+      "reviewSummary": [
+        "Readers enjoy the modern retelling and queer lens, praising its humor and character voice."
+      ],
+      "themes": ["identity", "queer coming-of-age", "belonging"],
+      "ageNote": "13+; identity themes."
     },
     {
       "rank": 9,
-      "title": "We Are Not from Here",
-      "author": "Jenny Torres Sanchez",
-      "isbn13": "9781984812261",
-      "avgRating": 4.00,
-      "summary": "A harrowing journey of three teens fleeing Guatemala toward the U.S. border. Frequently described as brutal, necessary, and unforgettable.",
-      "reviewTone": "Heartbreaking, urgent, powerful"
+      "isbn": "9781250196576",
+      "title": "My Life as a Meme",
+      "author": "Janet Tashjian",
+      "approxRating": 4.28,
+      "ratingNote": "Goodreads rating with strong middle-teen appeal.",
+      "reviewSummary": [
+        "Readers describe this as fast, funny, and relatable, praising its internet humor and illustrated format."
+      ],
+      "themes": ["humor", "friendship", "internet culture"],
+      "ageNote": "11+; mild language."
     },
     {
       "rank": 10,
-      "title": "Running",
-      "author": "Natalia Sylvester",
-      "isbn13": "9780358124351",
-      "avgRating": 4.04,
-      "summary": "A thoughtful look at politics, family loyalty, and identity as a teen grapples with her father's presidential campaign.",
-      "reviewTone": "Thoughtful, grounded, realistic"
+      "isbn": "9781665901109",
+      "title": "Love Match",
+      "author": "Priyanka Taslim",
+      "approxRating": 3.78,
+      "ratingNote": "Goodreads romance readership.",
+      "reviewSummary": [
+        "Readers enjoy the fake-dating setup and cultural dynamics, describing it as charming and light."
+      ],
+      "themes": ["romance", "culture", "family expectations"],
+      "ageNote": "13+; romance."
     },
     {
       "rank": 11,
-      "title": "This Place Is Still Beautiful",
-      "author": "XIXI Tian",
-      "isbn13": "9780063086029",
-      "avgRating": 4.03,
-      "summary": "A character-driven story about belonging and emotional vulnerability. Readers often praise its quiet realism.",
-      "reviewTone": "Gentle, introspective, emotional"
+      "isbn": "9780063279155",
+      "title": "The Boyfriend Wish",
+      "author": "Swati Teerdhala",
+      "approxRating": 3.72,
+      "ratingNote": "Goodreads rating with rom-com fans.",
+      "reviewSummary": [
+        "Readers describe it as playful and sweet, praising the magical twist and banter."
+      ],
+      "themes": ["rom-com", "magic", "self-discovery"],
+      "ageNote": "13+; romance."
     },
     {
       "rank": 12,
-      "title": "Unexpected Consequence of Bleeding on a Tuesday",
-      "author": "Kelsey B. Toney",
-      "isbn13": "9780593811511",
-      "avgRating": 4.20,
-      "summary": "A powerful exploration of chronic pain, medical dismissal, and teen decision-making. Widely praised for its honesty.",
-      "reviewTone": "Raw, validating, serious"
+      "isbn": "9781481480765",
+      "title": "Here Lies Daniel Tate",
+      "author": "Cristin Terrill",
+      "approxRating": 4.05,
+      "ratingNote": "Goodreads rating with strong thriller engagement.",
+      "reviewSummary": [
+        "Readers praise the twists and psychological tension, often calling it unsettling and clever."
+      ],
+      "themes": ["identity", "deception", "thriller"],
+      "ageNote": "13+; suspense and violence."
     },
     {
       "rank": 13,
-      "title": "The Dangerous Art of Blending In",
-      "author": "Angelo Surmelis",
-      "isbn13": "9780062659002",
-      "avgRating": 3.99,
-      "summary": "A queer coming-of-age story centered on abuse, silence, and self-expression. Readers find it intense but uplifting.",
-      "reviewTone": "Emotional, raw, hopeful"
+      "isbn": "9781250762030",
+      "title": "You've Reached Sam",
+      "author": "Dustin Thao",
+      "approxRating": 3.61,
+      "ratingNote": "Goodreads rating with very high emotional engagement.",
+      "reviewSummary": [
+        "Readers describe this as bittersweet and emotionally heavy, praising the grief-driven romance."
+      ],
+      "themes": ["grief", "love", "loss"],
+      "ageNote": "13+; death and emotional distress."
     },
     {
       "rank": 14,
-      "title": "Breathe and Count Back from Ten",
-      "author": "Natalia Sylvester",
-      "isbn13": "9780358536864",
-      "avgRating": 3.83,
-      "summary": "A tender story about disability, body autonomy, and first love set in a Florida mermaid attraction.",
-      "reviewTone": "Empowering, warm, reflective"
+      "isbn": "9781619635906",
+      "title": "Because You'll Never Meet Me",
+      "author": "Leah Thomas",
+      "approxRating": 3.99,
+      "ratingNote": "Goodreads rating with cult-favorite status.",
+      "reviewSummary": [
+        "Readers praise the epistolary format and impossible friendship, often calling it tender and haunting."
+      ],
+      "themes": ["friendship", "isolation", "hope"],
+      "ageNote": "13+; illness and emotional themes."
     },
     {
       "rank": 15,
-      "title": "Kings of B'more",
-      "author": "R. Eric Thomas",
-      "isbn13": "9780593326183",
-      "avgRating": 3.88,
-      "summary": "A joyful, queer road-trip story celebrating friendship, Pride, and one unforgettable day.",
-      "reviewTone": "Joyful, funny, heartfelt"
+      "isbn": "9780062498564",
+      "title": "On the Come Up",
+      "author": "Angie Thomas",
+      "approxRating": 4.26,
+      "ratingNote": "Goodreads average with sustained popularity.",
+      "reviewSummary": [
+        "Readers praise its voice-driven narrative and commentary on fame, race, and art."
+      ],
+      "themes": ["music", "identity", "ambition"],
+      "ageNote": "13+; language and social issues."
     },
     {
       "rank": 16,
-      "title": "Wild and Crooked",
-      "author": "Leah Thomas",
-      "isbn13": "9781547600021",
-      "avgRating": 3.94,
-      "summary": "A small-town mystery focused on reputation, truth, and inherited guilt. Readers appreciate its nuance.",
-      "reviewTone": "Thoughtful, emotional, tense"
+      "isbn": "9780062846716",
+      "title": "Concrete Rose",
+      "author": "Angie Thomas",
+      "approxRating": 4.27,
+      "ratingNote": "Goodreads rating with massive readership.",
+      "reviewSummary": [
+        "Readers praise its depth and refusal to simplify masculinity or redemption."
+      ],
+      "themes": ["fatherhood", "identity", "violence"],
+      "ageNote": "14+; drugs and violence."
     },
     {
       "rank": 17,
-      "title": "You've Reached Sam",
-      "author": "Dustin Thao",
-      "isbn13": "9781250762030",
-      "avgRating": 3.61,
-      "summary": "A grief-driven romance built around the idea of one last conversation. Hugely popular and emotionally divisive.",
-      "reviewTone": "Emotional, romantic, bittersweet"
+      "isbn": "9780593326183",
+      "title": "Kings of B'more",
+      "author": "R. Eric Thomas",
+      "approxRating": 3.88,
+      "ratingNote": "Goodreads LGBTQ+ readership.",
+      "reviewSummary": [
+        "Readers describe it as joyful and heartfelt, praising its celebration of Pride and friendship."
+      ],
+      "themes": ["friendship", "Pride", "self-acceptance"],
+      "ageNote": "13+; romance."
     },
     {
       "rank": 18,
-      "title": "Because You'll Never Meet Me",
-      "author": "Leah Thomas",
-      "isbn13": "9781619635906",
-      "avgRating": 3.99,
-      "summary": "An epistolary friendship between two boys who can never meet. Praised for tenderness and originality.",
-      "reviewTone": "Gentle, sad, hopeful"
+      "isbn": "9781665917278",
+      "title": "16 & Pregnant",
+      "author": "Lala Thomas",
+      "approxRating": 3.87,
+      "ratingNote": "Goodreads rating with grounded discussion.",
+      "reviewSummary": [
+        "Readers appreciate the realistic portrayal of friendship and teen pregnancy."
+      ],
+      "themes": ["pregnancy", "friendship", "choices"],
+      "ageNote": "14+; pregnancy themes."
     },
     {
       "rank": 19,
-      "title": "Love Match",
-      "author": "Priyanka Taslim",
-      "isbn13": "9781665901109",
-      "avgRating": 3.78,
-      "summary": "A fake-dating rom-com shaped by family expectations and cultural pressure. Readers enjoy its charm.",
-      "reviewTone": "Light, romantic, fun"
+      "isbn": "9781547600021",
+      "title": "Wild and Crooked",
+      "author": "Leah Thomas",
+      "approxRating": 3.94,
+      "ratingNote": "Goodreads rating with strong critical response.",
+      "reviewSummary": [
+        "Readers praise the exploration of inherited guilt, disability, and truth."
+      ],
+      "themes": ["truth", "disability", "identity"],
+      "ageNote": "14+; violence references."
     },
     {
       "rank": 20,
-      "title": "The Boyfriend Wish",
-      "author": "Swati Teerdhala",
-      "isbn13": "9780063279155",
-      "avgRating": 3.72,
-      "summary": "A magical rom-com questioning whether perfection is better than authenticity.",
-      "reviewTone": "Playful, romantic, humorous"
+      "isbn": "9780593322819",
+      "title": "Both Sides Now",
+      "author": "Peyton Thomas",
+      "approxRating": 3.85,
+      "ratingNote": "Goodreads rating with steady readership.",
+      "reviewSummary": [
+        "Readers describe this as thoughtful and reflective, focusing on perspective and empathy."
+      ],
+      "themes": ["identity", "relationships", "perspective"],
+      "ageNote": "13+; emotional themes."
     },
     {
       "rank": 21,
-      "title": "Drawn That Way",
-      "author": "Elissa Sussman",
-      "isbn13": "9781534492974",
-      "avgRating": 3.91,
-      "summary": "A creative-industry romance about ambition, sexism, and self-worth.",
-      "reviewTone": "Ambitious, romantic, motivating"
+      "isbn": "9780062424471",
+      "title": "Three Sides of a Heart",
+      "author": "Natalie C. Parker (Editor)",
+      "approxRating": 3.10,
+      "ratingNote": "Goodreads anthology ratings vary by story.",
+      "reviewSummary": [
+        "Readers enjoy the diversity of genres and voices, though reactions vary between stories."
+      ],
+      "themes": ["love triangles", "romance", "identity"],
+      "ageNote": "13+; varied content."
     },
     {
       "rank": 22,
-      "title": "16 & Pregnant",
-      "author": "Lala Thomas",
-      "isbn13": "9781665917278",
-      "avgRating": 3.87,
-      "summary": "A grounded look at teen pregnancy and friendship under pressure.",
-      "reviewTone": "Realistic, serious, empathetic"
+      "isbn": "9781500352233",
+      "title": "Paris Thibideaux and the World of Lost Things",
+      "author": "K. F. Thurber",
+      "approxRating": 3.82,
+      "ratingNote": "Goodreads rating with smaller but positive readership.",
+      "reviewSummary": [
+        "Readers describe this as warm and creative, praising its community-centered storytelling."
+      ],
+      "themes": ["creativity", "community", "belonging"],
+      "ageNote": "11+; bullying themes."
     },
     {
       "rank": 23,
-      "title": "Anne of Greenville",
-      "author": "Mariko Tamaki",
-      "isbn13": "9781368078405",
-      "avgRating": 3.85,
-      "summary": "A queer, modern reimagining of Anne of Green Gables with humor and heart.",
-      "reviewTone": "Whimsical, modern, character-driven"
+      "isbn": "9780063086029",
+      "title": "This Place Is Still Beautiful",
+      "author": "XIXI Tian",
+      "approxRating": 4.03,
+      "ratingNote": "Goodreads rating with quiet but positive response.",
+      "reviewSummary": [
+        "Readers appreciate the emotional intimacy and realism."
+      ],
+      "themes": ["belonging", "connection"],
+      "ageNote": "13+; emotional themes."
     },
     {
       "rank": 24,
-      "title": "Three Sides of a Heart",
-      "author": "Natalie C. Parker (editor)",
-      "isbn13": "9780062424471",
-      "avgRating": 3.10,
-      "summary": "A mixed anthology exploring love triangles across genres and identities.",
-      "reviewTone": "Varied, experimental"
+      "isbn": "9780374389499",
+      "title": "Saints of the Household",
+      "author": "Ari Tison",
+      "approxRating": 4.06,
+      "ratingNote": "Goodreads rating with strong critical acclaim.",
+      "reviewSummary": [
+        "Readers praise its cultural grounding and emotional power."
+      ],
+      "themes": ["brotherhood", "violence", "culture"],
+      "ageNote": "14+; abuse and violence."
     },
     {
       "rank": 25,
-      "title": "Paris Thibideaux and the World of Lost Things",
-      "author": "K. F. Thurber",
-      "isbn13": "9781500352233",
-      "avgRating": 3.82,
-      "summary": "A gentle story about creativity, community, and making something from nothing.",
-      "reviewTone": "Warm, thoughtful, artistic"
+      "isbn": "9780593811511",
+      "title": "Unexpected Consequence of Bleeding on a Tuesday",
+      "author": "Kelsey B. Toney",
+      "approxRating": 4.20,
+      "ratingNote": "Early Goodreads ratings trend strongly positive.",
+      "reviewSummary": [
+        "Readers praise its honesty and validation around chronic pain."
+      ],
+      "themes": ["chronic illness", "medical bias"],
+      "ageNote": "14+; drug use."
     },
     {
       "rank": 26,
-      "title": "This Place Is Still Beautiful",
-      "author": "XIXI Tian",
-      "isbn13": "9780063086029",
-      "avgRating": 4.03,
-      "summary": "A reflective contemporary novel about emotional connection and belonging.",
-      "reviewTone": "Quiet, emotional"
+      "isbn": "9781984812261",
+      "title": "We Are Not from Here",
+      "author": "Jenny Torres Sanchez",
+      "approxRating": 4.00,
+      "ratingNote": "Goodreads rating with multiple starred reviews.",
+      "reviewSummary": [
+        "Readers describe it as brutal, urgent, and unforgettable."
+      ],
+      "themes": ["immigration", "survival"],
+      "ageNote": "14+; violence and trauma."
     },
     {
       "rank": 27,
-      "title": "Wake the Wild Creatures",
-      "author": "Nova Ren Suma",
-      "isbn13": "9781616206727",
-      "avgRating": 3.99,
-      "summary": "A haunting exploration of memory and control wrapped in mystery.",
-      "reviewTone": "Atmospheric, unsettling"
+      "isbn": "9781250381309",
+      "title": "The Romantic Tragedies of a Drama King",
+      "author": "Harry Trevaldwyn",
+      "approxRating": 4.02,
+      "ratingNote": "Early Goodreads ratings trend positive.",
+      "reviewSummary": [
+        "Readers describe it as hilarious, heartfelt, and affirming."
+      ],
+      "themes": ["queer identity", "humor", "self-confidence"],
+      "ageNote": "13+; romance."
     }
   ]
 }
