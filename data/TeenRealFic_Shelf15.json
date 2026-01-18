@@ -1,0 +1,225 @@
+{
+  "shelfId": "TeenRealFic_Shelf15",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 15",
+  "books": [
+    {
+      "rank": 1,
+      "title": "I Kissed Shara Wheeler",
+      "author": "Casey McQuiston",
+      "isbn13": "9781250244451",
+      "rating": 4.3,
+      "description": "A sharp, funny, and emotionally layered queer mystery-romance set in a conservative Southern high school, where rivals, secrets, and unexpected alliances collide.",
+      "review": "Widely praised for its humor, inclusivity, and clever subversion of small-town romance tropes."
+    },
+    {
+      "rank": 2,
+      "title": "American Royals",
+      "author": "Katharine McGee",
+      "isbn13": "9781984830173",
+      "rating": 4.1,
+      "description": "An addictive alternate-history series imagining America with a royal family, blending political intrigue, romance, and celebrity culture.",
+      "review": "Readers love the soap-opera drama and binge-worthy pacing."
+    },
+    {
+      "rank": 3,
+      "title": "Furia",
+      "author": "Yamile Saied Méndez",
+      "isbn13": "9781616209919",
+      "rating": 4.2,
+      "description": "A powerful coming-of-age story about a young Argentine soccer star fighting gender norms, family expectations, and first love.",
+      "review": "Celebrated for its feminist themes, cultural authenticity, and emotional intensity."
+    },
+    {
+      "rank": 4,
+      "title": "Monday's Not Coming",
+      "author": "Tiffany D. Jackson",
+      "isbn13": "9780062422675",
+      "rating": 4.3,
+      "description": "A chilling, emotionally devastating mystery about a missing girl—and the systems that fail to notice when Black girls disappear.",
+      "review": "Frequently called unforgettable and heartbreaking by readers and critics alike."
+    },
+    {
+      "rank": 5,
+      "title": "Stay Gold",
+      "author": "Tobly McSmith",
+      "isbn13": "9780062943170",
+      "rating": 4.1,
+      "description": "A tender, hopeful romance following a transgender teen navigating love, identity, and visibility at a new high school.",
+      "review": "Praised for warmth, representation, and emotional honesty."
+    },
+    {
+      "rank": 6,
+      "title": "This Is How We Fly",
+      "author": "Anna Meriano",
+      "isbn13": "9780593116876",
+      "rating": 4.0,
+      "description": "A Cinderella-inspired summer story about friendship, Quidditch, and finding belonging after high school.",
+      "review": "Readers enjoy its humor, nerd culture references, and heartfelt friendships."
+    },
+    {
+      "rank": 7,
+      "title": "Instant Karma",
+      "author": "Marissa Meyer",
+      "isbn13": "9781250618818",
+      "rating": 3.9,
+      "description": "A lighthearted contemporary romance with a supernatural twist, exploring accountability, justice, and growth.",
+      "review": "Popular for its fun premise and character-driven moral questions."
+    },
+    {
+      "rank": 8,
+      "title": "Sanctuary",
+      "author": "Paola Mendoza & Abby Sher",
+      "isbn13": "9781984815712",
+      "rating": 4.0,
+      "description": "A near-future dystopian novel following undocumented teens fleeing a surveillance-heavy America.",
+      "review": "Praised for urgency, realism, and emotional impact."
+    },
+    {
+      "rank": 9,
+      "title": "Where I Belong",
+      "author": "Marcia Argueta Mickelson",
+      "isbn13": "9781541597976",
+      "rating": 4.0,
+      "description": "An immigrant coming-of-age story centered on family loyalty, activism, and the cost of visibility.",
+      "review": "Readers appreciate its nuance and grounded political themes."
+    },
+    {
+      "rank": 10,
+      "title": "Merci Suárez Changes Gears",
+      "author": "Meg Medina",
+      "isbn13": "9780763690496",
+      "rating": 4.4,
+      "description": "A middle-grade crossover about family, change, and understanding Alzheimer’s through a child’s eyes.",
+      "review": "Highly praised for warmth, realism, and emotional intelligence."
+    },
+    {
+      "rank": 11,
+      "title": "ACT Cool",
+      "author": "Tobly McSmith",
+      "isbn13": "9780063038561",
+      "rating": 3.9,
+      "description": "A performing-arts coming-of-age story centered on ambition, identity, and healing from family rejection.",
+      "review": "Commended for trans representation and emotional depth."
+    },
+    {
+      "rank": 12,
+      "title": "Pritty",
+      "author": "Keith F. Miller Jr.",
+      "isbn13": "9780063264922",
+      "rating": 3.8,
+      "description": "A gritty, introspective novel exploring masculinity, friendship, and survival in urban America.",
+      "review": "Readers note its raw voice and unflinching realism."
+    },
+    {
+  "continuedBooks": [
+    {
+      "rank": 13,
+      "title": "Bridge of Clay",
+      "author": "Markus Zusak",
+      "isbn13": "9781984830159",
+      "rating": 4.0,
+      "description": "A lyrical, emotionally complex novel following the Dunbar brothers as they grapple with grief, love, and the secrets of their fractured family, centered around Clay and the bridge he feels compelled to build.",
+      "review": "Praised for its poetic language and ambition, though some readers find it dense and emotionally heavy."
+    },
+    {
+      "rank": 14,
+      "title": "I, Claudia",
+      "author": "Mary McCoy",
+      "isbn13": "9781512448467",
+      "rating": 3.8,
+      "description": "A sharp political allegory set in a prestigious boarding school where a cynical teen unexpectedly gains power and must confront corruption, ethics, and responsibility.",
+      "review": "Often compared to The West Wing for teens; readers like its intelligence and moral complexity."
+    },
+    {
+      "rank": 15,
+      "title": "Initial Insult",
+      "author": "Mindy McGinnis",
+      "isbn13": "9780062982421",
+      "rating": 3.9,
+      "description": "A dark, modern retelling of Poe’s The Cask of Amontillado, following a teen girl navigating trauma, revenge, and psychological manipulation.",
+      "review": "Readers praise its intensity and unsettling atmosphere."
+    },
+    {
+      "rank": 16,
+      "title": "A Step Toward Falling",
+      "author": "Cammie McGovern",
+      "isbn13": "9780062271136",
+      "rating": 4.1,
+      "description": "After witnessing an assault and failing to act, two teens are forced to confront guilt, accountability, and the meaning of doing the right thing.",
+      "review": "Highly regarded for its empathy, realism, and moral nuance."
+    },
+    {
+      "rank": 17,
+      "title": "100 Days",
+      "author": "Nicole McInnes",
+      "isbn13": "9780374302849",
+      "rating": 4.0,
+      "description": "A heartbreaking story about friendship, love, and mortality as a teen with progeria faces the reality of limited time.",
+      "review": "Readers describe it as emotional, tender, and quietly devastating."
+    },
+    {
+      "rank": 18,
+      "title": "The Exact Location of Home",
+      "author": "Kate Messner",
+      "isbn13": "9781681195483",
+      "rating": 4.0,
+      "description": "A thoughtful middle-grade crossover novel about family separation, trust, and a boy’s search for truth using a GPS device.",
+      "review": "Praised for warmth, accessibility, and emotional resonance."
+    },
+    {
+      "rank": 19,
+      "title": "One of the Boys",
+      "author": "Victoria Zeller",
+      "isbn13": "9781646145027",
+      "rating": 4.1,
+      "description": "A contemporary sports novel about a trans girl navigating high school football, identity, and belonging.",
+      "review": "Widely praised for representation and emotional authenticity."
+    },
+    {
+      "rank": 20,
+      "title": "In the Wild Light",
+      "author": "Jeff Zentner",
+      "isbn13": "9781524720247",
+      "rating": 4.2,
+      "description": "A poetic coming-of-age story about grief, friendship, and the transformative power of art and literature.",
+      "review": "Frequently lauded for its lyricism and emotional depth."
+    },
+    {
+      "rank": 21,
+      "title": "Boys of the Beast",
+      "author": "Monica Zepeda",
+      "isbn13": "9781643790954",
+      "rating": 3.9,
+      "description": "A road-trip novel told from three perspectives, exploring masculinity, family, and identity across cultural lines.",
+      "review": "Readers enjoy its structure and honest character voices."
+    },
+    {
+      "rank": 22,
+      "title": "Libertad",
+      "author": "Bessie Flores Zaldívar",
+      "isbn13": "9780593696125",
+      "rating": 4.2,
+      "description": "Set during political unrest in Honduras, this novel follows a queer teen poet finding her voice amid danger and repression.",
+      "review": "Critically acclaimed for its urgency and emotional power."
+    },
+    {
+      "rank": 23,
+      "title": "As You Walk on By",
+      "author": "Julian Winters",
+      "isbn13": "9780593206508",
+      "rating": 4.0,
+      "description": "An ensemble prom-night novel about expectations, identity, and unexpected connections.",
+      "review": "Loved for its warmth, pacing, and diverse cast."
+    },
+    {
+      "rank": 24,
+      "title": "Right Where I Left You",
+      "author": "Julian Winters",
+      "isbn13": "9780593206478",
+      "rating": 4.1,
+      "description": "A friends-to-lovers romance set against fandom culture, summer change, and unresolved feelings.",
+      "review": "Fans praise its charm and emotional sincerity."
+    }
+  ]
+}
+
