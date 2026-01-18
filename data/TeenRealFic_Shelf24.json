@@ -136,18 +136,15 @@
       "rank": 15,
       "description": "A magical realism romance where a girl can see how relationships will end, forcing her to reconsider love after heartbreak.",
       "review": "Sweet and readable, though more predictable than the author’s debut."
-    }
-  ]
-}
-    ,
+    },
     {
       "title": "The Donut Prince of New York",
       "author": "Allen Zadoff",
       "isbn13": "9780823456635",
       "rating": 4.0,
       "rank": 16,
-      "description": "A heartfelt coming-of-age story about body image, ambition, and belonging as a plus-size teen playwright is unexpectedly recruited onto his high school football team and thrust into a world of popularity, pressure, and performance.",
-      "review": "Readers praise its warmth, humor, and nuanced look at masculinity. Often described as charming and emotionally affirming."
+      "description": "A heartfelt coming-of-age story about body image, ambition, and belonging as a plus-size teen playwright is unexpectedly recruited onto his high school football team.",
+      "review": "Readers praise its warmth, humor, and nuanced look at masculinity."
     },
     {
       "title": "Quiver",
@@ -155,8 +152,8 @@
       "isbn13": "9781941110669",
       "rating": 3.9,
       "rank": 17,
-      "description": "Set in rural Tennessee, this novel explores an unlikely friendship between two teens raised on opposite sides of the cultural and political divide, examining gender identity, faith, and empathy.",
-      "review": "Frequently praised for its courage and nuance. Some readers find it challenging but important."
+      "description": "Set in rural Tennessee, this novel explores an unlikely friendship across political and cultural divides.",
+      "review": "Frequently praised for its courage and nuance."
     },
     {
       "title": "I Like Me Better",
@@ -164,8 +161,8 @@
       "isbn13": "9781335453648",
       "rating": 3.9,
       "rank": 18,
-      "description": "A summery queer romance set at a seaside conservation center where a soccer star on community service learns to confront honesty, identity, and first love.",
-      "review": "Readers enjoy the light tone and beachy setting, calling it sweet and affirming."
+      "description": "A summery queer romance set at a seaside conservation center.",
+      "review": "Sweet, affirming, and light."
     },
     {
       "title": "The Art of Insanity",
@@ -173,8 +170,8 @@
       "isbn13": "9781682634578",
       "rating": 3.8,
       "rank": 19,
-      "description": "A senior year unfolds under the weight of secrecy as a teen artist hides her bipolar diagnosis while navigating love, pressure, and self-acceptance.",
-      "review": "Praised for its authentic portrayal of mental illness and emotional vulnerability."
+      "description": "A teen artist hides her bipolar diagnosis while navigating love and pressure.",
+      "review": "Praised for authenticity and emotional vulnerability."
     },
     {
       "title": "Diary of a Confused Feminist",
@@ -182,8 +179,8 @@
       "isbn13": "9781665937948",
       "rating": 3.8,
       "rank": 20,
-      "description": "Told through diary entries, this sharp British YA follows a teen trying—and often failing—to live up to her own feminist ideals while navigating crushes, school, and anxiety.",
-      "review": "Readers love its humor and relatability, though some note secondhand embarrassment."
+      "description": "A humorous diary-style exploration of modern feminism and anxiety.",
+      "review": "Funny and relatable, with intentional cringe."
     },
     {
       "title": "The Grove",
@@ -191,8 +188,8 @@
       "isbn13": "9780593202128",
       "rating": 3.9,
       "rank": 21,
-      "description": "A haunting historical coming-of-age novel about sisterhood, secrecy, and survival in a poverty-stricken 1960s Florida town.",
-      "review": "Often described as atmospheric and emotionally intense with strong literary appeal."
+      "description": "A haunting historical coming-of-age novel set in 1960s Florida.",
+      "review": "Atmospheric and emotionally intense."
     },
     {
       "title": "Last Chance Dance",
@@ -200,8 +197,8 @@
       "isbn13": "9780593525616",
       "rating": 4.0,
       "rank": 22,
-      "description": "A joyful, fast-paced romance built around a high school tradition that gives seniors one final chance at love before graduation.",
-      "review": "Readers highlight its humor, heart, and satisfying romantic arc."
+      "description": "A joyful senior-year romance built around one final dance tradition.",
+      "review": "Praised for humor and heart."
     },
     {
       "title": "Seven Minutes in Candyland",
@@ -209,8 +206,8 @@
       "isbn13": "9780063264656",
       "rating": 3.8,
       "rank": 23,
-      "description": "A witty rom-com about a teen who accidentally becomes his school’s go-to relationship therapist while navigating family tension and first love.",
-      "review": "Praised for its originality and humor, with relatable emotional beats."
+      "description": "A witty rom-com about emotional labor and first love.",
+      "review": "Original and funny."
     },
     {
       "title": "If You, Then Me",
@@ -218,8 +215,8 @@
       "isbn13": "9780063008649",
       "rating": 3.7,
       "rank": 24,
-      "description": "A Silicon Valley–set rom-com blending artificial intelligence, ambition, and identity as a teen navigates love and future selves.",
-      "review": "Readers enjoy the tech-forward premise, though opinions vary on pacing."
+      "description": "A tech-forward rom-com exploring AI and identity.",
+      "review": "Interesting premise with mixed pacing."
     },
     {
       "title": "Mysterious Ways",
@@ -227,8 +224,8 @@
       "isbn13": "9781250770202",
       "rating": 3.7,
       "rank": 25,
-      "description": "A darkly funny exploration of knowledge, mental health, and vulnerability centered on a girl who knows everyone’s secrets.",
-      "review": "Praised for its concept and voice, but polarizing in execution."
+      "description": "A darkly funny novel about secrets and mental health.",
+      "review": "Conceptually strong but polarizing."
     },
     {
       "title": "Be More Chill",
@@ -236,8 +233,8 @@
       "isbn13": "9780786809967",
       "rating": 3.7,
       "rank": 26,
-      "description": "A cult-classic YA about teenage insecurity amplified by a futuristic pill that promises popularity at a steep cost.",
-      "review": "Beloved for its humor and satire, especially among fans of the musical adaptation."
+      "description": "A cult-classic YA satire about popularity and insecurity.",
+      "review": "Beloved for its humor and musical adaptation."
     },
     {
       "title": "This Side of Home",
@@ -245,6 +242,8 @@
       "isbn13": "9781599906683",
       "rating": 3.8,
       "rank": 27,
-      "description": "A thoughtful exploration of gentrification, identity, and sisterhood as twins respond differently to changes in their neighborhood.",
-      "review": "Respected for its social commentary and emotional maturity."
+      "description": "A thoughtful exploration of gentrification and sisterhood.",
+      "review": "Respected for emotional maturity."
     }
+  ]
+}
