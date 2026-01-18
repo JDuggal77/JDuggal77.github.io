@@ -1,0 +1,96 @@
+{
+  "shelfId": "TeenRealFic_Shelf25",
+  "category": "Teen Realistic Fiction",
+  "books": [
+    {
+      "title": "Bridge of Clay",
+      "author": "Markus Zusak",
+      "isbn13": "9781984830159",
+      "rating": 4.2,
+      "rank": 1,
+      "description": "An ambitious, emotionally layered novel about five brothers bound by grief, love, and memory. Centered on Clay Dunbar, the story explores sacrifice, endurance, and redemption as the boys confront their past and the legacy of their broken family.",
+      "review": "Widely praised for its poetic prose and emotional depth. Readers admire its complexity, though some find its structure demanding."
+    },
+    {
+      "title": "In the Wild Light",
+      "author": "Jeff Zentner",
+      "isbn13": "9781524720247",
+      "rating": 4.3,
+      "rank": 2,
+      "description": "A lyrical coming-of-age story following a small-town boy navigating grief, first love, and artistic awakening after earning a scholarship to an elite prep school.",
+      "review": "Highly regarded for its tenderness and authentic emotional voice. Frequently called beautiful and quietly powerful."
+    },
+    {
+      "title": "Pride",
+      "author": "Ibi Zoboi",
+      "isbn13": "9780062564047",
+      "rating": 4.1,
+      "rank": 3,
+      "description": "A modern Brooklyn retelling of Pride and Prejudice that blends romance, cultural identity, and gentrification as a teen girl struggles to protect her neighborhood and her heart.",
+      "review": "Praised for its cultural richness and timely themes. Readers enjoy the fresh take on a classic."
+    },
+    {
+      "title": "American Street",
+      "author": "Ibi Zoboi",
+      "isbn13": "9780062473042",
+      "rating": 4.0,
+      "rank": 4,
+      "description": "A Haitian immigrant teen navigates Detroit, family loyalty, and dangerous choices after her mother is detained by immigration authorities.",
+      "review": "Readers applaud its blend of realism and magical elements, noting its emotional intensity and strong sense of place."
+    },
+    {
+      "title": "Sunrise Nights",
+      "author": "Jeff Zentner & Brittany Cavallaro",
+      "isbn13": "9780063324534",
+      "rating": 4.0,
+      "rank": 5,
+      "description": "Told through verse and dialogue, this novel traces the evolving connection between two artists over three nights across multiple summers, exploring love, loss, and creative identity.",
+      "review": "Praised for its unique structure and emotional resonance, especially among poetry fans."
+    },
+    {
+      "title": "Boys of the Beast",
+      "author": "Monica Zepeda",
+      "isbn13": "9781643790954",
+      "rating": 4.0,
+      "rank": 6,
+      "description": "A road-trip novel told from three perspectives as cousins with clashing identities confront faith, sexuality, and family secrets across the American Southwest.",
+      "review": "Readers praise its character voices and emotional honesty, calling it raw and memorable."
+    },
+    {
+      "title": "Libertad",
+      "author": "Bessie Flores Zaldívar",
+      "isbn13": "9780593696125",
+      "rating": 4.1,
+      "rank": 7,
+      "description": "Set during political unrest in Honduras, this novel follows a queer teen poet navigating activism, family pressure, and first love amid real danger.",
+      "review": "Critically acclaimed for its urgency and lyrical writing. Frequently described as powerful and necessary."
+    },
+    {
+      "title": "Dear Wendy",
+      "author": "Ann Zhao",
+      "isbn13": "9781250885005",
+      "rating": 3.9,
+      "rank": 8,
+      "description": "A platonic love story told through dual POVs as two aromantic, asexual students unknowingly feud online while becoming friends in real life.",
+      "review": "Praised for rare representation and emotional nuance. Readers appreciate its humor and sincerity."
+    },
+    {
+      "title": "One of the Boys",
+      "author": "Victoria Zeller",
+      "isbn13": "9781646145027",
+      "rating": 3.8,
+      "rank": 9,
+      "description": "A gender-bending sports story exploring identity, acceptance, and resilience as a teen challenges expectations in a competitive athletic space.",
+      "review": "Readers highlight its representation and emotional realism, though pacing is mixed."
+    },
+    {
+      "title": "The Cartographers",
+      "author": "Amy Zhang",
+      "isbn13": "9780062383075",
+      "rating": 3.7,
+      "rank": 10,
+      "description": "A quiet, introspective novel focused on ambition, mapping identity, and the emotional terrain of adolescence.",
+      "review": "More subdued than others on the shelf, but appreciated for atmosphere and subtle character work."
+    }
+  ]
+}
