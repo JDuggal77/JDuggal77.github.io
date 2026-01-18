@@ -1,225 +1,319 @@
 {
   "shelfId": "TeenRealFic_Shelf15",
   "shelfLabel": "Teen Realistic Fiction — Shelf 15",
+  "updated": "2026-01-15",
   "books": [
     {
       "rank": 1,
+      "isbn": "9781250244451",
       "title": "I Kissed Shara Wheeler",
       "author": "Casey McQuiston",
-      "isbn13": "9781250244451",
-      "rating": 4.3,
-      "description": "A sharp, funny, and emotionally layered queer mystery-romance set in a conservative Southern high school, where rivals, secrets, and unexpected alliances collide.",
-      "review": "Widely praised for its humor, inclusivity, and clever subversion of small-town romance tropes."
+      "approxRating": 4.3,
+      "ratingNote": "Highly praised for humor, inclusivity, and clever subversion of small-town romance tropes.",
+      "reviewSummary": [
+        "A queer mystery-romance set in a conservative Southern high school where rivals, secrets, and unexpected alliances collide."
+      ],
+      "themes": ["queer identity", "mystery", "small-town dynamics"],
+      "ageNote": "13+; romance and identity themes."
     },
     {
       "rank": 2,
+      "isbn": "9781984830173",
       "title": "American Royals",
       "author": "Katharine McGee",
-      "isbn13": "9781984830173",
-      "rating": 4.1,
-      "description": "An addictive alternate-history series imagining America with a royal family, blending political intrigue, romance, and celebrity culture.",
-      "review": "Readers love the soap-opera drama and binge-worthy pacing."
+      "approxRating": 4.1,
+      "ratingNote": "Readers enjoy the soap-opera drama and binge-worthy pacing.",
+      "reviewSummary": [
+        "An alternate-history imagining America with a royal family, blending political intrigue, romance, and celebrity culture."
+      ],
+      "themes": ["alternate history", "romance", "politics"],
+      "ageNote": "13+; romance and drama."
     },
     {
       "rank": 3,
+      "isbn": "9781616209919",
       "title": "Furia",
       "author": "Yamile Saied Méndez",
-      "isbn13": "9781616209919",
-      "rating": 4.2,
-      "description": "A powerful coming-of-age story about a young Argentine soccer star fighting gender norms, family expectations, and first love.",
-      "review": "Celebrated for its feminist themes, cultural authenticity, and emotional intensity."
+      "approxRating": 4.2,
+      "ratingNote": "Celebrated for feminist themes and cultural authenticity.",
+      "reviewSummary": [
+        "A coming-of-age story about a young Argentine soccer star fighting gender norms, family expectations, and first love."
+      ],
+      "themes": ["sports", "feminism", "Latinx identity"],
+      "ageNote": "13+; family pressure and romance."
     },
     {
       "rank": 4,
-      "title": "Monday's Not Coming",
+      "isbn": "9780062422675",
+      "title": "Monday’s Not Coming",
       "author": "Tiffany D. Jackson",
-      "isbn13": "9780062422675",
-      "rating": 4.3,
-      "description": "A chilling, emotionally devastating mystery about a missing girl—and the systems that fail to notice when Black girls disappear.",
-      "review": "Frequently called unforgettable and heartbreaking by readers and critics alike."
+      "approxRating": 4.3,
+      "ratingNote": "Frequently described as unforgettable and heartbreaking.",
+      "reviewSummary": [
+        "A devastating mystery about a missing Black girl and the systems that fail to notice when she disappears."
+      ],
+      "themes": ["systemic neglect", "racism", "friendship"],
+      "ageNote": "14+; emotional trauma and abuse."
     },
     {
       "rank": 5,
+      "isbn": "9780062943170",
       "title": "Stay Gold",
       "author": "Tobly McSmith",
-      "isbn13": "9780062943170",
-      "rating": 4.1,
-      "description": "A tender, hopeful romance following a transgender teen navigating love, identity, and visibility at a new high school.",
-      "review": "Praised for warmth, representation, and emotional honesty."
+      "approxRating": 4.1,
+      "ratingNote": "Praised for warmth, representation, and emotional honesty.",
+      "reviewSummary": [
+        "A hopeful romance following a transgender teen navigating love, identity, and visibility at a new high school."
+      ],
+      "themes": ["trans identity", "romance", "self-acceptance"],
+      "ageNote": "13+; romance and identity themes."
     },
     {
       "rank": 6,
+      "isbn": "9780593116876",
       "title": "This Is How We Fly",
       "author": "Anna Meriano",
-      "isbn13": "9780593116876",
-      "rating": 4.0,
-      "description": "A Cinderella-inspired summer story about friendship, Quidditch, and finding belonging after high school.",
-      "review": "Readers enjoy its humor, nerd culture references, and heartfelt friendships."
+      "approxRating": 4.0,
+      "ratingNote": "Enjoyed for humor and nerd-culture references.",
+      "reviewSummary": [
+        "A Cinderella-inspired summer story about friendship, Quidditch, and finding belonging after high school."
+      ],
+      "themes": ["friendship", "fandom", "belonging"],
+      "ageNote": "12+; mild language."
     },
     {
       "rank": 7,
+      "isbn": "9781250618818",
       "title": "Instant Karma",
       "author": "Marissa Meyer",
-      "isbn13": "9781250618818",
-      "rating": 3.9,
-      "description": "A lighthearted contemporary romance with a supernatural twist, exploring accountability, justice, and growth.",
-      "review": "Popular for its fun premise and character-driven moral questions."
+      "approxRating": 3.9,
+      "ratingNote": "Popular for its fun premise and character-driven moral questions.",
+      "reviewSummary": [
+        "A contemporary romance with a supernatural twist exploring accountability, justice, and growth."
+      ],
+      "themes": ["romance", "morality", "personal growth"],
+      "ageNote": "12+; mild romance."
     },
     {
       "rank": 8,
+      "isbn": "9781984815712",
       "title": "Sanctuary",
       "author": "Paola Mendoza & Abby Sher",
-      "isbn13": "9781984815712",
-      "rating": 4.0,
-      "description": "A near-future dystopian novel following undocumented teens fleeing a surveillance-heavy America.",
-      "review": "Praised for urgency, realism, and emotional impact."
+      "approxRating": 4.0,
+      "ratingNote": "Praised for urgency, realism, and emotional impact.",
+      "reviewSummary": [
+        "A near-future dystopian novel following undocumented teens fleeing a surveillance-heavy America."
+      ],
+      "themes": ["immigration", "dystopia", "activism"],
+      "ageNote": "14+; violence and political themes."
     },
     {
       "rank": 9,
+      "isbn": "9781541597976",
       "title": "Where I Belong",
       "author": "Marcia Argueta Mickelson",
-      "isbn13": "9781541597976",
-      "rating": 4.0,
-      "description": "An immigrant coming-of-age story centered on family loyalty, activism, and the cost of visibility.",
-      "review": "Readers appreciate its nuance and grounded political themes."
+      "approxRating": 4.0,
+      "ratingNote": "Appreciated for nuance and grounded political themes.",
+      "reviewSummary": [
+        "An immigrant coming-of-age story centered on family loyalty, activism, and the cost of visibility."
+      ],
+      "themes": ["immigration", "family", "activism"],
+      "ageNote": "13+; social conflict."
     },
     {
       "rank": 10,
+      "isbn": "9780763690496",
       "title": "Merci Suárez Changes Gears",
       "author": "Meg Medina",
-      "isbn13": "9780763690496",
-      "rating": 4.4,
-      "description": "A middle-grade crossover about family, change, and understanding Alzheimer’s through a child’s eyes.",
-      "review": "Highly praised for warmth, realism, and emotional intelligence."
+      "approxRating": 4.4,
+      "ratingNote": "Highly praised for warmth and emotional intelligence.",
+      "reviewSummary": [
+        "A middle-grade crossover about family, change, and understanding Alzheimer’s through a child’s eyes."
+      ],
+      "themes": ["family", "illness", "growing up"],
+      "ageNote": "10+; illness themes."
     },
     {
       "rank": 11,
+      "isbn": "9780063038561",
       "title": "ACT Cool",
       "author": "Tobly McSmith",
-      "isbn13": "9780063038561",
-      "rating": 3.9,
-      "description": "A performing-arts coming-of-age story centered on ambition, identity, and healing from family rejection.",
-      "review": "Commended for trans representation and emotional depth."
+      "approxRating": 3.9,
+      "ratingNote": "Commended for trans representation and emotional depth.",
+      "reviewSummary": [
+        "A performing-arts coming-of-age story centered on ambition, identity, and healing from rejection."
+      ],
+      "themes": ["trans identity", "arts", "self-expression"],
+      "ageNote": "13+; identity themes."
     },
     {
       "rank": 12,
+      "isbn": "9780063264922",
       "title": "Pritty",
       "author": "Keith F. Miller Jr.",
-      "isbn13": "9780063264922",
-      "rating": 3.8,
-      "description": "A gritty, introspective novel exploring masculinity, friendship, and survival in urban America.",
-      "review": "Readers note its raw voice and unflinching realism."
+      "approxRating": 3.8,
+      "ratingNote": "Readers note its raw voice and realism.",
+      "reviewSummary": [
+        "A gritty, introspective novel exploring masculinity, friendship, and survival."
+      ],
+      "themes": ["masculinity", "friendship", "urban life"],
+      "ageNote": "14+; violence references."
     },
     {
-  "continuedBooks": [
-    {
       "rank": 13,
+      "isbn": "9781984830159",
       "title": "Bridge of Clay",
       "author": "Markus Zusak",
-      "isbn13": "9781984830159",
-      "rating": 4.0,
-      "description": "A lyrical, emotionally complex novel following the Dunbar brothers as they grapple with grief, love, and the secrets of their fractured family, centered around Clay and the bridge he feels compelled to build.",
-      "review": "Praised for its poetic language and ambition, though some readers find it dense and emotionally heavy."
+      "approxRating": 4.0,
+      "ratingNote": "Praised for poetic language and ambition.",
+      "reviewSummary": [
+        "A lyrical novel following the Dunbar brothers as they grapple with grief, love, and family secrets."
+      ],
+      "themes": ["family", "grief", "brotherhood"],
+      "ageNote": "14+; emotional intensity."
     },
     {
       "rank": 14,
+      "isbn": "9781512448467",
       "title": "I, Claudia",
       "author": "Mary McCoy",
-      "isbn13": "9781512448467",
-      "rating": 3.8,
-      "description": "A sharp political allegory set in a prestigious boarding school where a cynical teen unexpectedly gains power and must confront corruption, ethics, and responsibility.",
-      "review": "Often compared to The West Wing for teens; readers like its intelligence and moral complexity."
+      "approxRating": 3.8,
+      "ratingNote": "Readers like its intelligence and moral complexity.",
+      "reviewSummary": [
+        "A political allegory set in a boarding school exploring power, ethics, and responsibility."
+      ],
+      "themes": ["power", "ethics", "politics"],
+      "ageNote": "13+; mature themes."
     },
     {
       "rank": 15,
+      "isbn": "9780062982421",
       "title": "Initial Insult",
       "author": "Mindy McGinnis",
-      "isbn13": "9780062982421",
-      "rating": 3.9,
-      "description": "A dark, modern retelling of Poe’s The Cask of Amontillado, following a teen girl navigating trauma, revenge, and psychological manipulation.",
-      "review": "Readers praise its intensity and unsettling atmosphere."
+      "approxRating": 3.9,
+      "ratingNote": "Praised for intensity and unsettling atmosphere.",
+      "reviewSummary": [
+        "A dark modern retelling of Poe’s work exploring trauma, revenge, and manipulation."
+      ],
+      "themes": ["revenge", "psychological thriller"],
+      "ageNote": "15+; disturbing content."
     },
     {
       "rank": 16,
+      "isbn": "9780062271136",
       "title": "A Step Toward Falling",
       "author": "Cammie McGovern",
-      "isbn13": "9780062271136",
-      "rating": 4.1,
-      "description": "After witnessing an assault and failing to act, two teens are forced to confront guilt, accountability, and the meaning of doing the right thing.",
-      "review": "Highly regarded for its empathy, realism, and moral nuance."
+      "approxRating": 4.1,
+      "ratingNote": "Highly regarded for empathy and moral nuance.",
+      "reviewSummary": [
+        "Two teens confront guilt and accountability after witnessing an assault."
+      ],
+      "themes": ["accountability", "ethics", "trauma"],
+      "ageNote": "14+; sexual assault themes."
     },
     {
       "rank": 17,
+      "isbn": "9780374302849",
       "title": "100 Days",
       "author": "Nicole McInnes",
-      "isbn13": "9780374302849",
-      "rating": 4.0,
-      "description": "A heartbreaking story about friendship, love, and mortality as a teen with progeria faces the reality of limited time.",
-      "review": "Readers describe it as emotional, tender, and quietly devastating."
+      "approxRating": 4.0,
+      "ratingNote": "Described as tender and quietly devastating.",
+      "reviewSummary": [
+        "A story about friendship and mortality as a teen with progeria faces limited time."
+      ],
+      "themes": ["friendship", "illness", "mortality"],
+      "ageNote": "13+; illness and grief."
     },
     {
       "rank": 18,
+      "isbn": "9781681195483",
       "title": "The Exact Location of Home",
       "author": "Kate Messner",
-      "isbn13": "9781681195483",
-      "rating": 4.0,
-      "description": "A thoughtful middle-grade crossover novel about family separation, trust, and a boy’s search for truth using a GPS device.",
-      "review": "Praised for warmth, accessibility, and emotional resonance."
+      "approxRating": 4.0,
+      "ratingNote": "Praised for warmth and emotional resonance.",
+      "reviewSummary": [
+        "A middle-grade crossover about family separation, trust, and finding truth."
+      ],
+      "themes": ["family", "trust", "belonging"],
+      "ageNote": "10+; family separation."
     },
     {
       "rank": 19,
+      "isbn": "9781646145027",
       "title": "One of the Boys",
       "author": "Victoria Zeller",
-      "isbn13": "9781646145027",
-      "rating": 4.1,
-      "description": "A contemporary sports novel about a trans girl navigating high school football, identity, and belonging.",
-      "review": "Widely praised for representation and emotional authenticity."
+      "approxRating": 4.1,
+      "ratingNote": "Widely praised for representation and authenticity.",
+      "reviewSummary": [
+        "A sports novel about a trans girl navigating football, identity, and belonging."
+      ],
+      "themes": ["trans identity", "sports", "belonging"],
+      "ageNote": "13+; bullying themes."
     },
     {
       "rank": 20,
+      "isbn": "9781524720247",
       "title": "In the Wild Light",
       "author": "Jeff Zentner",
-      "isbn13": "9781524720247",
-      "rating": 4.2,
-      "description": "A poetic coming-of-age story about grief, friendship, and the transformative power of art and literature.",
-      "review": "Frequently lauded for its lyricism and emotional depth."
+      "approxRating": 4.2,
+      "ratingNote": "Frequently lauded for lyricism and emotional depth.",
+      "reviewSummary": [
+        "A poetic coming-of-age story about grief, friendship, and the power of art."
+      ],
+      "themes": ["art", "grief", "friendship"],
+      "ageNote": "14+; emotional themes."
     },
     {
       "rank": 21,
+      "isbn": "9781643790954",
       "title": "Boys of the Beast",
       "author": "Monica Zepeda",
-      "isbn13": "9781643790954",
-      "rating": 3.9,
-      "description": "A road-trip novel told from three perspectives, exploring masculinity, family, and identity across cultural lines.",
-      "review": "Readers enjoy its structure and honest character voices."
+      "approxRating": 3.9,
+      "ratingNote": "Readers enjoy its structure and honest voices.",
+      "reviewSummary": [
+        "A road-trip novel exploring masculinity, family, and identity."
+      ],
+      "themes": ["masculinity", "family", "identity"],
+      "ageNote": "14+; mature themes."
     },
     {
       "rank": 22,
+      "isbn": "9780593696125",
       "title": "Libertad",
       "author": "Bessie Flores Zaldívar",
-      "isbn13": "9780593696125",
-      "rating": 4.2,
-      "description": "Set during political unrest in Honduras, this novel follows a queer teen poet finding her voice amid danger and repression.",
-      "review": "Critically acclaimed for its urgency and emotional power."
+      "approxRating": 4.2,
+      "ratingNote": "Critically acclaimed for urgency and emotional power.",
+      "reviewSummary": [
+        "A queer teen poet finds her voice amid political unrest in Honduras."
+      ],
+      "themes": ["activism", "queer identity", "politics"],
+      "ageNote": "14+; violence references."
     },
     {
       "rank": 23,
+      "isbn": "9780593206508",
       "title": "As You Walk on By",
       "author": "Julian Winters",
-      "isbn13": "9780593206508",
-      "rating": 4.0,
-      "description": "An ensemble prom-night novel about expectations, identity, and unexpected connections.",
-      "review": "Loved for its warmth, pacing, and diverse cast."
+      "approxRating": 4.0,
+      "ratingNote": "Loved for warmth, pacing, and diverse cast.",
+      "reviewSummary": [
+        "An ensemble prom-night novel about expectations and unexpected connections."
+      ],
+      "themes": ["friendship", "identity", "romance"],
+      "ageNote": "13+; romance."
     },
     {
       "rank": 24,
+      "isbn": "9780593206478",
       "title": "Right Where I Left You",
       "author": "Julian Winters",
-      "isbn13": "9780593206478",
-      "rating": 4.1,
-      "description": "A friends-to-lovers romance set against fandom culture, summer change, and unresolved feelings.",
-      "review": "Fans praise its charm and emotional sincerity."
+      "approxRating": 4.1,
+      "ratingNote": "Fans praise its charm and sincerity.",
+      "reviewSummary": [
+        "A friends-to-lovers romance set against fandom culture and summer change."
+      ],
+      "themes": ["friends to lovers", "fandom", "romance"],
+      "ageNote": "13+; romance."
     }
   ]
 }
-
