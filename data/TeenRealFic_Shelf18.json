@@ -158,9 +158,8 @@
       ],
       "themes": ["chronic illness", "friendship", "identity"],
       "ageNote": "13+; illness and emotional stress."
-    }
-,
-{
+    },
+    {
   "rank": 13,
   "isbn": "9780553496864",
   "title": "We Are All Made of Molecules",
@@ -341,4 +340,6 @@
   ],
   "themes": ["activism", "anger", "racism", "community"],
   "ageNote": "14+; violence and police presence."
+}
+  ]
 }
