@@ -1,0 +1,311 @@
+{
+  "shelfId": "TeenRealFic_Shelf15",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 15",
+  "updated": "2026-01-18",
+  "books": [
+    {
+      "rank": 1,
+      "isbn": "9780763690496",
+      "title": "Merci Suárez Changes Gears",
+      "author": "Meg Medina",
+      "approxRating": 4.18,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "This is a warm, funny, and quietly heavy middle-grade/early-teen story about a Cuban American girl starting sixth grade while her world shifts at home and at school. Reviews consistently praise how authentic Merci’s voice feels—observant, stubborn, caring—and how the book makes everyday family responsibility (and the stress that comes with it) feel just as dramatic as any big plot twist. A lot of readers highlight the emotional realism: friendships changing, adults not always explaining what’s happening, and a kid trying to be “fine” while noticing that something isn’t."
+      ],
+      "themes": ["family responsibility", "friendship changes", "identity", "school life", "coming of age"],
+      "ageNote": "10–13+; family illness and emotional stress, but written with a hopeful, accessible tone.",
+      "sources": [
+        "https://www.amazon.com/Merci-Suar%C3%A9z-Changes-Gears-Medina/dp/1432893211"
+      ]
+    },
+    {
+      "rank": 2,
+      "isbn": "9781681195483",
+      "title": "The Exact Location of Home",
+      "author": "Kate Messner",
+      "approxRating": 4.17,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A tense, compassionate story about a kid using geocaching and tech know-how to chase answers about his missing father—while dealing with bullying and the instability that comes when adults disappear or won’t tell you the truth. Reviews often mention how readable and “real” it feels: the friendships, the fear, and the way hope can make you do risky things. Many readers praise the emotional payoff and the way the book balances mystery momentum with a grounded look at home life."
+      ],
+      "themes": ["missing parent", "friendship", "bullying", "hope vs reality", "mystery"],
+      "ageNote": "11–14+; bullying and family instability, some implied physical abuse.",
+      "sources": [
+        "https://www.goodreads.com/book/show/24038358-the-exact-location-of-home"
+      ]
+    },
+    {
+      "rank": 3,
+      "isbn": "9781984815712",
+      "title": "Sanctuary",
+      "author": "Paola Mendoza & Abby Sher",
+      "approxRating": 4.15,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A fast, high-stakes near-future story where an immigrant teen and her family are forced to run when immigration enforcement turns their lives into a constant emergency. Reviews frequently describe it as intense and hard to put down, with a strong emotional core about family loyalty and fear. Readers also talk about how it pulls the politics into personal, moment-by-moment choices—where to hide, who to trust, what you risk for someone you love—without losing the thriller pacing."
+      ],
+      "themes": ["immigration", "family bonds", "survival", "injustice", "resilience"],
+      "ageNote": "13–16+; threats, violence, detention themes, and sustained tension.",
+      "sources": [
+        "https://www.goodreads.com/book/show/49032427-sanctuary"
+      ]
+    },
+    {
+      "rank": 4,
+      "isbn": "9781616209919",
+      "title": "Furia",
+      "author": "Yamile Saied Méndez",
+      "approxRating": 4.14,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "Set in Argentina, this follows a teen who’s secretly brilliant at fútbol but boxed in by sexism, family expectations, and what’s considered “allowed” for girls. Reviews consistently praise the energy—big feelings, big ambition—and the way the story ties sports to freedom and self-respect. Readers often highlight the romance and the team/community dynamics, but the strongest praise tends to be for how the book captures the pressure of wanting more than the life people planned for you."
+      ],
+      "themes": ["soccer", "feminism", "ambition", "family expectations", "first love"],
+      "ageNote": "13–16+; misogyny, family conflict, and some violence/harassment references.",
+      "sources": [
+        "https://www.goodreads.com/book/show/55429079-furia"
+      ]
+    },
+    {
+      "rank": 5,
+      "isbn": "9781541597976",
+      "title": "Where I Belong",
+      "author": "Marcia Argueta Mickelson",
+      "approxRating": 4.05,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A timely, character-driven novel about a Guatemalan American teen juggling school, money stress, and her family’s immigration reality—then getting pulled into political messaging that turns her life into a symbol. Reviews often praise how grounded it feels: it’s not just “issues,” it’s a teen trying to plan a future while constantly being interrupted by adult systems. Readers commonly point out the emotional complexity: pride, anger, guilt, and love colliding at the same time."
+      ],
+      "themes": ["immigration", "family obligation", "politics", "identity", "class stress"],
+      "ageNote": "13–16+; racism, political exploitation, and sustained stress.",
+      "sources": [
+        "https://www.goodreads.com/author/show/1017077.Marcia_Argueta_Mickelson"
+      ]
+    },
+    {
+      "rank": 6,
+      "isbn": "9781512448467",
+      "title": "I, Claudia",
+      "author": "Mary McCoy",
+      "approxRating": 4.11,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A sharp, political school story where a teen historian gets pulled into the power games of an elite academy’s student government and social hierarchy. Reviews often describe it as surprisingly suspenseful for a realistic novel—more like a campus political thriller—while still feeling emotionally believable in how friendships turn strategic and loyalty has a price. Many readers praise Claudia’s voice as smart, bitterly funny, and observant, and they love the slow realization of how institutions protect themselves."
+      ],
+      "themes": ["power politics", "elite school", "social strategy", "identity", "moral compromise"],
+      "ageNote": "13–16+; manipulation, bullying/social cruelty, and intense pressure.",
+      "sources": [
+        "https://www.goodreads.com/author/show/7371757.Mary_McCoy"
+      ]
+    },
+    {
+      "rank": 7,
+      "isbn": "9781984830173",
+      "title": "American Royals",
+      "author": "Katharine McGee",
+      "approxRating": 3.82,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "An alternate-history soap where America has a royal family, and the teen royals are juggling duty, scandal, and messy romance under nonstop public scrutiny. Reviews usually frame it as pure binge reading—dramatic, shiny, and addictive—with lots of love triangles and court intrigue. Readers who like it most highlight the fast pacing and the ‘gossip-mag’ energy, while more mixed reviews tend to focus on how intentionally melodramatic it is (which, for many, is the point)."
+      ],
+      "themes": ["royalty", "romance drama", "public image", "duty vs desire", "family politics"],
+      "ageNote": "14+; romance and party scenes, some heavier relationship dynamics.",
+      "sources": [
+        "https://www.goodreads.com/book/show/43744300-american-royals"
+      ]
+    },
+    {
+      "rank": 8,
+      "isbn": "9780063264922",
+      "title": "Pritty",
+      "author": "Keith F. Miller Jr.",
+      "approxRating": 4.07,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A contemporary YA about a queer Black teen figuring out love, masculinity, and what it means to be seen as himself rather than as a performance. Reviews frequently praise it for being emotionally honest without turning into misery: it’s tender, funny, and messy in a way that feels lived-in. A lot of readers also highlight how the book treats softness and care as strength, especially in a setting where the main character has learned to protect himself by staying guarded."
+      ],
+      "themes": ["queer identity", "self-acceptance", "love and friendship", "masculinity", "coming of age"],
+      "ageNote": "14+; romance/sexuality discussion and emotional intensity, but not graphic.",
+      "sources": [
+        "https://www.goodreads.com/series/358895-pritty"
+      ]
+    },
+    {
+      "rank": 9,
+      "isbn": "9780593429747",
+      "title": "American Royals IV: Reign",
+      "author": "Katharine McGee",
+      "approxRating": 3.90,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "Later-series installment that leans into the ‘endgame’ energy: bigger consequences, sharper rivalries, and relationships getting tested under crown-level pressure. Reviews from fans tend to emphasize the payoffs—finally seeing choices land, secrets come due, and the characters forced into adult versions of their old problems. If you’re already invested, readers say it delivers the dramatic escalations you want; if you’re not, it’s very much a book that assumes you’ve been living in this soap opera world for a while."
+      ],
+      "themes": ["royalty", "power struggles", "romance stakes", "public scandal", "loyalty"],
+      "ageNote": "14+; romance/party scenes and high-drama relationship conflict.",
+      "sources": [
+        "https://www.goodreads.com/series/252759-american-royals"
+      ]
+    },
+    {
+      "rank": 10,
+      "isbn": "9780593429709",
+      "title": "American Royals III: Rivals",
+      "author": "Katharine McGee",
+      "approxRating": 3.74,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A mid-series entry that amps up interpersonal chaos: alliances shift, jealousy spikes, and everyone is trying to control the narrative around them. Reviews often describe it as the ‘gossipiest’ kind of fun—lots of cliffhanger vibes and characters making dramatic decisions under media pressure. Reader reactions vary mostly based on how much you enjoy the mess; fans love the momentum and the rivalries, while others find the drama intentionally over-the-top."
+      ],
+      "themes": ["rivalries", "court drama", "romance triangles", "image management", "betrayal"],
+      "ageNote": "14+; romantic/party content and intense social conflict.",
+      "sources": [
+        "https://www.goodreads.com/work/editions/94119007-rivals-american-royals-3"
+      ]
+    },
+    {
+      "rank": 11,
+      "isbn": "9780062271136",
+      "title": "A Step Toward Falling",
+      "author": "Cammie McGovern",
+      "approxRating": 3.73,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A relationship-driven novel about a girl whose life changes after a violent incident at a party leaves a classmate with a traumatic brain injury, forcing her to confront guilt, responsibility, and how one moment can split your life into ‘before’ and ‘after.’ Reviews often praise the emotional complexity—characters aren’t easily labeled as heroes or villains—and the way the book explores compassion without excusing harm. Many readers describe it as heavy but thoughtful, especially if you like morally complicated, consequence-focused YA."
+      ],
+      "themes": ["guilt", "accountability", "trauma", "friendship and romance", "consequences"],
+      "ageNote": "14+; violence/assault themes and significant emotional distress.",
+      "sources": [
+        "https://www.goodreads.com/search?q=A+Step+Toward+Falling+Cammie+McGovern"
+      ]
+    },
+    {
+      "rank": 12,
+      "isbn": "9781250618818",
+      "title": "Instant Karma",
+      "author": "Marissa Meyer",
+      "approxRating": 3.74,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A sunny, romcom-y story where a judgmental overachiever suddenly gets the ability to dish out ‘karma’ instantly—forcing her to confront how often she assumes she’s right about everyone. Reviews usually describe it as cute, breezy, and message-y in a way that works if you’re in the mood for light character growth and coastal vibes. Fans tend to love the banter and the satisfaction of watching the main character get humbled; mixed reviews often come from readers who wanted either sharper stakes or deeper romance."
+      ],
+      "themes": ["self-growth", "romcom", "second chances", "environment/community", "humility"],
+      "ageNote": "13+; romance and some language, generally light overall.",
+      "sources": [
+        "https://www.goodreads.com/series/383712-instant-karma"
+      ]
+    },
+    {
+      "rank": 13,
+      "isbn": "9780374302849",
+      "title": "100 Days",
+      "author": "Nicole McInnes",
+      "approxRating": 3.75,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A realistic, emotionally tight story about survival and endurance—focused on what it means to keep going when time becomes the only thing you can control. Reviews often talk about it as tense and intimate, with a strong sense of claustrophobia and urgency. Readers who like it most highlight the resilience and the way the book makes every small decision feel enormous; the heaviness is the appeal, so it tends to land best when you’re ready for something intense."
+      ],
+      "themes": ["survival", "resilience", "fear and courage", "isolation", "hope"],
+      "ageNote": "14+; distressing situations and sustained tension.",
+      "sources": [
+        "https://www.goodreads.com/search?q=100+Days+Nicole+McInnes"
+      ]
+    },
+    {
+      "rank": 14,
+      "isbn": "9780062943170",
+      "title": "Stay Gold",
+      "author": "Tobly McSmith",
+      "approxRating": 3.84,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A trans teen romance that starts with stealth and anxiety and slowly opens into a story about being known, being safe, and building trust. Reviews often praise it as a comforting read with real stakes: dysphoria, fear of being outed, and the vulnerability of first love. Readers commonly highlight how the book balances sweetness with realism—there’s a protective, hopeful tone, but it doesn’t pretend the world is automatically kind."
+      ],
+      "themes": ["trans identity", "first love", "self-acceptance", "trust", "friendship"],
+      "ageNote": "14+; romance and discussions of transphobia and safety.",
+      "sources": [
+        "https://www.goodreads.com/nl/book/show/45306326-stay-gold"
+      ]
+    },
+    {
+      "rank": 15,
+      "isbn": "9780063038561",
+      "title": "ACT Cool",
+      "author": "Tobly McSmith",
+      "approxRating": 3.77,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A contemporary YA with theater-kid energy, where performance isn’t just on stage—it’s also how the characters handle popularity, identity, and pressure. Reviews tend to describe it as fun and messy, with a lot of humor and big feelings, especially for readers who like artsy friend-groups and romantic chaos. The most common feedback is that it’s a “good time” book that still touches on insecurity and self-image underneath the jokes."
+      ],
+      "themes": ["theater", "identity", "friend group drama", "romance", "self-confidence"],
+      "ageNote": "14+; romance, some language, and social/identity stress.",
+      "sources": [
+        "https://between-the-shelves.com/2021/07/review-act-cool/"
+      ]
+    },
+    {
+      "rank": 16,
+      "isbn": "9781250244451",
+      "title": "I Kissed Shara Wheeler",
+      "author": "Casey McQuiston",
+      "approxRating": 3.85,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A queer YA romcom with a mystery engine: after the perfect-it-girl kisses the main character and then disappears, clues and conspiracies pull a whole group of teens into unraveling who Shara really is (and who they are, too). Reviews often praise the blend of comedy, tenderness, and the slightly chaotic ‘hunt’ structure—like a love story built inside a puzzle. Readers also tend to highlight the themes of reputation and small-town expectations, especially how queerness gets policed through rumor and silence."
+      ],
+      "themes": ["queer identity", "mystery hunt", "small-town pressure", "reputation", "romance"],
+      "ageNote": "14+; romance/sexuality discussion and some language.",
+      "sources": [
+        "https://www.goodreads.com/book/58756420/questions"
+      ]
+    },
+    {
+      "rank": 17,
+      "isbn": "9780593116876",
+      "title": "This Is How We Fly",
+      "author": "Anna Meriano",
+      "approxRating": 3.68,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A long, cozy, nerdy Cinderella remix centered on fanfiction, theater/creative chaos, and a teen trying to figure out what she wants before graduation arrives. Reviews often describe it as character-heavy and very ‘in the head’—lots of friendship energy, creative ambition, and romantic tension that grows out of shared history. Readers who enjoy it tend to love the relatable stress and the satisfying slow-burn vibe; readers who don’t tend to want a faster plot."
+      ],
+      "themes": ["fanfiction", "graduation transition", "friendship", "slow-burn romance", "self-discovery"],
+      "ageNote": "12–15+; mostly light, with some emotional stress and relationship drama.",
+      "sources": [
+        "https://www.goodreads.com/en/book/show/51553245-this-is-how-we-fly"
+      ]
+    },
+    {
+      "rank": 18,
+      "isbn": "9780062982421",
+      "title": "Initial Insult",
+      "author": "Mindy McGinnis",
+      "approxRating": 3.67,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "A dark, twisty YA thriller that plays with class resentment, revenge fantasies, and the way one humiliating moment can rot into obsession over time. Reviews often describe it as propulsive and nasty-in-a-good-way—built for readers who want morally gray characters making escalating choices. A common theme in reviews is the atmosphere: it’s tense, uncomfortable, and designed to keep you suspicious of everyone."
+      ],
+      "themes": ["revenge", "thriller", "class resentment", "secrets", "moral grayness"],
+      "ageNote": "15+; manipulation, cruelty, violence themes, and disturbing content.",
+      "sources": [
+        "https://www.goodreads.com/search?q=Initial+Insult+Mindy+McGinnis"
+      ]
+    },
+    {
+      "rank": 19,
+      "isbn": "9781984830210",
+      "title": "American Royals II: Majesty",
+      "author": "Katharine McGee",
+      "approxRating": 3.75,
+      "ratingNote": "Approximate average rating pulled from major review platforms (primarily Goodreads) as of 2026-01.",
+      "reviewSummary": [
+        "Book two leans harder into the consequences: who gets the crown, who gets the love story, and who gets publicly humiliated when private drama becomes national gossip. Reviews usually describe it as even soapier than the first, with sharper betrayals and more ‘I can’t believe they did that’ moments. Fans like the escalation and the mess; more mixed reviews often come from readers who wanted characters to make smarter choices (but the chaos is kind of the franchise feature)."
+      ],
+      "themes": ["royalty drama", "betrayal", "romance stakes", "public scandal", "duty"],
+      "ageNote": "14+; romance/party scenes and high-drama relationship conflict.",
+      "sources": [
+        "https://www.goodreads.com/author/list/13499819.Katharine_McGee"
+      ]
+    }
+  ]
+}
