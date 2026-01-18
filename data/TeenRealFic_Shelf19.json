@@ -80,111 +80,292 @@
       ],
       "themes": ["identity", "burnout", "friendship"],
       "ageNote": "13+; mental health themes."
+    },
+    {
+      "rank": 7,
+      "isbn": "9781338830934",
+      "title": "I Was Born for This",
+      "author": "Alice Oseman",
+      "approxRating": 4.12,
+      "ratingNote": "Goodreads average rating with a large, engaged readership.",
+      "reviewSummary": [
+        "The novel follows both a devoted fan and a boy-band frontman as fame, anxiety, and identity collide. Readers consistently praise the dual perspective, noting how accurately it captures modern fandom culture and the pressure of visibility. Many reviewers highlight the emotional honesty around anxiety, queerness, and belonging."
+      ],
+      "themes": ["fandom", "identity", "anxiety", "fame"],
+      "ageNote": "13+; mental health themes."
+    },
+    {
+      "rank": 8,
+      "isbn": "9780063024991",
+      "title": "XOXO",
+      "author": "Axie Oh",
+      "approxRating": 4.09,
+      "ratingNote": "Goodreads rating supported by very high reader volume.",
+      "reviewSummary": [
+        "A classically trained cellist falls for a K-pop idol, forcing both to choose between ambition and love. Readers frequently describe the book as escapist and emotionally satisfying, praising the glamorous setting alongside the grounded emotional stakes. Many note the strong chemistry and tension created by secrecy."
+      ],
+      "themes": ["forbidden romance", "music", "ambition"],
+      "ageNote": "13+; romance."
+    },
+    {
+      "rank": 9,
+      "isbn": "9780553496864",
+      "title": "We Are All Made of Molecules",
+      "author": "Susin Nielsen",
+      "approxRating": 4.06,
+      "ratingNote": "Goodreads rating with consistent long-term popularity.",
+      "reviewSummary": [
+        "Stewart and Ashley are forced into a blended family, clashing socially while quietly sharing grief and insecurity. Readers praise the alternating narration and humor, often noting how the comedy makes the emotional moments hit harder. Frequently described as funny, empathetic, and unexpectedly moving."
+      ],
+      "themes": ["blended families", "grief", "friendship", "humor"],
+      "ageNote": "11+; grief and mild language."
+    },
+    {
+      "rank": 10,
+      "isbn": "9780062491497",
+      "title": "For Black Girls Like Me",
+      "author": "Mariama J. Lockington",
+      "approxRating": 4.05,
+      "ratingNote": "Goodreads rating with strong resonance among target readers.",
+      "reviewSummary": [
+        "Told in verse, the novel follows a Black girl navigating predominantly white spaces, family instability, and self-worth. Readers praise the specificity and tenderness of the voice, often describing the book as deeply validating. Reviews highlight how the poetry captures loneliness and resilience."
+      ],
+      "themes": ["Black girlhood", "identity", "belonging"],
+      "ageNote": "11+; emotional stress."
+    },
+    {
+      "rank": 11,
+      "isbn": "9781338863420",
+      "title": "Solitaire",
+      "author": "Alice Oseman",
+      "approxRating": 3.95,
+      "ratingNote": "Goodreads rating with mixed but thoughtful engagement.",
+      "reviewSummary": [
+        "Centered on Tori Spring, the novel explores numbness, cynicism, and quiet depression beneath teenage life. Readers often describe it as darker and more introspective than Oseman’s later work. Many appreciate its raw honesty even when it feels uncomfortable."
+      ],
+      "themes": ["depression", "alienation", "identity"],
+      "ageNote": "14+; mental health themes."
+    },
+    {
+      "rank": 12,
+      "isbn": "9781492622468",
+      "title": "This Is Where It Ends",
+      "author": "Marieke Nijkamp",
+      "approxRating": 3.94,
+      "ratingNote": "Goodreads rating with sustained discussion use.",
+      "reviewSummary": [
+        "Told over the course of 54 minutes during a school shooting, the story shifts between multiple trapped students. Readers describe the pacing as relentless and emotionally draining by design. Reviews frequently note the power of perspective and moral complexity."
+      ],
+      "themes": ["school violence", "fear", "survival"],
+      "ageNote": "15+; gun violence and death."
+    },
+    {
+      "rank": 13,
+      "isbn": "9781324052821",
+      "title": "When We Ride",
+      "author": "Rex Ogle",
+      "approxRating": 3.93,
+      "ratingNote": "Goodreads rating with strong response to its verse format.",
+      "reviewSummary": [
+        "Three friends test loyalty and morality as drugs and violence escalate around them. Readers praise the urgency of the verse and the emotional immediacy. Many describe the book as tense, fast-moving, and difficult to put down."
+      ],
+      "themes": ["friendship", "violence", "choices"],
+      "ageNote": "15+; drugs and violence."
+    },
+    {
+      "rank": 14,
+      "isbn": "9781681445373",
+      "title": "Asking For It",
+      "author": "Louise O'Neill",
+      "approxRating": 3.90,
+      "ratingNote": "Goodreads rating with intense, polarized reactions.",
+      "reviewSummary": [
+        "After an assault becomes public through social media, Emma faces relentless judgment and victim-blaming. Readers describe the novel as brutal and unflinching, praising its refusal to offer comfort or easy answers. Often cited as emotionally exhausting but essential."
+      ],
+      "themes": ["sexual assault", "shame", "media"],
+      "ageNote": "16+; sexual violence."
+    },
+    {
+      "rank": 15,
+      "isbn": "9781665902281",
+      "title": "Four for the Road",
+      "author": "K. J. Reilly",
+      "approxRating": 4.0,
+      "ratingNote": "Goodreads readers praise the balance of dark humor and grief-focused emotional growth.",
+      "reviewSummary": [
+        "A darkly funny road-trip novel following four grieving strangers traveling to Graceland. Readers highlight the sharp dialogue, unexpected emotional depth, and how humor is used to process loss. Many describe it as messy, cathartic, and surprisingly tender."
+      ],
+      "themes": ["grief", "found family", "healing", "road trip"],
+      "ageNote": "14+; grief and emotional themes."
+    },
+    {
+      "rank": 16,
+      "isbn": "9781250621917",
+      "title": "Little Like Waking",
+      "author": "Adam Rex",
+      "approxRating": 4.1,
+      "ratingNote": "Strong ratings driven by originality and emotional resonance.",
+      "reviewSummary": [
+        "Blending romance, philosophy, and speculative elements, this novel explores grief, fate, and emotional connection. Readers praise its unconventional structure and bittersweet tone, often describing it as thoughtful, strange, and quietly devastating."
+      ],
+      "themes": ["love", "grief", "existence", "memory"],
+      "ageNote": "14+; death and emotional complexity."
+    },
+    {
+      "rank": 17,
+      "isbn": "9780063060234",
+      "title": "Lesbiana's Guide to Catholic School",
+      "author": "Sonora Reyes",
+      "approxRating": 4.3,
+      "ratingNote": "Highly rated for humor, authenticity, and queer representation.",
+      "reviewSummary": [
+        "A sharp, funny coming-out story about a queer Latina teen navigating faith, culture, and identity at a Catholic school. Readers praise the voice, humor, and emotional honesty, frequently calling it affirming and empowering."
+      ],
+      "themes": ["queer identity", "religion", "family", "self-acceptance"],
+      "ageNote": "13+; sexuality and identity themes."
+    },
+    {
+      "rank": 18,
+      "isbn": "9781481438285",
+      "title": "Look Both Ways",
+      "author": "Jason Reynolds",
+      "approxRating": 4.4,
+      "ratingNote": "Extremely strong critical and reader reception across age groups.",
+      "reviewSummary": [
+        "Ten interconnected stories follow kids walking home from school, capturing humor, fear, kindness, and resilience. Readers praise its structure, voice, and emotional range, often describing it as powerful, accessible, and unforgettable."
+      ],
+      "themes": ["community", "choice", "everyday courage"],
+      "ageNote": "11+; emotional situations."
+    },
+    {
+      "rank": 19,
+      "isbn": "9780593349755",
+      "title": "Eight Nights of Flirting",
+      "author": "Hannah Reynolds",
+      "approxRating": 4.0,
+      "ratingNote": "Consistently positive ratings for charm and holiday atmosphere.",
+      "reviewSummary": [
+        "A cozy Hanukkah rom-com about awkward flirting, old crushes, and emotional growth. Readers love the festive setting, relatable protagonist, and slow-burn romance."
+      ],
+      "themes": ["romance", "holidays", "self-confidence"],
+      "ageNote": "12+; romance."
+    },
+    {
+      "rank": 20,
+      "isbn": "9780062748379",
+      "title": "Opposite of Always",
+      "author": "Justin A. Reynolds",
+      "approxRating": 4.2,
+      "ratingNote": "Very strong reader response driven by emotional impact.",
+      "reviewSummary": [
+        "A time-loop love story centered on grief, choice, and consequence. Readers praise the chemistry, humor, and emotional weight, often describing it as heartbreaking but hopeful."
+      ],
+      "themes": ["love", "time", "loss", "fate"],
+      "ageNote": "14+; death and grief."
+    },
+    {
+      "rank": 21,
+      "isbn": "9781481463331",
+      "title": "All American Boys",
+      "author": "Jason Reynolds & Brendan Kiely",
+      "approxRating": 4.3,
+      "ratingNote": "Widely taught and discussed with strong critical acclaim.",
+      "reviewSummary": [
+        "Two teens confront racism and police brutality from opposing perspectives. Readers praise the urgency, moral complexity, and emotional realism, frequently describing it as necessary and conversation-starting."
+      ],
+      "themes": ["racism", "justice", "perspective"],
+      "ageNote": "14+; violence and racial themes."
+    },
+    {
+      "rank": 22,
+      "isbn": "9781481450164",
+      "title": "Ghost",
+      "author": "Jason Reynolds",
+      "approxRating": 4.4,
+      "ratingNote": "Extremely popular with long-term reader love.",
+      "reviewSummary": [
+        "A boy joins a track team while running from trauma and anger. Readers praise the voice, humor, and emotional honesty, often calling it inspiring and relatable."
+      ],
+      "themes": ["trauma", "sports", "growth"],
+      "ageNote": "10+; family violence references."
+    },
+    {
+      "rank": 23,
+      "isbn": "9781481450195",
+      "title": "Patina",
+      "author": "Jason Reynolds",
+      "approxRating": 4.3,
+      "ratingNote": "Highly praised follow-up with strong emotional depth.",
+      "reviewSummary": [
+        "Patina balances caregiving, grief, and athletics while learning to rely on others. Readers love its exploration of responsibility and teamwork."
+      ],
+      "themes": ["family", "responsibility", "sports"],
+      "ageNote": "10+; illness themes."
+    },
+    {
+      "rank": 24,
+      "isbn": "9781481450225",
+      "title": "Sunny",
+      "author": "Jason Reynolds",
+      "approxRating": 4.2,
+      "ratingNote": "Positive reception for originality and emotional honesty.",
+      "reviewSummary": [
+        "A dancer trapped on a track team confronts grief and self-worth. Readers praise its uniqueness and emotional insight."
+      ],
+      "themes": ["identity", "grief", "self-expression"],
+      "ageNote": "10+; grief."
+    },
+    {
+      "rank": 25,
+      "isbn": "9780316493802",
+      "title": "Black Brother, Black Brother",
+      "author": "Jewell Parker Rhodes",
+      "approxRating": 4.4,
+      "ratingNote": "Strong ratings driven by social relevance and emotional clarity.",
+      "reviewSummary": [
+        "A Black teen navigates racism at a prep school while training for fencing. Readers praise the focused storytelling and themes of justice and resilience."
+      ],
+      "themes": ["racism", "identity", "resilience"],
+      "ageNote": "11+; discrimination."
+    },
+    {
+      "rank": 26,
+      "isbn": "9780316262262",
+      "title": "Ghost Boys",
+      "author": "Jewell Parker Rhodes",
+      "approxRating": 4.5,
+      "ratingNote": "Exceptionally high ratings and classroom use.",
+      "reviewSummary": [
+        "A boy killed by police watches the aftermath as a ghost. Readers describe it as devastating, necessary, and deeply moving."
+      ],
+      "themes": ["police violence", "racism", "grief"],
+      "ageNote": "11+; death."
+    },
+    {
+      "rank": 27,
+      "isbn": "9781328702272",
+      "title": "After the Shot Drops",
+      "author": "Randy Ribay",
+      "approxRating": 4.3,
+      "ratingNote": "Critically acclaimed with strong reader engagement.",
+      "reviewSummary": [
+        "Best friends are torn apart by privilege, loyalty, and systemic inequality. Readers praise the alternating perspectives and moral tension."
+      ],
+      "themes": ["friendship", "inequality", "choice"],
+      "ageNote": "14+; violence."
+    },
+    {
+      "rank": 28,
+      "isbn": "9780525554912",
+      "title": "Patron Saints of Nothing",
+      "author": "Randy Ribay",
+      "approxRating": 4.4,
+      "ratingNote": "Consistently praised for emotional and political depth.",
+      "reviewSummary": [
+        "A Filipino-American teen investigates his cousin’s death amid the Duterte drug war. Readers describe it as gripping, thoughtful, and powerful."
+      ],
+      "themes": ["family", "politics", "identity"],
+      "ageNote": "14+; violence."
     }
   ]
-}
-,
-{
-  "rank": 7,
-  "isbn": "9781338830934",
-  "title": "I Was Born for This",
-  "author": "Alice Oseman",
-  "approxRating": 4.12,
-  "ratingNote": "Goodreads average rating with a large, engaged readership.",
-  "reviewSummary": [
-    "The novel follows both a devoted fan and a boy-band frontman as fame, anxiety, and identity collide. Readers consistently praise the dual perspective, noting how accurately it captures modern fandom culture and the pressure of visibility. Many reviewers highlight the emotional honesty around anxiety, queerness, and belonging."
-  ],
-  "themes": ["fandom", "identity", "anxiety", "fame"],
-  "ageNote": "13+; mental health themes."
-},
-{
-  "rank": 8,
-  "isbn": "9780063024991",
-  "title": "XOXO",
-  "author": "Axie Oh",
-  "approxRating": 4.09,
-  "ratingNote": "Goodreads rating supported by very high reader volume.",
-  "reviewSummary": [
-    "A classically trained cellist falls for a K-pop idol, forcing both to choose between ambition and love. Readers frequently describe the book as escapist and emotionally satisfying, praising the glamorous setting alongside the grounded emotional stakes. Many note the strong chemistry and tension created by secrecy."
-  ],
-  "themes": ["forbidden romance", "music", "ambition"],
-  "ageNote": "13+; romance."
-},
-{
-  "rank": 9,
-  "isbn": "9780553496864",
-  "title": "We Are All Made of Molecules",
-  "author": "Susin Nielsen",
-  "approxRating": 4.06,
-  "ratingNote": "Goodreads rating with consistent long-term popularity.",
-  "reviewSummary": [
-    "Stewart and Ashley are forced into a blended family, clashing socially while quietly sharing grief and insecurity. Readers praise the alternating narration and humor, often noting how the comedy makes the emotional moments hit harder. Frequently described as funny, empathetic, and unexpectedly moving."
-  ],
-  "themes": ["blended families", "grief", "friendship", "humor"],
-  "ageNote": "11+; grief and mild language."
-},
-{
-  "rank": 10,
-  "isbn": "9780062491497",
-  "title": "For Black Girls Like Me",
-  "author": "Mariama J. Lockington",
-  "approxRating": 4.05,
-  "ratingNote": "Goodreads rating with strong resonance among target readers.",
-  "reviewSummary": [
-    "Told in verse, the novel follows a Black girl navigating predominantly white spaces, family instability, and self-worth. Readers praise the specificity and tenderness of the voice, often describing the book as deeply validating. Reviews highlight how the poetry captures loneliness and resilience."
-  ],
-  "themes": ["Black girlhood", "identity", "belonging"],
-  "ageNote": "11+; emotional stress."
-},
-{
-  "rank": 11,
-  "isbn": "9781338863420",
-  "title": "Solitaire",
-  "author": "Alice Oseman",
-  "approxRating": 3.95,
-  "ratingNote": "Goodreads rating with mixed but thoughtful engagement.",
-  "reviewSummary": [
-    "Centered on Tori Spring, the novel explores numbness, cynicism, and quiet depression beneath teenage life. Readers often describe it as darker and more introspective than Oseman’s later work. Many appreciate its raw honesty even when it feels uncomfortable."
-  ],
-  "themes": ["depression", "alienation", "identity"],
-  "ageNote": "14+; mental health themes."
-},
-{
-  "rank": 12,
-  "isbn": "9781492622468",
-  "title": "This Is Where It Ends",
-  "author": "Marieke Nijkamp",
-  "approxRating": 3.94,
-  "ratingNote": "Goodreads rating with sustained discussion use.",
-  "reviewSummary": [
-    "Told over the course of 54 minutes during a school shooting, the story shifts between multiple trapped students. Readers describe the pacing as relentless and emotionally draining by design. Reviews frequently note the power of perspective and moral complexity."
-  ],
-  "themes": ["school violence", "fear", "survival"],
-  "ageNote": "15+; gun violence and death."
-},
-{
-  "rank": 13,
-  "isbn": "9781324052821",
-  "title": "When We Ride",
-  "author": "Rex Ogle",
-  "approxRating": 3.93,
-  "ratingNote": "Goodreads rating with strong response to its verse format.",
-  "reviewSummary": [
-    "Three friends test loyalty and morality as drugs and violence escalate around them. Readers praise the urgency of the verse and the emotional immediacy. Many describe the book as tense, fast-moving, and difficult to put down."
-  ],
-  "themes": ["friendship", "violence", "choices"],
-  "ageNote": "15+; drugs and violence."
-},
-{
-  "rank": 14,
-  "isbn": "9781681445373",
-  "title": "Asking For It",
-  "author": "Louise O’Neill",
-  "approxRating": 3.90,
-  "ratingNote": "Goodreads rating with intense, polarized reactions.",
-  "reviewSummary": [
-    "After an assault becomes public through social media, Emma faces relentless judgment and victim-blaming. Readers describe the novel as brutal and unflinching, praising its refusal to offer comfort or easy answers. Often cited as emotionally exhausting but essential."
-  ],
-  "themes": ["sexual assault", "shame", "media"],
-  "ageNote": "16+; sexual violence."
 }
