@@ -742,7 +742,7 @@
 
     async function loadShelf(shelfId) {
       try {
-        const res = await fetch(`data/${shelfId}.json`);
+          const res = await fetch(`/data/${encodeURIComponent(shelfId)}.json`);
         if (!res.ok) {
           throw new Error("HTTP " + res.status);
         }
@@ -932,9 +932,10 @@
         yearEl.textContent = new Date().getFullYear();
       }
 
-      const shelfId = getShelfFromURL();
+      let shelfId = getShelfFromURL();
       if (shelfId) {
-        loadShelf(shelfId);
+          shelfId = decodeURIComponent(shelfId).trim();
+          loadShelf(shelfId);
       } else {
         updateShelfLabel("Scan a shelf tag to begin.");
       }
