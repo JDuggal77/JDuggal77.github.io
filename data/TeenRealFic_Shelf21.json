@@ -1,0 +1,385 @@
+{
+  "shelfId": "TeenRealFic_Shelf21",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 21",
+  "updated": "2026-01-18",
+  "books": [
+    {
+      "rank": 1,
+      "isbn": "9780062878267",
+      "title": "You Should See Me in a Crown",
+      "author": "Leah Johnson",
+      "approxRating": 4.10,
+      "ratingNote": "Goodreads average rating with very strong reader enthusiasm.",
+      "reviewSummary": [
+        "Readers consistently describe this as joyful, affirming, and genuinely funny, with praise for the confident celebration of Black queer joy. Many reviews highlight how the book balances lighthearted rom-com energy with real anxiety about money, belonging, and being visible. It’s often called a comfort read that still feels meaningful."
+      ],
+      "themes": ["self-confidence", "queer romance", "Black joy", "belonging"],
+      "ageNote": "13+; romance and mild language."
+    },
+    {
+      "rank": 2,
+      "isbn": "9780385755887",
+      "title": "All the Bright Places",
+      "author": "Jennifer Niven",
+      "approxRating": 4.05,
+      "ratingNote": "Goodreads average rating with an extremely large review base.",
+      "reviewSummary": [
+        "Readers frequently describe this book as emotionally intense and unforgettable, praising the way it portrays grief, depression, and first love. Many reviews note that it is both beautiful and painful, often sparking strong reactions and discussion. It is commonly described as a book that stays with you long after finishing."
+      ],
+      "themes": ["mental health", "grief", "first love", "healing"],
+      "ageNote": "14+; suicide themes and emotional distress."
+    },
+    {
+      "rank": 3,
+      "isbn": "9780803734968",
+      "title": "I'll Give You the Sun",
+      "author": "Jandy Nelson",
+      "approxRating": 4.13,
+      "ratingNote": "Goodreads average rating with long-term popularity.",
+      "reviewSummary": [
+        "Readers praise the lyrical writing and dual timeline structure, often highlighting the intense sibling bond and emotional honesty. Reviews frequently mention how vividly the characters’ inner lives are portrayed and how grief and creativity are intertwined. Many describe it as immersive, heartfelt, and emotionally rewarding."
+      ],
+      "themes": ["family", "grief", "art", "identity"],
+      "ageNote": "14+; emotional intensity and romance."
+    },
+    {
+      "rank": 4,
+      "isbn": "9780803734951",
+      "title": "The Sky Is Everywhere",
+      "author": "Jandy Nelson",
+      "approxRating": 3.98,
+      "ratingNote": "Goodreads average rating with strong emotional response.",
+      "reviewSummary": [
+        "Readers often describe this as a tender portrayal of grief and first love, praising the poetic tone and emotional vulnerability. Reviews highlight the way sorrow and joy coexist throughout the story. Many readers say it captures the confusion of mourning without simplifying it."
+      ],
+      "themes": ["grief", "love", "music", "healing"],
+      "ageNote": "13+; death of a sibling and emotional distress."
+    },
+    {
+      "rank": 5,
+      "isbn": "9780063374324",
+      "title": "Radio Silence",
+      "author": "Alice Oseman",
+      "approxRating": 4.07,
+      "ratingNote": "Goodreads average rating with heavy discussion use.",
+      "reviewSummary": [
+        "Readers praise the honest depiction of academic pressure, burnout, and identity confusion. Many reviews highlight how validating the book feels for teens who don’t fit traditional success paths. It is often described as quiet, deeply relatable, and emotionally grounding."
+      ],
+      "themes": ["identity", "burnout", "friendship", "mental health"],
+      "ageNote": "14+; depression, anxiety, and family conflict."
+    },
+    {
+      "rank": 6,
+      "isbn": "9781338885101",
+      "title": "Nick and Charlie",
+      "author": "Alice Oseman",
+      "approxRating": 4.02,
+      "ratingNote": "Goodreads average rating with strong fan readership.",
+      "reviewSummary": [
+        "Readers appreciate the honest look at maintaining a relationship through transition and distance. Reviews often mention the vulnerability of both characters and the realistic portrayal of communication struggles. Fans describe it as gentle but emotionally real."
+      ],
+      "themes": ["first love", "distance", "communication", "queer romance"],
+      "ageNote": "13+; relationship anxiety and mild sexual discussion."
+    },
+    {
+      "rank": 7,
+      "isbn": "9781338830934",
+      "title": "I Was Born for This",
+      "author": "Alice Oseman",
+      "approxRating": 4.00,
+      "ratingNote": "Goodreads average rating with strong fandom engagement.",
+      "reviewSummary": [
+        "Readers praise the exploration of fandom, fame, and identity from both the fan and performer perspectives. Many reviews highlight how the book addresses anxiety, parasocial relationships, and pressure without judgment. It is often described as insightful and emotionally layered."
+      ],
+      "themes": ["fandom", "identity", "anxiety", "belonging"],
+      "ageNote": "14+; mental health themes and mild language."
+    },
+    {
+      "rank": 8,
+      "isbn": "9781338863420",
+      "title": "Solitaire",
+      "author": "Alice Oseman",
+      "approxRating": 3.85,
+      "ratingNote": "Goodreads average rating with mixed but thoughtful response.",
+      "reviewSummary": [
+        "Readers often describe this as darker and more cynical than Oseman’s later work. Reviews highlight the raw portrayal of depression and isolation, noting that the protagonist can be difficult but realistic. Many readers appreciate its honesty even when it feels uncomfortable."
+      ],
+      "themes": ["depression", "isolation", "self-discovery"],
+      "ageNote": "15+; depression and emotional distress."
+    },
+    {
+      "rank": 9,
+      "isbn": "9781536228892",
+      "title": "Different for Boys",
+      "author": "Patrick Ness",
+      "approxRating": 4.01,
+      "ratingNote": "Goodreads average rating with strong critical response.",
+      "reviewSummary": [
+        "Readers praise the candid discussion of masculinity, sexuality, and consent, often highlighting the innovative redacted text style. Reviews describe it as uncomfortable but necessary, with a voice that feels direct and unfiltered. Many call it short but impactful."
+      ],
+      "themes": ["masculinity", "sexuality", "consent", "identity"],
+      "ageNote": "15+; sexual content and complex relationships."
+    },
+    {
+      "rank": 10,
+      "isbn": "9781492622468",
+      "title": "This Is Where It Ends",
+      "author": "Marieke Nijkamp",
+      "approxRating": 3.96,
+      "ratingNote": "Goodreads average rating with strong classroom discussion use.",
+      "reviewSummary": [
+        "Readers frequently describe this as intense and fast-paced, capturing fear and chaos through multiple perspectives. Reviews often praise the tight timeline and emotional immediacy. Many readers say it’s stressful but effective in sparking conversation."
+      ],
+      "themes": ["school violence", "survival", "community"],
+      "ageNote": "15+; gun violence and death."
+    }
+  ]
+}
+    ,
+    {
+      "rank": 11,
+      "isbn": "9781547605026",
+      "title": "Don't Hate the Player",
+      "author": "Alexis Nedd",
+      "approxRating": 3.85,
+      "ratingNote": "Goodreads ratings cluster in the high 3s with praise for gaming representation.",
+      "reviewSummary": [
+        "Readers enjoy the competitive esports angle and appreciate seeing gaming taken seriously rather than treated as a gimmick. Reviews often mention that the politics and friendship dynamics feel realistic, especially the tension between public image and private passion. Some note uneven pacing, but many still call it fun and validating for gamer teens."
+      ],
+      "themes": ["gaming", "competition", "friendship", "identity"],
+      "ageNote": "13+; mild language and school politics."
+    },
+    {
+      "rank": 12,
+      "isbn": "9780062486677",
+      "title": "The Authentics",
+      "author": "Abdi Nazemian",
+      "approxRating": 3.90,
+      "ratingNote": "Goodreads average rating with steady reader engagement.",
+      "reviewSummary": [
+        "Readers praise the Iranian-American representation and exploration of cultural identity within friend groups. Reviews often highlight the messy realism of friendship breakups and secrets, noting that the book feels grounded rather than melodramatic. Many describe it as thoughtful and quietly impactful."
+      ],
+      "themes": ["cultural identity", "friendship", "belonging", "secrets"],
+      "ageNote": "13+; family conflict and relationship tension."
+    },
+    {
+      "rank": 13,
+      "isbn": "9780385755924",
+      "title": "Holding Up the Universe",
+      "author": "Jennifer Niven",
+      "approxRating": 4.02,
+      "ratingNote": "Goodreads rating with large readership.",
+      "reviewSummary": [
+        "Readers frequently mention the emotional connection to both protagonists, praising the portrayal of grief, body image, and neurological difference. Reviews highlight how the romance develops through understanding rather than instant attraction. Often described as heartfelt and empathetic."
+      ],
+      "themes": ["grief", "body image", "neurodiversity", "love"],
+      "ageNote": "14+; emotional distress and bullying."
+    },
+    {
+      "rank": 14,
+      "isbn": "9781324052821",
+      "title": "When We Ride",
+      "author": "Rex Ogle",
+      "approxRating": 3.88,
+      "ratingNote": "Early Goodreads ratings trend positive.",
+      "reviewSummary": [
+        "Readers praise the novel-in-verse format and the raw exploration of loyalty, violence, and masculinity. Reviews often highlight how quickly the verse pulls you through intense moments. Many describe it as heavy but emotionally honest."
+      ],
+      "themes": ["friendship", "violence", "loyalty", "identity"],
+      "ageNote": "14+; violence and substance references."
+    },
+    {
+      "rank": 15,
+      "isbn": "9780063024991",
+      "title": "XOXO",
+      "author": "Axie Oh",
+      "approxRating": 3.97,
+      "ratingNote": "Goodreads average rating with strong romance readership.",
+      "reviewSummary": [
+        "Readers love the K-pop setting and forbidden romance, frequently describing it as escapist but sincere. Reviews praise the cultural detail and emotional stakes around ambition and secrecy. Often recommended for fans of contemporary romance with glamour."
+      ],
+      "themes": ["romance", "K-pop", "ambition", "identity"],
+      "ageNote": "13+; romance and mild language."
+    },
+    {
+      "rank": 16,
+      "isbn": "9781683692348",
+      "title": "Lycanthropy and Other Chronic Illnesses",
+      "author": "Kristen O'Neal",
+      "approxRating": 3.86,
+      "ratingNote": "Goodreads ratings emphasize representation.",
+      "reviewSummary": [
+        "Readers strongly appreciate the chronic-illness metaphor and supportive friendships. Reviews often mention how validating the depiction feels for people with invisible illnesses. Some note uneven plotting, but representation is consistently praised."
+      ],
+      "themes": ["chronic illness", "friendship", "acceptance"],
+      "ageNote": "13+; illness and emotional stress."
+    },
+    {
+      "rank": 17,
+      "isbn": "9781681445373",
+      "title": "Asking For It",
+      "author": "Louise O'Neill",
+      "approxRating": 3.80,
+      "ratingNote": "Goodreads ratings show polarized but intense reader response.",
+      "reviewSummary": [
+        "Readers describe this book as deeply uncomfortable but brutally honest in its depiction of rape culture and victim-blaming. Reviews frequently stress that it is not meant to be likable or comforting. Many call it disturbing but important."
+      ],
+      "themes": ["sexual assault", "rape culture", "public shaming"],
+      "ageNote": "16+; sexual assault and trauma."
+    },
+    {
+      "rank": 18,
+      "isbn": "9780593172599",
+      "title": "Like Home",
+      "author": "Louisa Onomé",
+      "approxRating": 3.92,
+      "ratingNote": "Goodreads ratings with strong community response.",
+      "reviewSummary": [
+        "Readers praise the sense of place and community grief, highlighting how gentrification and policing are portrayed through personal loss. Reviews often mention the emotional realism and complicated friendships. Many describe it as quietly powerful."
+      ],
+      "themes": ["community", "gentrification", "friendship", "loss"],
+      "ageNote": "14+; violence references and emotional distress."
+    },
+    {
+      "rank": 19,
+      "isbn": "9781643751917",
+      "title": "How You Grow Wings",
+      "author": "Rimma Onoseta",
+      "approxRating": 3.84,
+      "ratingNote": "Goodreads average with smaller but positive readership.",
+      "reviewSummary": [
+        "Readers highlight the tension between survival and morality, praising the sibling dynamic and emotional stakes. Reviews often mention the intensity and bleak realism. Some describe it as challenging but compelling."
+      ],
+      "themes": ["sibling bonds", "survival", "abuse"],
+      "ageNote": "15+; violence and exploitation."
+    },
+    {
+      "rank": 20,
+      "isbn": "9781335018267",
+      "title": "Out Now: Queer We Go Again!",
+      "author": "Saundra Mitchell (Editor)",
+      "approxRating": 4.05,
+      "ratingNote": "Goodreads ratings driven by anthology fans.",
+      "reviewSummary": [
+        "Readers praise the range of queer stories and genres, often highlighting how accessible and joyful the collection feels. Reviews note that while some stories resonate more than others, the overall representation is celebratory and affirming."
+      ],
+      "themes": ["queer identity", "short stories", "representation"],
+      "ageNote": "13+; varied content depending on story."
+    },
+    {
+      "rank": 21,
+      "isbn": "9781641293358",
+      "title": "What's Coming to Me",
+      "author": "Francesca Padilla",
+      "approxRating": 3.89,
+      "ratingNote": "Goodreads ratings trend positive with thriller readers.",
+      "reviewSummary": [
+        "Readers praise the mix of revenge plot and emotional depth, noting the anger and grief driving the story. Reviews often highlight the tense pacing and morally complicated choices. Many describe it as cathartic."
+      ],
+      "themes": ["revenge", "grief", "justice"],
+      "ageNote": "14+; violence and emotional distress."
+    },
+    {
+      "rank": 22,
+      "isbn": "9781534478862",
+      "title": "The Do-Over",
+      "author": "Lynn Painter",
+      "approxRating": 3.95,
+      "ratingNote": "Goodreads romance readership.",
+      "reviewSummary": [
+        "Readers describe this as fun, fast, and trope-savvy, enjoying the time-loop premise and banter. Reviews praise the humor more than the realism. Often called a light, bingeable read."
+      ],
+      "themes": ["rom-com", "time loop", "self-growth"],
+      "ageNote": "13+; romance and mild language."
+    }
+    {
+      "rank": 23,
+      "isbn": "9781338503265",
+      "title": "You Should See Me in a Crown",
+      "author": "Leah Johnson",
+      "approxRating": 4.07,
+      "ratingNote": "Goodreads average based on tens of thousands of votes as of 2026.",
+      "reviewSummary": [
+        "Liz Lighty is determined to leave her small prom-obsessed town for college, entering the prom king & queen race for scholarship money and unexpectedly finding a crush on a potential rival. Readers praise its joyful tone, queer Black representation, and heartfelt humor, noting that the friendship and found-family elements are just as compelling as the romance. Many reviewers describe it as an affirming celebration of identity, confidence, and community inclusion. Fans often call it both laugh-out-loud funny and emotionally satisfying."
+      ],
+      "themes": [
+        "queer romance",
+        "self-confidence",
+        "friendship",
+        "found family"
+      ],
+      "ageNote": "13+; explores identity, romance, and teen social dynamics."
+    },
+    {
+      "rank": 24,
+      "isbn": "9780803734951",
+      "title": "The Sky Is Everywhere",
+      "author": "Jandy Nelson",
+      "approxRating": 4.01,
+      "ratingNote": "Goodreads user average around 4.0, widely loved by YA readers.",
+      "reviewSummary": [
+        "Lennie Walker copes with the sudden death of her older sister while navigating first love and overwhelming grief. Many readers describe the lyrical, poetic writing and the raw emotional honesty as the heart of the experience, with Lennie’s voice capturing vulnerability and strength in equal measure. Critiques sometimes note that the dual romance can feel bittersweet, but the book’s portrayal of loss and healing is broadly praised for feeling authentic and affecting."
+      ],
+      "themes": [
+        "grief",
+        "love",
+        "family",
+        "music"
+      ],
+      "ageNote": "14+; themes of loss, mortality, and romantic tension."
+    },
+    {
+      "rank": 25,
+      "isbn": "9780063374324",
+      "title": "Radio Silence",
+      "author": "Alice Oseman",
+      "approxRating": 4.06,
+      "ratingNote": "Goodreads average ~4.06; praised for depth and voice.",
+      "reviewSummary": [
+        "Frances, a high-achieving student under pressure to excel academically, discovers a freeing friendship with Aled and begins to question her carefully controlled life. Reviewers highlight the novel’s nuanced approach to identity, creativity, and the tensions between self-expectation and authenticity. Many readers appreciate Oseman’s blend of introspection and humor, especially in portraying self-doubt, friendship, and the messy work of choosing who you want to be."
+      ],
+      "themes": [
+        "identity",
+        "friendship",
+        "self-discovery",
+        "pressure to succeed"
+      ],
+      "ageNote": "14+; explores mental health, academic pressure, and relationships."
+    },
+    {
+      "rank": 26,
+      "isbn": "9781338885101",
+      "title": "Nick and Charlie",
+      "author": "Alice Oseman",
+      "approxRating": 4.01,
+      "ratingNote": "Goodreads shows solid ratings as a novella extension of Heartstopper characters.",
+      "reviewSummary": [
+        "This novella focuses on Nick and Charlie from the Heartstopper universe, as they confront change and separation anxiety when Nick prepares to move away for university. Readers describe the story as tender, emotionally grounded, and a satisfying exploration of long-term partnership challenges. Many praise the chemistry and growth between the protagonists, celebrating both the central romance and the supporting cast’s loyalty."
+      ],
+      "themes": [
+        "queer romance",
+        "long-distance relationships",
+        "growth"
+      ],
+      "ageNote": "13+; romance and introspection with minimal conflict."
+    },
+    {
+      "rank": 27,
+      "isbn": "9780385755887",
+      "title": "All the Bright Places",
+      "author": "Jennifer Niven",
+      "approxRating": 4.11,
+      "ratingNote": "Goodreads ~4.11 with over half a million ratings.",
+      "reviewSummary": [
+        "The story of Violet and Finch, two teens discovering connection amid grief and mental health struggles, resonates deeply with readers who call it both heart-breaking and life-affirming. Reviews frequently highlight the authenticity of the protagonists’ voices, the thoughtful treatment of depression and trauma, and the novel’s ability to balance tenderness with painful realism. Many readers note that it stays with you long after finishing, a hallmark of impactful YA."
+      ],
+      "themes": [
+        "grief",
+        "mental health",
+        "connection",
+        "self-discovery"
+      ],
+      "ageNote": "14+; explores mental health and emotional loss."
+    }
+  ]
+}
