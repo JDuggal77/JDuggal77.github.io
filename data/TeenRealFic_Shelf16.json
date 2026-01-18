@@ -1,0 +1,266 @@
+{
+  "shelfId": "TeenRealFic_Shelf16",
+  "books": [
+    {
+      "rank": 1,
+      "title": "Like a Love Story",
+      "author": "Abdi Nazemian",
+      "isbn13": "9780062839374",
+      "rating": 4.4,
+      "description": "Set in 1989 NYC during the AIDS crisis, three teens navigate love, activism, fear, and identity in a deeply emotional, historically grounded queer coming-of-age story.",
+      "review": "Widely praised for its heart, urgency, and authentic portrayal of queer history."
+    },
+    {
+      "rank": 2,
+      "title": "Everything Sad Is Untrue (a True Story)",
+      "author": "Daniel Nayeri",
+      "isbn13": "9781646140008",
+      "rating": 4.4,
+      "description": "A refugee storyteller blends myth, memory, and humor to reclaim his narrative after fleeing Iran.",
+      "review": "Frequently cited as powerful, inventive, and unforgettable."
+    },
+    {
+      "rank": 3,
+      "title": "The Stars Beneath Our Feet",
+      "author": "David Barclay Moore",
+      "isbn13": "9781524701246",
+      "rating": 4.3,
+      "description": "A boy grieving his brother’s death finds purpose and safety through creativity and community in Harlem.",
+      "review": "Highly regarded for emotional depth and hopeful realism."
+    },
+    {
+      "rank": 4,
+      "title": "SLAY",
+      "author": "Brittney Morris",
+      "isbn13": "9781534445420",
+      "rating": 4.2,
+      "description": "A Black teen secretly creates an online game celebrating Black culture and must defend it when it goes viral.",
+      "review": "Celebrated for its originality, cultural commentary, and fast pacing."
+    },
+    {
+      "rank": 5,
+      "title": "A Darker Mischief",
+      "author": "Derek Milman",
+      "isbn13": "9781339009933",
+      "rating": 4.2,
+      "description": "A queer dark-academia thriller about privilege, secret societies, and the cost of belonging.",
+      "review": "Often compared to The Secret History with a sharper, modern edge."
+    },
+    {
+      "rank": 6,
+      "title": "Dear Haiti, Love Alaine",
+      "author": "Maika Moulite & Maritza Moulite",
+      "isbn13": "9781335777096",
+      "rating": 4.2,
+      "description": "A funny, heartfelt exploration of heritage, family secrets, and self-discovery set partly in Haiti.",
+      "review": "Readers love its voice, humor, and cultural depth."
+    },
+    {
+      "rank": 7,
+      "title": "All Out: The No-Longer-Secret Stories of Queer Teens",
+      "author": "Saundra Mitchell (editor)",
+      "isbn13": "9781335470454",
+      "rating": 4.1,
+      "description": "A historical fiction anthology spotlighting queer teens across time, cultures, and identities.",
+      "review": "Frequently praised for range, representation, and literary quality."
+    },
+    {
+      "rank": 8,
+      "title": "The Chandler Legacies",
+      "author": "Abdi Nazemian",
+      "isbn13": "9780063039322",
+      "rating": 4.1,
+      "description": "Five teens challenge abuse and silence at an elite boarding school through friendship and writing.",
+      "review": "Admired for its moral weight and ensemble storytelling."
+    },
+    {
+      "rank": 9,
+      "title": "Ramona Blue",
+      "author": "Julie Murphy",
+      "isbn13": "9780062418357",
+      "rating": 4.0,
+      "description": "A Southern teen navigates family responsibility, attraction, and fluid sexuality.",
+      "review": "Readers appreciate its honesty and emotional nuance."
+    },
+    {
+      "rank": 10,
+      "title": "Dumplin’",
+      "author": "Julie Murphy",
+      "isbn13": "9780062327185",
+      "rating": 4.0,
+      "description": "A body-positive, confidence-driven story about reclaiming self-worth in a beauty-pageant town.",
+      "review": "Beloved for its empowering message and charm."
+    },
+    {
+      "rank": 11,
+      "title": "Pumpkin",
+      "author": "Julie Murphy",
+      "isbn13": "9780062880451",
+      "rating": 4.0,
+      "description": "A flamboyant, joyful prom-court rebellion led by a fat, gay teen in West Texas.",
+      "review": "Celebrated for humor, inclusivity, and heart."
+    },
+    {
+      "rank": 12,
+      "title": "Puddin’",
+      "author": "Julie Murphy",
+      "isbn13": "9780062418388",
+      "rating": 3.9,
+      "description": "Two unlikely girls form a friendship that challenges popularity, body image, and expectations.",
+      "review": "Often noted as a strong companion to Dumplin’."
+    },
+    {
+      "rank": 13,
+      "title": "Beating Heart Baby",
+      "author": "Lio Min",
+      "isbn13": "9781250819093",
+      "rating": 3.9,
+      "description": "An indie-music-infused friends-to-lovers story about identity and second chances.",
+      "review": "Soft, emotional, and character-driven."
+    },
+    {
+      "rank": 14,
+      "title": "Gone, Gone, Gone",
+      "author": "Hannah Moskowitz",
+      "isbn13": "9781442453128",
+      "rating": 3.9,
+      "description": "A queer romance unfolding during the DC sniper shootings, blending fear and intimacy.",
+      "review": "Praised for atmosphere and emotional tension."
+    },
+    {
+      "rank": 15,
+      "title": "What Makes Us",
+      "author": "Rafi Mittlefehldt",
+      "isbn13": "9780763697501",
+      "rating": 3.9,
+      "description": "A teen activist confronts family history and public prejudice after a viral moment.",
+      "review": "Timely and conversation-starting."
+    },
+    {
+      "rank": 16,
+      "title": "Trigger",
+      "author": "C.G. Moore",
+      "isbn13": "9781915071538",
+      "rating": 3.9,
+      "description": "A verse novel exploring trauma, memory, and justice after sexual assault.",
+      "review": "Heavy but respected for its honesty."
+    },
+    {
+      "rank": 17,
+      "title": "Jump",
+      "author": "Brittney Morris",
+      "isbn13": "9781665903981",
+      "rating": 3.8,
+      "description": "Four teens join a dangerous contest to save their city from environmental collapse.",
+      "review": "Fast-paced with strong social themes."
+    },
+    {
+      "rank": 18,
+      "title": "Kill the Boy Band",
+      "author": "Goldy Moldavsky",
+      "isbn13": "9780545867474",
+      "rating": 3.8,
+      "description": "A darkly comedic satire of fandom obsession gone wrong.",
+      "review": "Divisive but memorable."
+    },
+    {
+      "rank": 19,
+      "title": "A Cuban Girl’s Guide to Tea and Tomorrow",
+      "author": "Laura Taylor Namey",
+      "isbn13": "9781534471245",
+      "rating": 3.8,
+      "description": "A Miami teen heals after heartbreak during an unexpected summer in England.",
+      "review": "Comfort-read vibes with cultural warmth."
+    },
+    {
+      "rank": 20,
+      "title": "When We Were Them",
+      "author": "Laura Taylor Namey",
+      "isbn13": "9781534471276",
+      "rating": 3.7,
+      "description": "A fractured friendship is revisited through memories and regret.",
+      "review": "Quietly emotional."
+    },
+    {
+      "rank": 21,
+      "title": "With Love, Echo Park",
+      "author": "Laura Taylor Namey",
+      "isbn13": "9781665915366",
+      "rating": 3.7,
+      "description": "Two teens clash over community change while confronting shared history.",
+      "review": "Thoughtful but understated."
+    },
+    {
+      "rank": 22,
+      "title": "Willa and the Whale",
+      "author": "Chad Morris & Shelly Brown",
+      "isbn13": "9781629727318",
+      "rating": 3.7,
+      "description": "A grieving girl discovers she can communicate with whales.",
+      "review": "Gentle and younger-leaning."
+    },
+    {
+      "rank": 23,
+      "title": "All That It Ever Meant",
+      "author": "Blessing Musariri",
+      "isbn13": "9781324030959",
+      "rating": 3.7,
+      "description": "A road trip haunted by grief, memory, and ancestral voices.",
+      "review": "Lyrical and unconventional."
+    },
+    {
+      "rank": 24,
+      "title": "Just Say Yes",
+      "author": "Goldy Moldavsky",
+      "isbn13": "9781250863249",
+      "rating": 3.6,
+      "description": "A chaotic party-driven spiral exploring consent and peer pressure.",
+      "review": "Fast but polarizing."
+    },
+    {
+      "rank": 25,
+      "title": "Just Until",
+      "author": "Joseph Moldover",
+      "isbn13": "9780823456192",
+      "rating": 3.6,
+      "description": "A teen must decide whether to give up her future to care for family.",
+      "review": "Emotionally heavy and realistic."
+    },
+    {
+      "rank": 26,
+      "title": "The Legend",
+      "author": "Jean Mills",
+      "isbn13": "9780889956407",
+      "rating": 3.6,
+      "description": "A hockey-centered coming-of-age story about injury, mentorship, and trust.",
+      "review": "Solid but quieter."
+    },
+    {
+      "rank": 27,
+      "title": "l8r, g8r",
+      "author": "Lauren Myracle",
+      "isbn13": "9780810912663",
+      "rating": 3.6,
+      "description": "Instant-message storytelling following friendship drama in senior year.",
+      "review": "Dated format but nostalgic."
+    },
+    {
+      "rank": 28,
+      "title": "ttyl",
+      "author": "Lauren Myracle",
+      "isbn13": "9780810948211",
+      "rating": 3.6,
+      "description": "Three teens navigate high school entirely through chat logs.",
+      "review": "Influential but early-2000s."
+    },
+    {
+      "rank": 29,
+      "title": "Thirty Talks Weird Love",
+      "author": "Alessandra Narváez Varela",
+      "isbn13": "9781947627482",
+      "rating": 3.6,
+      "description": "A verse novel about self-acceptance through conversations with a future self.",
+      "review": "Creative and introspective."
+    }
+  ]
+}
