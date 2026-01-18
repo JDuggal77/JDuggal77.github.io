@@ -1,0 +1,250 @@
+{
+  "shelfId": "TeenRealFic_Shelf23",
+  "shelfLabel": "Teen Realistic Fiction — Shelf 23",
+  "books": [
+    {
+      "rank": 1,
+      "title": "The Running Dream",
+      "author": "Wendelin Van Draanen",
+      "isbn13": "9780375866678",
+      "avgRating": 4.25,
+      "ratingSource": "Goodreads",
+      "summary": "A deeply emotional and inspirational novel following a competitive runner who loses her leg in an accident and must rebuild her sense of identity. Readers consistently praise the honest portrayal of disability, friendship, and resilience, with many calling it one of the most uplifting YA recovery stories. Frequently used in schools for its empathy-forward storytelling."
+    },
+    {
+      "rank": 2,
+      "title": "Be More Chill",
+      "author": "Ned Vizzini",
+      "isbn13": "9780786809967",
+      "avgRating": 3.95,
+      "ratingSource": "Goodreads",
+      "summary": "A cult-classic teen novel blending sci-fi satire with social anxiety, following a boy who swallows a supercomputer to become popular. Readers love its dark humor, fast pacing, and sharp commentary on conformity, especially fans of the musical adaptation."
+    },
+    {
+      "rank": 3,
+      "title": "The Other Side of Perfect",
+      "author": "Mariko Turk",
+      "isbn13": "9780316703406",
+      "avgRating": 4.05,
+      "ratingSource": "Goodreads",
+      "summary": "A lyrical coming-of-age story about a ballerina forced to redefine herself after a career-ending injury. Reviews highlight its exploration of perfectionism, racism in elite spaces, and healing through vulnerability and love."
+    },
+    {
+      "rank": 4,
+      "title": "Girls on the Verge",
+      "author": "Sharon Biggs Waller",
+      "isbn13": "9781250151698",
+      "avgRating": 4.10,
+      "ratingSource": "Goodreads",
+      "summary": "A powerful road-trip novel centered on reproductive rights and friendship. Readers praise its realism, emotional weight, and refusal to oversimplify difficult choices, often calling it essential contemporary YA."
+    },
+    {
+      "rank": 5,
+      "title": "Chronically Dolores",
+      "author": "Maya Van Wagenen",
+      "isbn13": "9780525426820",
+      "avgRating": 4.00,
+      "ratingSource": "Goodreads",
+      "summary": "A witty yet raw story about chronic illness, friendship, and betrayal. Frequently praised for its humor, flawed narrator, and rare representation of invisible illness in teen fiction."
+    },
+    {
+      "rank": 6,
+      "title": "Fire Color One",
+      "author": "Jenny Valentine",
+      "isbn13": "9780399546921",
+      "avgRating": 4.05,
+      "ratingSource": "Goodreads",
+      "summary": "A darkly funny and emotionally layered novel about family, art, and moral ambiguity. Reviewers consistently highlight its sharp prose and unforgettable protagonist."
+    },
+    {
+      "rank": 7,
+      "title": "Just Our Luck",
+      "author": "Julia Walton",
+      "isbn13": "9780399550928",
+      "avgRating": 3.90,
+      "ratingSource": "Goodreads",
+      "summary": "A charming, character-driven rom-com centered on anxiety, masculinity, and self-acceptance. Readers appreciate its warmth, humor, and subversion of traditional gender expectations."
+    },
+    {
+      "rank": 8,
+      "title": "And Other Mistakes",
+      "author": "Erika Turner",
+      "isbn13": "9781250834843",
+      "avgRating": 4.00,
+      "ratingSource": "Goodreads",
+      "summary": "A sharp debut about queerness, faith, and reclaiming your narrative. Frequently praised for its emotional honesty and layered exploration of public shaming and growth."
+    },
+    {
+      "rank": 9,
+      "title": "When We Make It",
+      "author": "Elisabet Velasquez",
+      "isbn13": "9780593324486",
+      "avgRating": 4.15,
+      "ratingSource": "Goodreads",
+      "summary": "A novel-in-verse exploring gentrification, trauma, and survival in Brooklyn. Readers consistently describe it as urgent, lyrical, and emotionally devastating."
+    },
+    {
+      "rank": 10,
+      "title": "How Moon Fuentez Fell in Love with the Universe",
+      "author": "Raquel Vasquez Gilliland",
+      "isbn13": "9781534448667",
+      "avgRating": 3.85,
+      "ratingSource": "Goodreads",
+      "summary": "A slow-burn romance about self-worth, body image, and finding joy beyond social media validation. Widely loved for its introspective tone and grumpy-sunshine dynamic."
+    },
+
+    {
+      "rank": 11,
+      "title": "Always the Almost",
+      "author": "Edward Underhill",
+      "isbn13": "9781250835208",
+      "avgRating": 3.90,
+      "ratingSource": "Goodreads",
+      "summary": "A tender trans coming-of-age story blending music, first love, and personal reinvention. Readers praise its authenticity and emotional sincerity."
+    },
+    {
+      "rank": 12,
+      "title": "Unbroken: 13 Stories Starring Disabled Teens",
+      "author": "Marieke Nijkamp (Editor)",
+      "isbn13": "9780374306502",
+      "avgRating": 4.00,
+      "ratingSource": "Goodreads",
+      "summary": "An important anthology written by disabled authors, celebrated for its range of genres and lived-in perspectives often missing from YA."
+    },
+    {
+      "rank": 13,
+      "title": "Beauty and the Besharam",
+      "author": "Lillie Vale",
+      "isbn13": "9780593350874",
+      "avgRating": 3.85,
+      "ratingSource": "Goodreads",
+      "summary": "A playful rom-com remix with sharp banter and cultural specificity. Readers enjoy its competitive energy and warm romance."
+    },
+    {
+      "rank": 14,
+      "title": "Up All Night",
+      "author": "Laura Silverman (Editor)",
+      "isbn13": "9781643750415",
+      "avgRating": 3.75,
+      "ratingSource": "Goodreads",
+      "summary": "A short-story collection exploring pivotal nighttime moments. Praised for its diversity of voices and emotional snapshots."
+    },
+    {
+      "rank": 15,
+      "title": "Spin Me Right Round",
+      "author": "David Valdes",
+      "isbn13": "9781547607105",
+      "avgRating": 3.80,
+      "ratingSource": "Goodreads",
+      "summary": "A time-travel queer rom-com with heart and humor. Readers enjoy its premise and earnest exploration of identity."
+    },
+    {
+      "rank": 16,
+      "title": "This Day Changes Everything",
+      "author": "Edward Underhill",
+      "isbn13": "9781250835222",
+      "avgRating": 3.70,
+      "ratingSource": "Goodreads",
+      "summary": "A lighthearted yet sincere YA romance centered on friendship and unexpected change."
+    },
+    {
+      "rank": 17,
+      "title": "Everything I Promised You",
+      "author": "Katy Upperman",
+      "isbn13": "9781464217784",
+      "avgRating": 3.65,
+      "ratingSource": "Goodreads",
+      "summary": "A romantic mystery-leaning contemporary with themes of grief and unfinished love."
+    },
+    {
+      "rank": 18,
+      "title": "These Bodies Between Us",
+      "author": "Sarah Van Name",
+      "isbn13": "9780593646175",
+      "avgRating": 3.60,
+      "ratingSource": "Goodreads",
+      "summary": "A tense contemporary novel exploring trauma, intimacy, and the body as a site of memory."
+    },
+    {
+      "rank": 19,
+      "title": "Fatima Tate Takes the Cake",
+      "author": "Khadijah VanBrakle",
+      "isbn13": "9780823454853",
+      "avgRating": 4.00,
+      "ratingSource": "Goodreads",
+      "summary": "A bold, necessary story confronting coercion, faith, and autonomy. Widely praised for its uncompromising honesty."
+    },
+    {
+      "rank": 20,
+      "title": "Lulu and Milagro's Search for Clarity",
+      "author": "Angela Velez",
+      "isbn13": "9780063071780",
+      "avgRating": 3.55,
+      "ratingSource": "Goodreads",
+      "summary": "A quiet, introspective exploration of grief and healing through friendship."
+    },
+    {
+      "rank": 21,
+      "title": "A Second Chance on Earth",
+      "author": "Juan Vidal",
+      "isbn13": "9780823457113",
+      "avgRating": 3.90,
+      "ratingSource": "Goodreads",
+      "summary": "A verse novel praised for its emotional depth and literary homage to Gabriel García Márquez."
+    },
+    {
+      "rank": 22,
+      "title": "Say a Little Prayer",
+      "author": "Jenna Voris",
+      "isbn13": "9780593692745",
+      "avgRating": 3.80,
+      "ratingSource": "Goodreads",
+      "summary": "A sharp, funny exploration of queerness and religious hypocrisy with a rebellious edge."
+    },
+    {
+      "rank": 23,
+      "title": "Secret Language of Prairie Dogs",
+      "author": "James Villanueva",
+      "isbn13": "9781957864471",
+      "avgRating": 3.70,
+      "ratingSource": "Goodreads",
+      "summary": "A lyrical border-crossing love story blending mysticism and healing."
+    },
+    {
+      "rank": 24,
+      "title": "Righteous",
+      "author": "Renée Ahdieh",
+      "isbn13": "9781984812612",
+      "avgRating": 3.65,
+      "ratingSource": "Goodreads",
+      "summary": "A fantasy-leaning sequel entry with gothic atmosphere and romantic intrigue."
+    },
+    {
+      "rank": 25,
+      "title": "Queer Girl Is Going to Be Okay",
+      "author": "Dale Walls",
+      "isbn13": "9781646142705",
+      "avgRating": 3.60,
+      "ratingSource": "Goodreads",
+      "summary": "A heartfelt contemporary focused on healing and self-acceptance."
+    },
+    {
+      "rank": 26,
+      "title": "While We're Young",
+      "author": "K L Walther",
+      "isbn13": "9780593813959",
+      "avgRating": 3.75,
+      "ratingSource": "Goodreads",
+      "summary": "A fast-paced senior skip-day romance filled with tangled friendships and secrets."
+    },
+    {
+      "rank": 27,
+      "title": "Seven Minutes in Candyland",
+      "author": "Brian Wasson",
+      "isbn13": "9780063264656",
+      "avgRating": 3.70,
+      "ratingSource": "Goodreads",
+      "summary": "A clever, candy-coated rom-com about love, ego, and emotional labor."
+    }
+  ]
+}
